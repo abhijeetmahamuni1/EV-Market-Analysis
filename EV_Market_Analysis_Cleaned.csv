@@ -1,0 +1,1201 @@
+Record_ID,Registration_Date,Manufacturer,Model,Vehicle_Category,City,State,Price_INR,Battery_Range_KM,Units_Sold,Charging_Type,Area_Type,Registration_Year,Registration_Month
+EV100000,2024-10-08,Tata,Punch EV,Electric Scooter,Delhi,Tamil Nadu,200075.0,91.0,15.0,Home,Rural,2024.0,10.0
+EV100001,2025-08-27,Tesla,Model 3,Electric Scooter,Ahmedabad,Maharashtra,97011.0,74.0,21.0,Home,Urban,2025.0,8.0
+EV100002,2024-07-22,Tata,Punch EV,Electric Scooter,Kolkata,Uttar Pradesh,250000.0,133.0,28.0,Fast Charging,Rural,2024.0,7.0
+EV100003,2025-12-15,Tata,Nexon EV,Electric Car,Ahmedabad,Telangana,2386927.0,297.0,11.0,Home,Semi-Urban,2025.0,12.0
+EV100004,2025-01-02,Tata,S1 Pro,Electric Car,Chennai,West Bengal,3456598.0,291.0,3.0,Home,Rural,2025.0,1.0
+EV100005,2024-03-21,MG,Comet EV,Electric Scooter,Kochi,Gujarat,231036.0,194.0,4.0,Public,Semi-Urban,2024.0,3.0
+EV100006,2025-11-08,MG,ZS EV,Electric Scooter,Delhi,Gujarat,106331.0,218.0,5.0,Home,Urban,2025.0,11.0
+EV100007,2024-06-15,Ather,Rizta,Electric Car,Chennai,Telangana,2335295.0,268.0,25.0,Fast Charging,Rural,2024.0,6.0
+EV100008,2025-06-30,MG,ZS EV,Electric Bike,Kolkata,Tamil Nadu,172199.0,108.0,18.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100009,2025-12-02,Tesla,Model 3,Electric Bike,Chennai,Maharashtra,167924.0,119.0,31.0,Home,Semi-Urban,2025.0,12.0
+EV100010,2026-07-24,MG,ZS EV,Electric Car,Jaipur,Telangana,2364659.0,269.0,49.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100011,2024-09-28,Ather,450X,Electric Bike,Nagpur,Tamil Nadu,173033.0,207.0,17.0,Public,Semi-Urban,2024.0,9.0
+EV100012,2025-01-05,Tata,S1 X,Electric Scooter,Delhi,Karnataka,231671.0,146.0,6.0,Home,Urban,2025.0,1.0
+EV100013,2024-06-12,Hyundai,Creta Electric,Electric Bike,Lucknow,Kerala,350000.0,181.0,35.0,Fast Charging,Semi-Urban,2024.0,6.0
+EV100014,2025-07-20,Ather,Rizta,Electric Scooter,Mumbai,Delhi,223069.0,172.0,19.0,Public,Semi-Urban,2025.0,7.0
+EV100015,2024-10-27,KIA,EV6,Electric Scooter,Ahmedabad,Karnataka,101604.0,138.0,4.0,Public,Rural,2024.0,10.0
+EV100016,2025-06-03,Tesla,Model 3,Electric Car,Mumbai,Gujarat,2519636.0,534.0,32.0,Public,Rural,2025.0,6.0
+EV100017,2025-07-06,KIA,EV6,Electric Car,Kochi,Maharashtra,1863867.0,432.0,18.0,Fast Charging,Urban,2025.0,7.0
+EV100018,2024-09-02,Tata,Carens EV,Electric Car,Mumbai,Tamil Nadu,2285962.0,549.0,25.0,Home,Urban,2024.0,9.0
+EV100019,2024-05-11,MG,ZS EV,Electric Scooter,Lucknow,Rajasthan,207914.0,212.0,30.0,Home,Semi-Urban,2024.0,5.0
+EV100020,2026-08-09,OLA,S1 Pro,Electric Scooter,Kochi,Tamil Nadu,109675.0,177.0,13.0,Fast Charging,Rural,2026.0,8.0
+EV100021,2024-05-03,Ather,Rizta,Electric Scooter,Delhi,Tamil Nadu,81166.0,80.0,33.0,Home,Rural,2024.0,5.0
+EV100022,2024-03-13,Mahindra,XUV400,Electric Scooter,Kolkata,Maharashtra,97253.0,104.0,6.0,Home,Semi-Urban,2024.0,3.0
+EV100023,2025-11-16,Mahindra,BE 6,Electric Car,Hyderabad,Tamil Nadu,4513441.0,406.0,21.0,Public,Rural,2025.0,11.0
+EV100024,2026-04-06,Mahindra,BE 6,Electric Scooter,Ahmedabad,Tamil Nadu,188276.0,84.0,10.0,Public,Semi-Urban,2026.0,4.0
+EV100025,2026-06-03,OLA,S1 X,Electric Car,Kolkata,Maharashtra,5500000.0,463.0,21.0,Public,Urban,2026.0,6.0
+EV100026,2024-09-11,KIA,EV6,Electric Car,Delhi,Tamil Nadu,953626.0,405.0,28.0,Home,Semi-Urban,2024.0,9.0
+EV100027,2026-06-14,Ather,450X,Electric Car,Pune,Rajasthan,1637162.0,388.0,32.0,Public,Urban,2026.0,6.0
+EV100028,2024-04-05,Tesla,Model 3,Electric Car,Delhi,Karnataka,2808216.0,351.0,21.0,Fast Charging,Urban,2024.0,4.0
+EV100029,2025-01-23,Tata,Nexon EV,Electric Bike,Mumbai,Kerala,154232.0,125.0,27.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100030,2024-06-07,Tesla,Model Y,Electric Car,Delhi,Gujarat,2154545.0,271.0,12.0,Home,Rural,2024.0,6.0
+EV100031,2024-11-17,Tata,Punch EV,Electric Scooter,Mumbai,Maharashtra,200502.0,158.0,34.0,Public,Rural,2024.0,11.0
+EV100032,2026-05-21,Tesla,Model 3,Electric Car,Nagpur,Delhi,2442470.0,430.0,24.0,Public,Urban,2026.0,5.0
+EV100033,2025-08-31,Mahindra,XEV 9e,Electric Car,Mumbai,West Bengal,5500000.0,214.0,19.0,Public,Rural,2025.0,8.0
+EV100034,2024-07-28,KIA,Carens EV,Electric Scooter,Lucknow,Telangana,116658.0,106.0,13.0,Fast Charging,Urban,2024.0,7.0
+EV100035,2024-11-19,BYD,Seal,Electric Scooter,Pune,Maharashtra,250000.0,139.0,14.0,Public,Urban,2024.0,11.0
+EV100036,2024-09-28,Mahindra,XEV 9e,Electric Car,Nagpur,Telangana,250000.0,550.0,14.0,Home,Semi-Urban,2024.0,9.0
+EV100037,2025-09-18,Ather,Rizta,Electric Car,Lucknow,Uttar Pradesh,2594567.0,183.0,14.0,Public,Semi-Urban,2025.0,9.0
+EV100038,2024-09-27,MG,ZS EV,Electric Bike,Pune,Delhi,204598.0,206.0,22.0,Home,Semi-Urban,2024.0,9.0
+EV100039,2024-12-17,Mahindra,XEV 9e,Electric Car,Delhi,Gujarat,2027952.0,392.0,39.0,Fast Charging,Urban,2024.0,12.0
+EV100040,2024-02-15,OLA,S1 X,Electric Car,Mumbai,Telangana,1307288.0,504.0,17.0,Public,Semi-Urban,2024.0,2.0
+EV100041,2025-07-28,Ather,Rizta,Electric Car,Mumbai,Delhi,3246113.0,212.0,12.0,Public,Urban,2025.0,7.0
+EV100042,2025-03-16,KIA,EV6,Electric Scooter,Nagpur,Maharashtra,146732.0,116.0,21.0,Home,Semi-Urban,2025.0,3.0
+EV100043,2024-04-15,Mahindra,XEV 9e,Electric Car,Mumbai,Uttar Pradesh,3612216.0,551.0,17.0,Fast Charging,Rural,2024.0,4.0
+EV100044,2026-03-30,Mahindra,XUV400,Electric Scooter,Nagpur,Kerala,250000.0,74.0,17.0,Public,Semi-Urban,2026.0,3.0
+EV100045,2024-09-30,OLA,S1 Pro,Electric Scooter,Nagpur,Delhi,111536.0,127.0,39.0,Home,Semi-Urban,2024.0,9.0
+EV100046,2024-11-08,Ather,Rizta,Electric Car,Delhi,Tamil Nadu,4036943.0,190.0,58.0,Home,Semi-Urban,2024.0,11.0
+EV100047,2024-12-25,MG,Comet EV,Electric Car,Lucknow,Uttar Pradesh,2482726.0,348.0,30.0,Public,Semi-Urban,2024.0,12.0
+EV100048,2024-07-01,MG,Comet EV,Electric Bike,Jaipur,Gujarat,230090.0,87.0,12.0,Public,Semi-Urban,2024.0,7.0
+EV100049,2025-09-12,KIA,Carens EV,Electric Car,Kochi,Delhi,3112782.0,342.0,13.0,Public,Urban,2025.0,9.0
+EV100050,2025-06-16,OLA,S1 Pro,Electric Car,Kochi,Tamil Nadu,1921998.0,333.0,23.0,Home,Rural,2025.0,6.0
+EV100051,2026-01-07,KIA,EV6,Electric Bike,Bengaluru,Uttar Pradesh,290869.0,133.0,15.0,Fast Charging,Semi-Urban,2026.0,1.0
+EV100052,2024-05-10,BYD,e6,Electric Car,Delhi,Kerala,2179157.0,459.0,13.0,Fast Charging,Rural,2024.0,5.0
+EV100053,2025-08-05,Hyundai,Creta Electric,Electric Scooter,Bengaluru,Kerala,136270.0,152.0,24.0,Home,Semi-Urban,2025.0,8.0
+EV100054,2025-04-21,OLA,S1 X,Electric Car,Hyderabad,Rajasthan,3434114.0,464.0,37.0,Public,Semi-Urban,2025.0,4.0
+EV100055,2024-03-27,Hyundai,Creta Electric,Electric Scooter,Bengaluru,Uttar Pradesh,138262.0,170.0,15.0,Public,Semi-Urban,2024.0,3.0
+EV100056,2024-11-13,Mahindra,XEV 9e,Electric Car,Delhi,Tamil Nadu,3484586.0,242.0,28.0,Home,Urban,2024.0,11.0
+EV100057,2025-02-28,MG,Comet EV,Electric Bike,Lucknow,West Bengal,350000.0,113.0,8.0,Public,Semi-Urban,2025.0,2.0
+EV100058,2025-11-02,Mahindra,XUV400,Electric Scooter,Kolkata,Maharashtra,179091.0,204.0,21.0,Home,Semi-Urban,2025.0,11.0
+EV100059,2024-02-21,Tesla,Model Y,Electric Car,Kochi,Tamil Nadu,3432304.0,565.0,29.0,Home,Semi-Urban,2024.0,2.0
+EV100060,2026-08-30,Ather,Rizta,Electric Car,Hyderabad,West Bengal,3537020.0,522.0,10.0,Public,Semi-Urban,2026.0,8.0
+EV100061,2026-07-07,Tesla,Model Y,Electric Scooter,Nagpur,Rajasthan,173096.0,138.0,6.0,Home,Rural,2026.0,7.0
+EV100062,2025-10-03,Tesla,Model Y,Electric Car,Delhi,Gujarat,1813603.0,365.0,26.0,Public,Semi-Urban,2025.0,10.0
+EV100063,2026-07-03,KIA,Carens EV,Electric Car,Kochi,Delhi,2210837.0,238.0,7.0,Home,Semi-Urban,2026.0,7.0
+EV100064,2025-02-28,Mahindra,XUV400,Electric Scooter,Ahmedabad,Telangana,246828.0,151.0,22.0,Fast Charging,Urban,2025.0,2.0
+EV100065,2026-07-15,OLA,S1 X,Electric Car,Jaipur,Maharashtra,2097956.0,540.0,19.0,Public,Semi-Urban,2026.0,7.0
+EV100066,2026-02-10,KIA,Carens EV,Electric Scooter,Ahmedabad,Kerala,107221.0,151.0,9.0,Public,Rural,2026.0,2.0
+EV100067,2024-08-12,Mahindra,BE 6,Electric Scooter,Bengaluru,Kerala,237597.0,143.0,14.0,Fast Charging,Semi-Urban,2024.0,8.0
+EV100068,2026-05-10,OLA,S1 Pro,Electric Scooter,Hyderabad,Karnataka,160938.0,217.0,40.0,Public,Urban,2026.0,5.0
+EV100069,2025-10-20,Tata,Nexon EV,Electric Bike,Ahmedabad,Karnataka,116832.0,227.0,16.0,Home,Urban,2025.0,10.0
+EV100070,2025-04-10,KIA,EV6,Electric Car,Chennai,Telangana,1914584.0,500.0,23.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100071,2026-05-04,OLA,S1 X,Electric Scooter,Pune,Rajasthan,151307.0,73.0,27.0,Public,Urban,2026.0,5.0
+EV100072,2025-10-27,Tata,EV6,Electric Bike,Pune,Maharashtra,150290.0,208.0,4.0,Home,Urban,2025.0,10.0
+EV100073,2024-05-09,Hyundai,Kona Electric,Electric Scooter,Hyderabad,Delhi,105472.0,155.0,11.0,Home,Semi-Urban,2024.0,5.0
+EV100074,2025-09-12,KIA,EV6,Electric Scooter,Jaipur,Delhi,172967.0,187.0,22.0,Home,Semi-Urban,2025.0,9.0
+EV100075,2025-08-12,Tata,Tiago EV,Electric Car,Lucknow,Kerala,3439517.0,347.0,9.0,Public,Urban,2025.0,8.0
+EV100076,2025-12-14,Mahindra,XUV400,Electric Car,Bengaluru,West Bengal,3182273.0,518.0,7.0,Public,Urban,2025.0,12.0
+EV100077,2024-03-11,OLA,S1 X,Electric Car,Kochi,Telangana,4590566.0,185.0,33.0,Fast Charging,Semi-Urban,2024.0,3.0
+EV100078,2025-12-25,KIA,Carens EV,Electric Car,Nagpur,Kerala,250000.0,254.0,8.0,Public,Rural,2025.0,12.0
+EV100079,2025-04-21,Tesla,Model Y,Electric Car,Ahmedabad,West Bengal,3555174.0,293.0,20.0,Home,Urban,2025.0,4.0
+EV100080,,Ather,450X,Electric Car,Hyderabad,West Bengal,3908577.0,436.0,38.0,Fast Charging,Semi-Urban,,
+EV100081,2025-05-14,KIA,EV6,Electric Car,Delhi,Telangana,4836025.0,515.0,13.0,Fast Charging,Semi-Urban,2025.0,5.0
+EV100082,2024-01-11,BYD,e6,Electric Bike,Kochi,Tamil Nadu,309563.0,95.0,19.0,Public,Semi-Urban,2024.0,1.0
+EV100083,2025-05-02,Mahindra,XEV 9e,Electric Scooter,Lucknow,Rajasthan,108853.0,137.0,61.0,Home,Urban,2025.0,5.0
+EV100084,2024-11-09,OLA,S1 Pro,Electric Car,Lucknow,Uttar Pradesh,1337942.0,335.0,12.0,Public,Rural,2024.0,11.0
+EV100085,2024-12-26,Tesla,Model Y,Electric Car,Kolkata,Rajasthan,3213920.0,294.0,12.0,Fast Charging,Urban,2024.0,12.0
+EV100086,2024-05-02,Mahindra,BE 6,Electric Car,Kolkata,Uttar Pradesh,5060320.0,579.0,42.0,Public,Urban,2024.0,5.0
+EV100087,2026-01-11,Ather,Rizta,Electric Car,Jaipur,Uttar Pradesh,3284617.0,431.0,10.0,Home,Urban,2026.0,1.0
+EV100088,2024-11-05,KIA,EV6,Electric Car,Mumbai,Uttar Pradesh,3417155.0,233.0,63.0,Home,Urban,2024.0,11.0
+EV100089,2026-06-08,Hyundai,Creta Electric,Electric Scooter,Hyderabad,Telangana,250000.0,201.0,2.0,Public,Semi-Urban,2026.0,6.0
+EV100090,2024-07-07,Ather,Rizta,Electric Scooter,Mumbai,Gujarat,174003.0,211.0,12.0,Fast Charging,Urban,2024.0,7.0
+EV100091,2024-03-16,OLA,S1 X,Electric Scooter,Jaipur,Maharashtra,75494.0,93.0,23.0,Public,Semi-Urban,2024.0,3.0
+EV100092,2025-07-25,Mahindra,XUV400,Electric Car,Ahmedabad,West Bengal,4576762.0,430.0,13.0,Public,Urban,2025.0,7.0
+EV100093,,OLA,S1 X,Electric Scooter,Hyderabad,Gujarat,138676.0,199.0,47.0,Fast Charging,Semi-Urban,,
+EV100094,2026-01-27,Tata,Punch EV,Electric Scooter,Pune,Tamil Nadu,191984.0,164.0,22.0,Fast Charging,Rural,2026.0,1.0
+EV100095,2025-07-19,Mahindra,XUV400,Electric Car,Pune,Karnataka,5500000.0,181.0,4.0,Fast Charging,Rural,2025.0,7.0
+EV100096,2024-08-25,BYD,Atto 3,Electric Scooter,Bengaluru,Gujarat,128672.0,175.0,14.0,Fast Charging,Urban,2024.0,8.0
+EV100097,2025-08-26,BYD,e6,Electric Scooter,Lucknow,Tamil Nadu,250000.0,134.0,1.0,Public,Urban,2025.0,8.0
+EV100098,2024-03-14,BYD,Atto 3,Electric Scooter,Mumbai,Karnataka,100907.0,189.0,2.0,Public,Rural,2024.0,3.0
+EV100099,2024-05-07,BYD,Seal,Electric Scooter,Hyderabad,Gujarat,89129.0,175.0,12.0,Fast Charging,Rural,2024.0,5.0
+EV100100,2025-09-04,Ather,450X,Electric Scooter,Mumbai,Kerala,169695.0,180.0,18.0,Public,Semi-Urban,2025.0,9.0
+EV100101,2026-05-06,Mahindra,XEV 9e,Electric Car,Jaipur,West Bengal,5500000.0,579.0,8.0,Public,Semi-Urban,2026.0,5.0
+EV100102,2025-06-15,Hyundai,Ioniq 5,Electric Scooter,Lucknow,Rajasthan,196983.0,207.0,15.0,Home,Rural,2025.0,6.0
+EV100103,2025-04-26,Ather,450X,Electric Car,Chennai,Kerala,3186125.0,320.0,18.0,Public,Urban,2025.0,4.0
+EV100104,2025-12-11,KIA,Carens EV,Electric Bike,Hyderabad,Gujarat,250000.0,193.0,11.0,Fast Charging,Rural,2025.0,12.0
+EV100105,2024-09-15,MG,Comet EV,Electric Car,Chennai,Delhi,5500000.0,587.0,15.0,Fast Charging,Rural,2024.0,9.0
+EV100106,2026-06-09,Tata,Punch EV,Electric Scooter,Bengaluru,Rajasthan,208495.0,132.0,12.0,Home,Rural,2026.0,6.0
+EV100107,2026-02-17,Ather,Rizta,Electric Car,Mumbai,Tamil Nadu,3403557.0,292.0,11.0,Home,Semi-Urban,2026.0,2.0
+EV100108,2024-01-30,Ather,450X,Electric Car,Lucknow,West Bengal,4543615.0,516.0,31.0,Public,Urban,2024.0,1.0
+EV100109,2025-02-21,Tata,Punch EV,Electric Car,Pune,Tamil Nadu,5500000.0,597.0,28.0,Home,Semi-Urban,2025.0,2.0
+EV100110,2026-08-13,Hyundai,Ioniq 5,Electric Bike,Kolkata,Gujarat,292060.0,167.0,24.0,Fast Charging,Semi-Urban,2026.0,8.0
+EV100111,2025-04-12,Ather,450X,Electric Scooter,Kochi,Karnataka,116235.0,128.0,17.0,Public,Rural,2025.0,4.0
+EV100112,2024-10-09,Hyundai,Kona Electric,Electric Scooter,Ahmedabad,Telangana,168674.0,210.0,10.0,Public,Semi-Urban,2024.0,10.0
+EV100113,2024-11-01,BYD,e6,Electric Scooter,Jaipur,West Bengal,250000.0,220.0,14.0,Fast Charging,Urban,2024.0,11.0
+EV100114,2024-12-06,Ather,Rizta,Electric Car,Kochi,Uttar Pradesh,5082746.0,338.0,12.0,Fast Charging,Urban,2024.0,12.0
+EV100115,2025-01-27,Mahindra,XEV 9e,Electric Bike,Delhi,Kerala,247486.0,87.0,37.0,Public,Semi-Urban,2025.0,1.0
+EV100116,2025-11-10,OLA,S1 X,Electric Scooter,Lucknow,Karnataka,161519.0,144.0,14.0,Home,Urban,2025.0,11.0
+EV100117,2026-06-14,Tata,EV6,Electric Scooter,Hyderabad,Delhi,234971.0,149.0,21.0,Fast Charging,Urban,2026.0,6.0
+EV100118,2024-03-17,OLA,S1 Pro,Electric Scooter,Hyderabad,Gujarat,150898.0,121.0,51.0,Public,Semi-Urban,2024.0,3.0
+EV100119,2024-11-20,KIA,Carens EV,Electric Scooter,Lucknow,Rajasthan,250000.0,201.0,7.0,Home,Rural,2024.0,11.0
+EV100120,2026-02-03,BYD,Atto 3,Electric Car,Pune,Kerala,1795021.0,591.0,28.0,Public,Rural,2026.0,2.0
+EV100121,2025-12-11,Ather,450X,Electric Bike,Bengaluru,Maharashtra,297020.0,88.0,17.0,Home,Semi-Urban,2025.0,12.0
+EV100122,2024-09-07,OLA,S1 Pro,Electric Car,Kochi,Kerala,2070184.0,418.0,47.0,Home,Urban,2024.0,9.0
+EV100123,2025-05-24,OLA,S1 Pro,Electric Car,Jaipur,Karnataka,4086262.0,278.0,38.0,Public,Semi-Urban,2025.0,5.0
+EV100124,2026-07-11,Tata,Tiago EV,Electric Scooter,Bengaluru,Uttar Pradesh,178646.0,94.0,12.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100125,2025-03-10,BYD,e6,Electric Bike,Kolkata,Gujarat,282937.0,158.0,29.0,Fast Charging,Urban,2025.0,3.0
+EV100126,2024-08-30,Ather,450X,Electric Bike,Ahmedabad,West Bengal,114662.0,141.0,5.0,Fast Charging,Rural,2024.0,8.0
+EV100127,2024-01-09,OLA,S1 X,Electric Car,Jaipur,Maharashtra,2299058.0,562.0,38.0,Public,Semi-Urban,2024.0,1.0
+EV100128,2025-09-13,BYD,Atto 3,Electric Scooter,Chennai,Tamil Nadu,184026.0,165.0,41.0,Public,Semi-Urban,2025.0,9.0
+EV100129,2024-04-09,Hyundai,Creta Electric,Electric Scooter,Lucknow,Maharashtra,139648.0,116.0,17.0,Fast Charging,Urban,2024.0,4.0
+EV100130,2026-07-20,Hyundai,Kona Electric,Electric Scooter,Bengaluru,Telangana,185007.0,182.0,9.0,Home,Urban,2026.0,7.0
+EV100131,2025-06-27,Tesla,Model Y,Electric Car,Kochi,Gujarat,3869444.0,529.0,18.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100132,2026-06-10,BYD,e6,Electric Bike,Chennai,Delhi,300122.0,160.0,13.0,Home,Urban,2026.0,6.0
+EV100133,2026-01-11,Mahindra,XEV 9e,Electric Scooter,Lucknow,Kerala,165094.0,215.0,31.0,Public,Semi-Urban,2026.0,1.0
+EV100134,2024-09-27,OLA,S1 Pro,Electric Car,Kochi,Delhi,3239297.0,371.0,9.0,Public,Rural,2024.0,9.0
+EV100135,2024-04-20,OLA,S1 X,Electric Scooter,Lucknow,Tamil Nadu,250000.0,141.0,22.0,Public,Rural,2024.0,4.0
+EV100136,2024-03-05,Mahindra,XEV 9e,Electric Car,Lucknow,Rajasthan,5500000.0,562.0,9.0,Fast Charging,Rural,2024.0,3.0
+EV100137,2026-08-26,Hyundai,Kona Electric,Electric Car,Mumbai,Gujarat,2949048.0,598.0,31.0,Home,Urban,2026.0,8.0
+EV100138,2025-02-01,Tesla,Model 3,Electric Car,Hyderabad,Telangana,2124480.0,462.0,18.0,Public,Rural,2025.0,2.0
+EV100139,2026-06-25,OLA,S1 Pro,Electric Bike,Ahmedabad,Delhi,350000.0,222.0,3.0,Public,Semi-Urban,2026.0,6.0
+EV100140,2025-12-07,BYD,Atto 3,Electric Bike,Chennai,Tamil Nadu,256574.0,155.0,50.0,Home,Semi-Urban,2025.0,12.0
+EV100141,2024-03-03,KIA,Carens EV,Electric Car,Ahmedabad,Gujarat,4008866.0,260.0,31.0,Home,Semi-Urban,2024.0,3.0
+EV100142,2025-10-16,Mahindra,XEV 9e,Electric Car,Jaipur,Maharashtra,1711375.0,201.0,49.0,Fast Charging,Urban,2025.0,10.0
+EV100143,2026-04-29,Mahindra,XUV400,Electric Bike,Kochi,Tamil Nadu,212831.0,180.0,14.0,Home,Semi-Urban,2026.0,4.0
+EV100144,2026-05-29,Tata,Tiago EV,Electric Scooter,Nagpur,Karnataka,74014.0,151.0,38.0,Home,Urban,2026.0,5.0
+EV100145,2024-01-16,Tata,Nexon EV,Electric Scooter,Chennai,Tamil Nadu,181129.0,158.0,20.0,Home,Urban,2024.0,1.0
+EV100146,2025-03-07,Hyundai,Creta Electric,Electric Car,Kochi,Delhi,1512720.0,493.0,11.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100147,2025-04-07,Tesla,Model 3,Electric Scooter,Kochi,Tamil Nadu,179809.0,212.0,21.0,Home,Rural,2025.0,4.0
+EV100148,2025-04-14,Tesla,Model Y,Electric Scooter,Lucknow,Maharashtra,160377.0,79.0,17.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100149,2025-12-30,MG,Comet EV,Electric Car,Hyderabad,Delhi,2692692.0,558.0,4.0,Fast Charging,Rural,2025.0,12.0
+EV100150,2025-10-01,Hyundai,Ioniq 5,Electric Car,Lucknow,West Bengal,3272437.0,410.0,24.0,Fast Charging,Semi-Urban,2025.0,10.0
+EV100151,2025-04-09,Tesla,Model Y,Electric Bike,Kochi,West Bengal,350000.0,153.0,42.0,Public,Urban,2025.0,4.0
+EV100152,2025-03-16,Tesla,Model 3,Electric Bike,Hyderabad,Tamil Nadu,255486.0,150.0,9.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100153,2025-03-13,MG,Comet EV,Electric Car,Chennai,Tamil Nadu,3264445.0,337.0,42.0,Home,Rural,2025.0,3.0
+EV100154,2026-05-01,MG,ZS EV,Electric Bike,Pune,Delhi,350000.0,153.0,47.0,Public,Rural,2026.0,5.0
+EV100155,2024-03-02,Hyundai,Creta Electric,Electric Car,Jaipur,Uttar Pradesh,1958599.0,416.0,14.0,Public,Urban,2024.0,3.0
+EV100156,2024-10-21,OLA,S1 Pro,Electric Car,Jaipur,Gujarat,4144662.0,328.0,38.0,Public,Rural,2024.0,10.0
+EV100157,2026-05-17,Ather,450X,Electric Car,Pune,Telangana,2550423.0,535.0,13.0,Fast Charging,Urban,2026.0,5.0
+EV100158,2026-05-15,Mahindra,BE 6,Electric Scooter,Kochi,West Bengal,250000.0,162.0,3.0,Public,Rural,2026.0,5.0
+EV100159,2024-07-03,BYD,Atto 3,Electric Car,Bengaluru,Gujarat,4618780.0,567.0,15.0,Fast Charging,Urban,2024.0,7.0
+EV100160,2025-11-04,Hyundai,Creta Electric,Electric Car,Ahmedabad,Delhi,5500000.0,240.0,18.0,Public,Urban,2025.0,11.0
+EV100161,2025-01-20,Tesla,Model 3,Electric Car,Ahmedabad,Rajasthan,4821564.0,323.0,21.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100162,2024-06-08,MG,ZS EV,Electric Scooter,Nagpur,West Bengal,74340.0,77.0,16.0,Home,Semi-Urban,2024.0,6.0
+EV100163,2025-09-13,OLA,S1 X,Electric Car,Hyderabad,Kerala,3091364.0,295.0,22.0,Public,Urban,2025.0,9.0
+EV100164,2025-11-25,MG,Comet EV,Electric Car,Lucknow,West Bengal,1723558.0,384.0,26.0,Public,Semi-Urban,2025.0,11.0
+EV100165,2024-01-08,OLA,S1 Pro,Electric Car,Delhi,Gujarat,1888605.0,577.0,23.0,Home,Semi-Urban,2024.0,1.0
+EV100166,2025-05-24,MG,ZS EV,Electric Car,Kolkata,Kerala,3013784.0,254.0,31.0,Fast Charging,Rural,2025.0,5.0
+EV100167,2024-03-14,Tesla,Model Y,Electric Scooter,Ahmedabad,Maharashtra,130864.0,135.0,12.0,Fast Charging,Urban,2024.0,3.0
+EV100168,2025-12-27,OLA,S1 X,Electric Bike,Lucknow,Kerala,173297.0,129.0,9.0,Fast Charging,Urban,2025.0,12.0
+EV100169,2025-04-16,Hyundai,Creta Electric,Electric Bike,Kolkata,Telangana,115386.0,95.0,15.0,Home,Urban,2025.0,4.0
+EV100170,2025-02-09,OLA,S1 Pro,Electric Car,Bengaluru,Telangana,5500000.0,273.0,17.0,Home,Urban,2025.0,2.0
+EV100171,2026-07-16,MG,ZS EV,Electric Scooter,Chennai,Telangana,201691.0,179.0,35.0,Public,Urban,2026.0,7.0
+EV100172,2024-07-21,Hyundai,Ioniq 5,Electric Car,Nagpur,West Bengal,2947196.0,244.0,14.0,Public,Urban,2024.0,7.0
+EV100173,2026-02-11,MG,Rizta,Electric Car,Jaipur,West Bengal,2225577.0,369.0,25.0,Public,Rural,2026.0,2.0
+EV100174,2024-06-03,KIA,Carens EV,Electric Scooter,Hyderabad,Delhi,141372.0,140.0,1.0,Public,Semi-Urban,2024.0,6.0
+EV100175,2025-06-03,Tata,Tiago EV,Electric Scooter,Pune,Gujarat,120691.0,139.0,2.0,Home,Urban,2025.0,6.0
+EV100176,2025-10-22,BYD,Atto 3,Electric Car,Pune,West Bengal,4018275.0,430.0,21.0,Fast Charging,Semi-Urban,2025.0,10.0
+EV100177,2026-07-19,Tata,Tiago EV,Electric Scooter,Jaipur,Tamil Nadu,103301.0,118.0,18.0,Fast Charging,Rural,2026.0,7.0
+EV100178,2024-04-15,Tata,Tiago EV,Electric Car,Chennai,Tamil Nadu,1504561.0,392.0,19.0,Home,Urban,2024.0,4.0
+EV100179,2025-06-20,Ather,Rizta,Electric Car,Kochi,West Bengal,2849931.0,247.0,16.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100180,2026-03-19,KIA,EV6,Electric Car,Lucknow,Telangana,2317396.0,208.0,7.0,Home,Rural,2026.0,3.0
+EV100181,2026-01-11,BYD,Seal,Electric Scooter,Lucknow,West Bengal,176509.0,201.0,30.0,Fast Charging,Urban,2026.0,1.0
+EV100182,2024-11-13,Hyundai,Ioniq 5,Electric Scooter,Lucknow,Kerala,159426.0,89.0,41.0,Public,Urban,2024.0,11.0
+EV100183,2026-04-12,OLA,S1 X,Electric Car,Nagpur,Uttar Pradesh,5500000.0,219.0,32.0,Public,Semi-Urban,2026.0,4.0
+EV100184,2024-11-12,Tata,Tiago EV,Electric Scooter,Nagpur,Tamil Nadu,100324.0,121.0,15.0,Fast Charging,Urban,2024.0,11.0
+EV100185,2024-03-20,Hyundai,Kona Electric,Electric Car,Bengaluru,Delhi,5500000.0,393.0,6.0,Public,Rural,2024.0,3.0
+EV100186,2024-12-10,Tata,Punch EV,Electric Bike,Jaipur,Karnataka,215476.5,182.0,24.0,Home,Urban,2024.0,12.0
+EV100187,2025-03-24,Hyundai,Creta Electric,Electric Car,Mumbai,Kerala,2522505.0,333.0,10.0,Public,Urban,2025.0,3.0
+EV100188,2026-03-13,BYD,e6,Electric Bike,Hyderabad,Tamil Nadu,168519.0,171.0,9.0,Fast Charging,Semi-Urban,2026.0,3.0
+EV100189,2025-11-25,Mahindra,BE 6,Electric Bike,Jaipur,Rajasthan,90000.0,158.0,26.0,Fast Charging,Semi-Urban,2025.0,11.0
+EV100190,2026-04-16,OLA,S1 Pro,Electric Scooter,Delhi,West Bengal,143688.0,91.0,8.0,Fast Charging,Urban,2026.0,4.0
+EV100191,2025-12-29,KIA,EV6,Electric Scooter,Kochi,Delhi,178033.0,113.0,20.0,Home,Semi-Urban,2025.0,12.0
+EV100192,2026-04-30,Tesla,Model 3,Electric Car,Ahmedabad,Delhi,3883803.0,577.0,8.0,Home,Semi-Urban,2026.0,4.0
+EV100193,2024-02-24,Tata,Tiago EV,Electric Bike,Ahmedabad,Uttar Pradesh,350000.0,144.0,44.0,Fast Charging,Urban,2024.0,2.0
+EV100194,2026-08-11,Tata,Tiago EV,Electric Car,Pune,Telangana,2300718.0,512.0,24.0,Home,Urban,2026.0,8.0
+EV100195,2026-02-16,Ather,450X,Electric Car,Kolkata,Rajasthan,3515890.0,368.0,1.0,Home,Urban,2026.0,2.0
+EV100196,2025-07-15,Mahindra,XUV400,Electric Car,Kolkata,West Bengal,3484335.0,402.0,8.0,Home,Semi-Urban,2025.0,7.0
+EV100197,2024-09-01,MG,ZS EV,Electric Car,Ahmedabad,West Bengal,1856677.0,372.0,20.0,Home,Semi-Urban,2024.0,9.0
+EV100198,2025-06-11,Tata,Punch EV,Electric Scooter,Jaipur,Tamil Nadu,119324.0,141.0,17.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100199,2025-08-07,KIA,EV6,Electric Car,Ahmedabad,Karnataka,2364380.0,459.0,27.0,Home,Rural,2025.0,8.0
+EV100200,2025-02-03,MG,ZS EV,Electric Bike,Hyderabad,Maharashtra,279231.0,188.0,40.0,Fast Charging,Semi-Urban,2025.0,2.0
+EV100201,2024-12-19,KIA,EV6,Electric Scooter,Delhi,Delhi,72136.0,186.0,7.0,Public,Semi-Urban,2024.0,12.0
+EV100202,2026-04-13,KIA,Carens EV,Electric Car,Lucknow,Uttar Pradesh,3663495.0,529.0,11.0,Public,Semi-Urban,2026.0,4.0
+EV100203,2026-04-10,Ather,450X,Electric Bike,Nagpur,Delhi,274032.0,202.0,43.0,Fast Charging,Urban,2026.0,4.0
+EV100204,2026-06-26,Tata,Nexon EV,Electric Car,Mumbai,Telangana,3608612.0,572.0,12.0,Public,Semi-Urban,2026.0,6.0
+EV100205,2024-09-16,Tesla,Model Y,Electric Bike,Mumbai,Tamil Nadu,190625.0,129.0,13.0,Home,Rural,2024.0,9.0
+EV100206,2025-03-23,MG,Comet EV,Electric Car,Ahmedabad,Rajasthan,3531775.0,388.0,55.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100207,2025-01-11,Tata,Rizta,Electric Bike,Kochi,Gujarat,194812.0,216.0,31.0,Public,Semi-Urban,2025.0,1.0
+EV100208,2024-10-27,Hyundai,Creta Electric,Electric Car,Chennai,Delhi,1238927.0,214.0,7.0,Public,Semi-Urban,2024.0,10.0
+EV100209,2025-12-07,OLA,S1 Pro,Electric Car,Hyderabad,Telangana,4975963.0,368.0,9.0,Public,Semi-Urban,2025.0,12.0
+EV100210,2025-10-16,OLA,S1 X,Electric Scooter,Mumbai,Delhi,185358.0,171.0,14.0,Fast Charging,Semi-Urban,2025.0,10.0
+EV100211,2024-05-26,Hyundai,Kona Electric,Electric Scooter,Jaipur,Rajasthan,239070.0,75.0,18.0,Home,Urban,2024.0,5.0
+EV100212,2025-01-27,KIA,Carens EV,Electric Scooter,Jaipur,Maharashtra,82253.0,161.0,34.0,Public,Semi-Urban,2025.0,1.0
+EV100213,2026-02-20,KIA,Carens EV,Electric Bike,Pune,West Bengal,276676.0,103.0,36.0,Fast Charging,Semi-Urban,2026.0,2.0
+EV100214,2024-04-26,BYD,Atto 3,Electric Car,Mumbai,Karnataka,3364374.0,390.0,20.0,Fast Charging,Rural,2024.0,4.0
+EV100215,2025-04-01,BYD,e6,Electric Car,Delhi,West Bengal,1897005.0,300.0,9.0,Fast Charging,Urban,2025.0,4.0
+EV100216,2024-06-25,MG,Comet EV,Electric Car,Kolkata,Rajasthan,3201459.0,599.0,12.0,Public,Semi-Urban,2024.0,6.0
+EV100217,2026-07-01,MG,Comet EV,Electric Scooter,Bengaluru,Karnataka,136836.0,177.0,29.0,Public,Rural,2026.0,7.0
+EV100218,2024-05-04,KIA,EV6,Electric Car,Delhi,Karnataka,2745486.0,279.0,8.0,Fast Charging,Urban,2024.0,5.0
+EV100219,2026-04-02,Tata,Carens EV,Electric Car,Kochi,Karnataka,2557598.0,437.0,11.0,Home,Urban,2026.0,4.0
+EV100220,2026-02-26,Ather,Rizta,Electric Car,Pune,West Bengal,4584700.0,211.0,38.0,Fast Charging,Rural,2026.0,2.0
+EV100221,2024-05-11,Ather,Rizta,Electric Car,Kochi,West Bengal,1487213.0,256.0,20.0,Home,Semi-Urban,2024.0,5.0
+EV100222,2025-06-14,Tata,Nexon EV,Electric Scooter,Nagpur,Gujarat,71862.0,95.0,41.0,Fast Charging,Rural,2025.0,6.0
+EV100223,2026-05-16,Tesla,Model Y,Electric Car,Pune,Gujarat,3362352.0,262.0,70.0,Public,Semi-Urban,2026.0,5.0
+EV100224,2025-06-30,BYD,e6,Electric Car,Mumbai,Uttar Pradesh,3256424.0,449.0,27.0,Public,Rural,2025.0,6.0
+EV100225,2026-04-25,KIA,EV6,Electric Car,Mumbai,Delhi,3417774.0,199.0,23.0,Public,Rural,2026.0,4.0
+EV100226,2025-03-02,Mahindra,XEV 9e,Electric Car,Jaipur,Maharashtra,5500000.0,389.0,38.0,Public,Rural,2025.0,3.0
+EV100227,2024-09-07,BYD,Seal,Electric Car,Lucknow,Kerala,3367429.0,305.0,18.0,Home,Rural,2024.0,9.0
+EV100228,2025-05-10,Ather,Rizta,Electric Car,Hyderabad,Tamil Nadu,1985915.0,388.0,15.0,Home,Semi-Urban,2025.0,5.0
+EV100229,2025-02-12,KIA,Carens EV,Electric Bike,Nagpur,Telangana,350000.0,168.0,24.0,Home,Semi-Urban,2025.0,2.0
+EV100230,2025-04-05,MG,Comet EV,Electric Car,Delhi,Karnataka,2887232.0,221.0,12.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100231,2026-06-05,OLA,S1 Pro,Electric Bike,Nagpur,Telangana,322834.0,239.0,6.0,Public,Semi-Urban,2026.0,6.0
+EV100232,2025-06-11,Hyundai,Ioniq 5,Electric Car,Hyderabad,Rajasthan,1730857.0,549.0,4.0,Fast Charging,Urban,2025.0,6.0
+EV100233,2024-09-03,OLA,S1 X,Electric Car,Delhi,West Bengal,2756801.0,328.0,14.0,Home,Semi-Urban,2024.0,9.0
+EV100234,2025-07-03,Ather,Rizta,Electric Scooter,Mumbai,Delhi,141521.0,135.0,28.0,Fast Charging,Rural,2025.0,7.0
+EV100235,2024-02-16,OLA,S1 X,Electric Car,Ahmedabad,Maharashtra,2888264.0,420.0,49.0,Home,Semi-Urban,2024.0,2.0
+EV100236,2025-05-31,MG,Comet EV,Electric Scooter,Hyderabad,Uttar Pradesh,250000.0,112.0,7.0,Public,Rural,2025.0,5.0
+EV100237,2025-02-07,Hyundai,Kona Electric,Electric Scooter,Chennai,Telangana,201880.0,154.0,14.0,Fast Charging,Urban,2025.0,2.0
+EV100238,2025-05-27,Tesla,Model Y,Electric Car,Mumbai,Maharashtra,1884128.0,196.0,17.0,Public,Semi-Urban,2025.0,5.0
+EV100239,2024-06-01,Tesla,Model Y,Electric Scooter,Jaipur,Uttar Pradesh,171809.0,91.0,17.0,Public,Semi-Urban,2024.0,6.0
+EV100240,2024-12-10,BYD,e6,Electric Car,Kochi,Uttar Pradesh,3066527.0,404.0,18.0,Public,Rural,2024.0,12.0
+EV100241,2024-12-05,Tata,Tiago EV,Electric Car,Lucknow,Delhi,3323999.0,592.0,16.0,Public,Semi-Urban,2024.0,12.0
+EV100242,2025-04-30,Tata,Punch EV,Electric Scooter,Bengaluru,West Bengal,125290.0,157.0,39.0,Public,Urban,2025.0,4.0
+EV100243,,Hyundai,Creta Electric,Electric Scooter,Pune,West Bengal,70000.0,186.0,36.0,Fast Charging,Urban,,
+EV100244,2025-08-09,Mahindra,XUV400,Electric Scooter,Kolkata,Delhi,70000.0,99.0,20.0,Fast Charging,Semi-Urban,2025.0,8.0
+EV100245,2025-02-24,OLA,S1 Pro,Electric Car,Kochi,West Bengal,2764148.0,567.0,5.0,Public,Rural,2025.0,2.0
+EV100246,2024-07-31,Hyundai,Creta Electric,Electric Car,Kochi,Kerala,1238927.0,599.0,13.0,Fast Charging,Rural,2024.0,7.0
+EV100247,2026-07-23,Hyundai,Ioniq 5,Electric Car,Kochi,Telangana,3004426.0,409.0,30.0,Public,Rural,2026.0,7.0
+EV100248,2025-05-10,BYD,e6,Electric Scooter,Delhi,Tamil Nadu,250000.0,112.0,10.0,Fast Charging,Urban,2025.0,5.0
+EV100249,2025-12-22,BYD,Seal,Electric Bike,Delhi,Rajasthan,158520.0,134.0,11.0,Fast Charging,Rural,2025.0,12.0
+EV100250,2024-05-04,BYD,Seal,Electric Bike,Jaipur,Uttar Pradesh,274196.0,145.0,13.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV100251,2024-02-13,Hyundai,Ioniq 5,Electric Bike,Bengaluru,Delhi,198438.0,139.0,27.0,Fast Charging,Rural,2024.0,2.0
+EV100252,2024-07-25,Ather,450X,Electric Car,Kochi,Gujarat,3786039.0,572.0,44.0,Public,Semi-Urban,2024.0,7.0
+EV100253,2024-02-21,MG,XUV400,Electric Car,Lucknow,Uttar Pradesh,1970351.0,275.0,25.0,Home,Urban,2024.0,2.0
+EV100254,2024-04-12,KIA,Carens EV,Electric Car,Lucknow,Karnataka,2696908.0,182.0,4.0,Public,Urban,2024.0,4.0
+EV100255,2025-10-28,Ather,Rizta,Electric Car,Delhi,Gujarat,5500000.0,315.0,11.0,Public,Urban,2025.0,10.0
+EV100256,2025-07-01,MG,ZS EV,Electric Bike,Kolkata,Maharashtra,350000.0,235.0,37.0,Home,Semi-Urban,2025.0,7.0
+EV100257,2026-05-06,Hyundai,Kona Electric,Electric Bike,Ahmedabad,Rajasthan,99955.0,112.0,6.0,Public,Semi-Urban,2026.0,5.0
+EV100258,2025-08-04,Tata,Tiago EV,Electric Bike,Pune,Delhi,350000.0,238.0,11.0,Fast Charging,Semi-Urban,2025.0,8.0
+EV100259,2026-06-29,Tesla,Model Y,Electric Scooter,Nagpur,Uttar Pradesh,247768.0,140.0,16.0,Home,Urban,2026.0,6.0
+EV100260,2026-01-05,Ather,Rizta,Electric Car,Pune,Maharashtra,2632085.0,489.0,16.0,Fast Charging,Rural,2026.0,1.0
+EV100261,2025-09-17,Mahindra,XUV400,Electric Scooter,Lucknow,Kerala,250000.0,194.0,17.0,Public,Semi-Urban,2025.0,9.0
+EV100262,2024-05-23,MG,ZS EV,Electric Car,Hyderabad,Telangana,3347760.0,573.0,15.0,Home,Semi-Urban,2024.0,5.0
+EV100263,2024-12-03,Ather,Rizta,Electric Car,Bengaluru,West Bengal,1736029.0,484.0,18.0,Home,Semi-Urban,2024.0,12.0
+EV100264,2025-11-14,Mahindra,XUV400,Electric Scooter,Pune,Rajasthan,174740.0,116.0,17.0,Fast Charging,Rural,2025.0,11.0
+EV100265,2024-04-30,BYD,e6,Electric Scooter,Lucknow,Gujarat,250000.0,125.0,27.0,Home,Urban,2024.0,4.0
+EV100266,2025-04-10,Ather,450X,Electric Bike,Kolkata,West Bengal,246864.0,168.0,31.0,Public,Rural,2025.0,4.0
+EV100267,2026-02-19,Tesla,Model 3,Electric Bike,Delhi,Delhi,140041.0,228.0,24.0,Home,Rural,2026.0,2.0
+EV100268,2026-07-28,KIA,EV6,Electric Car,Jaipur,Delhi,1353926.0,206.0,6.0,Public,Rural,2026.0,7.0
+EV100269,2024-06-17,Tesla,Model 3,Electric Car,Mumbai,Uttar Pradesh,2650627.0,366.0,19.0,Public,Urban,2024.0,6.0
+EV100270,2026-07-09,Ather,450X,Electric Scooter,Kochi,Rajasthan,274032.0,191.0,5.0,Fast Charging,Urban,2026.0,7.0
+EV100271,2025-07-26,Ather,450X,Electric Scooter,Hyderabad,Gujarat,250000.0,178.0,8.0,Fast Charging,Semi-Urban,2025.0,7.0
+EV100272,,Mahindra,XEV 9e,Electric Scooter,Mumbai,Kerala,104370.0,122.0,70.0,Home,Rural,,
+EV100273,2024-02-02,MG,Comet EV,Electric Bike,Bengaluru,Kerala,229642.0,111.0,19.0,Home,Rural,2024.0,2.0
+EV100274,2026-07-01,OLA,S1 X,Electric Bike,Ahmedabad,Rajasthan,169794.0,228.0,18.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100275,2025-10-31,Tesla,Model 3,Electric Car,Chennai,Delhi,1449329.0,255.0,31.0,Public,Semi-Urban,2025.0,10.0
+EV100276,2026-02-13,Mahindra,XUV400,Electric Scooter,Mumbai,Gujarat,157500.0,139.0,47.0,Public,Rural,2026.0,2.0
+EV100277,2024-09-10,OLA,S1 Pro,Electric Car,Hyderabad,Telangana,1537755.0,245.0,13.0,Home,Rural,2024.0,9.0
+EV100278,2025-03-05,Tata,Punch EV,Electric Scooter,Jaipur,Maharashtra,212673.0,106.0,31.0,Home,Urban,2025.0,3.0
+EV100279,2024-09-07,Ather,450X,Electric Scooter,Kolkata,Maharashtra,72376.0,130.0,34.0,Home,Rural,2024.0,9.0
+EV100280,2025-05-30,Tata,Nexon EV,Electric Car,Bengaluru,Tamil Nadu,2997885.0,523.0,25.0,Public,Rural,2025.0,5.0
+EV100281,2024-11-05,KIA,EV6,Electric Car,Nagpur,Uttar Pradesh,5005103.0,273.0,18.0,Fast Charging,Semi-Urban,2024.0,11.0
+EV100282,2025-11-26,Hyundai,Creta Electric,Electric Car,Ahmedabad,Uttar Pradesh,3988071.0,388.0,33.0,Fast Charging,Rural,2025.0,11.0
+EV100283,2025-12-14,Tesla,Model Y,Electric Scooter,Ahmedabad,Kerala,130449.0,92.0,25.0,Fast Charging,Urban,2025.0,12.0
+EV100284,2026-05-19,Ather,450X,Electric Scooter,Delhi,Gujarat,194124.0,199.0,19.0,Home,Semi-Urban,2026.0,5.0
+EV100285,2025-03-02,Tesla,Model Y,Electric Bike,Kochi,Uttar Pradesh,317966.0,103.0,18.0,Home,Semi-Urban,2025.0,3.0
+EV100286,2026-05-17,MG,Comet EV,Electric Car,Chennai,Delhi,1905847.0,405.0,32.0,Home,Urban,2026.0,5.0
+EV100287,2024-07-11,Tata,Nexon EV,Electric Car,Jaipur,Uttar Pradesh,5152506.0,271.0,16.0,Home,Semi-Urban,2024.0,7.0
+EV100288,2026-08-17,Tata,Nexon EV,Electric Car,Delhi,Delhi,4728603.0,494.0,11.0,Fast Charging,Urban,2026.0,8.0
+EV100289,2026-07-26,Mahindra,BE 6,Electric Scooter,Delhi,Uttar Pradesh,85017.0,118.0,23.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100290,2024-09-24,KIA,Carens EV,Electric Scooter,Chennai,Uttar Pradesh,176820.0,202.0,12.0,Fast Charging,Urban,2024.0,9.0
+EV100291,2026-07-25,Ather,Rizta,Electric Scooter,Delhi,Telangana,142267.0,117.0,18.0,Home,Rural,2026.0,7.0
+EV100292,2024-09-24,Hyundai,Kona Electric,Electric Bike,Kochi,West Bengal,350000.0,178.0,19.0,Fast Charging,Semi-Urban,2024.0,9.0
+EV100293,2025-01-23,KIA,EV6,Electric Car,Jaipur,Tamil Nadu,4580904.0,390.0,20.0,Public,Rural,2025.0,1.0
+EV100294,2025-04-16,Ather,Rizta,Electric Car,Nagpur,Telangana,3216937.0,251.0,33.0,Public,Rural,2025.0,4.0
+EV100295,2025-06-20,Tesla,Model 3,Electric Scooter,Mumbai,Delhi,250000.0,212.0,10.0,Public,Urban,2025.0,6.0
+EV100296,2026-05-12,OLA,S1 Pro,Electric Scooter,Lucknow,Tamil Nadu,250000.0,80.0,13.0,Home,Urban,2026.0,5.0
+EV100297,2024-03-02,Ather,Rizta,Electric Car,Jaipur,West Bengal,1454384.0,563.0,3.0,Public,Semi-Urban,2024.0,3.0
+EV100298,2024-01-13,Tesla,Model Y,Electric Car,Mumbai,Uttar Pradesh,2565922.0,483.0,14.0,Public,Semi-Urban,2024.0,1.0
+EV100299,2024-04-19,OLA,S1 Pro,Electric Car,Pune,Uttar Pradesh,1337942.0,243.0,7.0,Home,Rural,2024.0,4.0
+EV100300,2026-03-25,KIA,Carens EV,Electric Scooter,Ahmedabad,Delhi,157522.0,126.0,20.0,Fast Charging,Semi-Urban,2026.0,3.0
+EV100301,2025-12-01,Mahindra,BE 6,Electric Scooter,Pune,Maharashtra,98831.0,84.0,26.0,Fast Charging,Semi-Urban,2025.0,12.0
+EV100302,2024-01-10,Tata,Punch EV,Electric Scooter,Kolkata,Karnataka,249165.0,82.0,14.0,Fast Charging,Rural,2024.0,1.0
+EV100303,,MG,ZS EV,Electric Scooter,Delhi,West Bengal,250000.0,141.0,10.0,Home,Urban,,
+EV100304,2025-07-31,BYD,e6,Electric Scooter,Lucknow,Maharashtra,250000.0,97.0,23.0,Fast Charging,Urban,2025.0,7.0
+EV100305,2026-04-20,Hyundai,Creta Electric,Electric Bike,Ahmedabad,Delhi,108542.0,131.0,18.0,Public,Urban,2026.0,4.0
+EV100306,2025-01-28,OLA,S1 X,Electric Scooter,Kolkata,Karnataka,120875.0,189.0,11.0,Public,Rural,2025.0,1.0
+EV100307,2024-04-10,KIA,EV6,Electric Car,Ahmedabad,Tamil Nadu,2479894.0,532.0,15.0,Fast Charging,Rural,2024.0,4.0
+EV100308,2024-01-31,OLA,S1 X,Electric Scooter,Lucknow,Gujarat,250000.0,188.0,11.0,Fast Charging,Semi-Urban,2024.0,1.0
+EV100309,2025-03-18,Tesla,Model Y,Electric Car,Nagpur,West Bengal,3618394.0,457.0,13.0,Home,Rural,2025.0,3.0
+EV100310,2024-03-16,Mahindra,XEV 9e,Electric Car,Pune,Gujarat,3396404.0,245.0,4.0,Public,Rural,2024.0,3.0
+EV100311,2025-01-04,OLA,S1 X,Electric Car,Pune,Delhi,2124109.0,182.0,19.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100312,2024-05-15,BYD,Atto 3,Electric Car,Pune,Karnataka,2352896.0,361.0,13.0,Public,Rural,2024.0,5.0
+EV100313,2024-04-01,MG,ZS EV,Electric Scooter,Chennai,Uttar Pradesh,204332.0,84.0,33.0,Public,Semi-Urban,2024.0,4.0
+EV100314,2025-02-27,Tata,Tiago EV,Electric Bike,Ahmedabad,Gujarat,203161.0,203.0,9.0,Public,Urban,2025.0,2.0
+EV100315,2025-01-24,Hyundai,Creta Electric,Electric Scooter,Nagpur,Karnataka,238178.0,110.0,8.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100316,2024-10-09,Hyundai,Ioniq 5,Electric Car,Ahmedabad,Gujarat,2455860.0,383.0,20.0,Home,Semi-Urban,2024.0,10.0
+EV100317,2025-10-02,Mahindra,XEV 9e,Electric Car,Hyderabad,West Bengal,700000.0,439.0,8.0,Fast Charging,Urban,2025.0,10.0
+EV100318,2024-12-06,Tata,Tiago EV,Electric Car,Mumbai,Kerala,2487191.0,518.0,32.0,Fast Charging,Semi-Urban,2024.0,12.0
+EV100319,2024-11-24,Hyundai,Ioniq 5,Electric Car,Jaipur,Tamil Nadu,1482416.0,381.0,23.0,Home,Semi-Urban,2024.0,11.0
+EV100320,2025-12-12,BYD,e6,Electric Bike,Lucknow,Rajasthan,286982.0,245.0,33.0,Home,Semi-Urban,2025.0,12.0
+EV100321,2024-04-26,OLA,S1 X,Electric Car,Jaipur,Tamil Nadu,3720767.0,429.0,27.0,Public,Urban,2024.0,4.0
+EV100322,2026-09-02,Tesla,Model 3,Electric Scooter,Kolkata,Rajasthan,250000.0,211.0,35.0,Home,Semi-Urban,2026.0,9.0
+EV100323,2025-11-20,MG,Comet EV,Electric Scooter,Hyderabad,Karnataka,119466.0,165.0,23.0,Home,Semi-Urban,2025.0,11.0
+EV100324,2024-03-16,OLA,S1 X,Electric Scooter,Hyderabad,West Bengal,148408.0,142.0,19.0,Fast Charging,Rural,2024.0,3.0
+EV100325,2026-03-20,OLA,S1 Pro,Electric Scooter,Chennai,Uttar Pradesh,117317.0,159.0,23.0,Home,Urban,2026.0,3.0
+EV100326,2025-10-24,KIA,EV6,Electric Scooter,Jaipur,Maharashtra,162083.0,154.0,37.0,Public,Rural,2025.0,10.0
+EV100327,2024-04-18,KIA,Carens EV,Electric Scooter,Mumbai,Delhi,231172.0,109.0,5.0,Public,Rural,2024.0,4.0
+EV100328,2025-01-18,Mahindra,BE 6,Electric Scooter,Ahmedabad,Rajasthan,223852.0,186.0,41.0,Public,Rural,2025.0,1.0
+EV100329,2025-05-09,KIA,EV6,Electric Scooter,Pune,Gujarat,176144.0,132.0,20.0,Home,Urban,2025.0,5.0
+EV100330,2024-11-15,Hyundai,Ioniq 5,Electric Scooter,Chennai,Rajasthan,250000.0,188.0,35.0,Public,Semi-Urban,2024.0,11.0
+EV100331,2026-01-09,MG,Comet EV,Electric Car,Kolkata,Rajasthan,1620491.0,314.0,12.0,Fast Charging,Urban,2026.0,1.0
+EV100332,2026-05-19,MG,ZS EV,Electric Scooter,Chennai,Delhi,174602.0,172.0,13.0,Home,Rural,2026.0,5.0
+EV100333,2024-06-12,Hyundai,Creta Electric,Electric Car,Chennai,Uttar Pradesh,3353450.0,359.0,35.0,Fast Charging,Urban,2024.0,6.0
+EV100334,2025-10-17,Hyundai,Kona Electric,Electric Scooter,Lucknow,Kerala,80619.0,129.0,22.0,Public,Rural,2025.0,10.0
+EV100335,2025-02-02,Ather,Rizta,Electric Bike,Mumbai,Tamil Nadu,173645.0,115.0,43.0,Public,Urban,2025.0,2.0
+EV100336,2025-01-09,Tesla,Model 3,Electric Scooter,Chennai,Tamil Nadu,155335.0,139.0,12.0,Fast Charging,Rural,2025.0,1.0
+EV100337,2025-09-03,Tesla,Model Y,Electric Bike,Ahmedabad,West Bengal,126492.0,147.0,15.0,Home,Semi-Urban,2025.0,9.0
+EV100338,2026-04-13,Ather,450X,Electric Car,Lucknow,Gujarat,1957850.0,566.0,27.0,Public,Urban,2026.0,4.0
+EV100339,2024-09-01,KIA,EV6,Electric Scooter,Bengaluru,Delhi,250000.0,97.0,37.0,Public,Urban,2024.0,9.0
+EV100340,2025-08-11,OLA,S1 Pro,Electric Scooter,Ahmedabad,Kerala,214383.0,98.0,16.0,Public,Rural,2025.0,8.0
+EV100341,2024-06-19,Hyundai,Creta Electric,Electric Scooter,Hyderabad,Gujarat,92102.0,91.0,17.0,Fast Charging,Semi-Urban,2024.0,6.0
+EV100342,2025-05-11,KIA,EV6,Electric Scooter,Nagpur,Tamil Nadu,156751.0,192.0,20.0,Public,Rural,2025.0,5.0
+EV100343,2025-03-01,OLA,S1 X,Electric Scooter,Kolkata,Rajasthan,116196.0,143.0,10.0,Home,Rural,2025.0,3.0
+EV100344,2024-02-03,Mahindra,BE 6,Electric Car,Bengaluru,Tamil Nadu,1765103.0,406.0,40.0,Home,Semi-Urban,2024.0,2.0
+EV100345,2025-08-09,Ather,450X,Electric Scooter,Pune,Gujarat,200868.0,186.0,16.0,Fast Charging,Rural,2025.0,8.0
+EV100346,2025-03-27,Tata,Punch EV,Electric Scooter,Kochi,Tamil Nadu,186680.0,218.0,23.0,Home,Rural,2025.0,3.0
+EV100347,2026-06-14,Mahindra,BE 6,Electric Scooter,Mumbai,Rajasthan,196790.0,109.0,25.0,Home,Semi-Urban,2026.0,6.0
+EV100348,2024-08-02,MG,ZS EV,Electric Bike,Kolkata,West Bengal,240341.0,197.0,27.0,Public,Rural,2024.0,8.0
+EV100349,2024-05-22,Hyundai,Creta Electric,Electric Scooter,Delhi,Tamil Nadu,100619.0,191.0,16.0,Public,Semi-Urban,2024.0,5.0
+EV100350,,Tesla,Model 3,Electric Scooter,Kolkata,Gujarat,118013.0,113.0,48.0,Fast Charging,Rural,,
+EV100351,2026-02-07,MG,ZS EV,Electric Bike,Ahmedabad,Maharashtra,157630.0,249.0,17.0,Public,Urban,2026.0,2.0
+EV100352,2024-05-29,Hyundai,Kona Electric,Electric Scooter,Kolkata,Telangana,233565.0,194.0,10.0,Public,Semi-Urban,2024.0,5.0
+EV100353,2025-02-28,BYD,e6,Electric Scooter,Ahmedabad,Rajasthan,141255.0,81.0,17.0,Home,Semi-Urban,2025.0,2.0
+EV100354,2026-08-16,BYD,e6,Electric Scooter,Chennai,Rajasthan,130534.0,213.0,1.0,Fast Charging,Rural,2026.0,8.0
+EV100355,2025-10-12,MG,Comet EV,Electric Car,Lucknow,Telangana,4913501.0,537.0,7.0,Public,Semi-Urban,2025.0,10.0
+EV100356,2025-05-21,OLA,S1 Pro,Electric Car,Bengaluru,Telangana,2006241.0,528.0,16.0,Fast Charging,Rural,2025.0,5.0
+EV100357,2026-07-04,Ather,Rizta,Electric Scooter,Lucknow,Maharashtra,250000.0,77.0,17.0,Public,Semi-Urban,2026.0,7.0
+EV100358,2025-04-12,Hyundai,Ioniq 5,Electric Car,Mumbai,Kerala,2806584.0,265.0,17.0,Public,Urban,2025.0,4.0
+EV100359,2026-06-14,BYD,Atto 3,Electric Bike,Bengaluru,Delhi,148306.0,191.0,17.0,Fast Charging,Urban,2026.0,6.0
+EV100360,2025-02-09,Hyundai,Kona Electric,Electric Car,Lucknow,Gujarat,1975206.0,485.0,14.0,Home,Semi-Urban,2025.0,2.0
+EV100361,2024-08-06,MG,ZS EV,Electric Scooter,Hyderabad,Delhi,249677.0,90.0,25.0,Home,Rural,2024.0,8.0
+EV100362,2025-12-13,Tata,Nexon EV,Electric Scooter,Chennai,Delhi,250000.0,218.0,30.0,Fast Charging,Rural,2025.0,12.0
+EV100363,2025-01-27,MG,ZS EV,Electric Car,Pune,Delhi,5500000.0,223.0,21.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100364,2025-11-24,Hyundai,Creta Electric,Electric Car,Nagpur,Delhi,4637795.0,403.0,25.0,Home,Rural,2025.0,11.0
+EV100365,2026-01-09,Ather,Rizta,Electric Scooter,Delhi,Karnataka,168462.0,208.0,31.0,Public,Rural,2026.0,1.0
+EV100366,2026-07-07,Mahindra,XUV400,Electric Car,Pune,Karnataka,5500000.0,496.0,10.0,Public,Rural,2026.0,7.0
+EV100367,2026-03-21,OLA,S1 X,Electric Car,Nagpur,Tamil Nadu,2625095.0,296.0,19.0,Home,Urban,2026.0,3.0
+EV100368,2024-01-28,BYD,e6,Electric Scooter,Lucknow,Gujarat,119347.0,101.0,12.0,Public,Rural,2024.0,1.0
+EV100369,2025-10-23,OLA,S1 X,Electric Car,Mumbai,Tamil Nadu,1948759.0,388.0,11.0,Home,Urban,2025.0,10.0
+EV100370,2025-01-04,MG,ZS EV,Electric Scooter,Chennai,Karnataka,158256.0,128.0,56.0,Public,Semi-Urban,2025.0,1.0
+EV100371,2026-02-27,Hyundai,Ioniq 5,Electric Car,Pune,Maharashtra,2036955.0,427.0,27.0,Home,Semi-Urban,2026.0,2.0
+EV100372,2025-06-02,Tata,Tiago EV,Electric Car,Bengaluru,Uttar Pradesh,3153470.0,502.0,18.0,Fast Charging,Rural,2025.0,6.0
+EV100373,2024-10-11,Tesla,Model 3,Electric Car,Pune,Gujarat,2472888.0,213.0,19.0,Home,Urban,2024.0,10.0
+EV100374,2024-11-13,OLA,S1 Pro,Electric Scooter,Kolkata,Kerala,142501.0,179.0,4.0,Home,Urban,2024.0,11.0
+EV100375,2025-04-09,OLA,S1 Pro,Electric Car,Jaipur,West Bengal,4717116.0,203.0,29.0,Public,Rural,2025.0,4.0
+EV100376,2024-01-13,Hyundai,Kona Electric,Electric Scooter,Kolkata,Karnataka,92164.0,175.0,4.0,Home,Semi-Urban,2024.0,1.0
+EV100377,2024-06-19,Tesla,Model Y,Electric Bike,Chennai,Karnataka,350000.0,207.0,33.0,Fast Charging,Rural,2024.0,6.0
+EV100378,2026-04-06,Tata,Tiago EV,Electric Bike,Ahmedabad,Gujarat,216220.0,168.0,4.0,Fast Charging,Rural,2026.0,4.0
+EV100379,2025-04-11,MG,Comet EV,Electric Bike,Kochi,Telangana,170014.0,89.0,41.0,Public,Urban,2025.0,4.0
+EV100380,2026-07-04,BYD,Atto 3,Electric Car,Jaipur,Delhi,5500000.0,276.0,22.0,Public,Urban,2026.0,7.0
+EV100381,2024-02-17,Tata,Nexon EV,Electric Car,Hyderabad,Telangana,2277042.0,341.0,11.0,Home,Urban,2024.0,2.0
+EV100382,2026-04-02,Tata,Punch EV,Electric Bike,Kolkata,Kerala,162616.0,118.0,21.0,Home,Semi-Urban,2026.0,4.0
+EV100383,2026-04-25,KIA,Carens EV,Electric Bike,Pune,West Bengal,192955.0,143.0,24.0,Public,Rural,2026.0,4.0
+EV100384,2026-04-03,Hyundai,Kona Electric,Electric Bike,Kochi,Maharashtra,186205.0,242.0,2.0,Home,Semi-Urban,2026.0,4.0
+EV100385,2024-03-29,BYD,Seal,Electric Bike,Kochi,Rajasthan,244561.0,81.0,13.0,Home,Semi-Urban,2024.0,3.0
+EV100386,2025-09-29,BYD,e6,Electric Scooter,Delhi,Rajasthan,96671.0,125.0,28.0,Fast Charging,Urban,2025.0,9.0
+EV100387,2024-06-03,Tesla,Model 3,Electric Scooter,Mumbai,Kerala,91339.0,74.0,12.0,Public,Semi-Urban,2024.0,6.0
+EV100388,2024-01-02,Tata,Tiago EV,Electric Scooter,Lucknow,Kerala,186998.0,197.0,4.0,Public,Semi-Urban,2024.0,1.0
+EV100389,2025-03-05,Tesla,Model 3,Electric Car,Hyderabad,Maharashtra,2742373.0,588.0,18.0,Home,Rural,2025.0,3.0
+EV100390,2026-07-07,Tata,Nexon EV,Electric Car,Kochi,Kerala,1740296.0,474.0,14.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100391,2025-06-01,MG,ZS EV,Electric Bike,Nagpur,Kerala,350000.0,93.0,41.0,Public,Urban,2025.0,6.0
+EV100392,2024-10-25,Hyundai,Kona Electric,Electric Car,Bengaluru,Telangana,4544882.0,569.0,18.0,Fast Charging,Rural,2024.0,10.0
+EV100393,2025-04-08,KIA,Carens EV,Electric Scooter,Bengaluru,Tamil Nadu,250000.0,81.0,22.0,Home,Urban,2025.0,4.0
+EV100394,2024-04-18,MG,ZS EV,Electric Scooter,Nagpur,Rajasthan,194161.0,140.0,14.0,Fast Charging,Urban,2024.0,4.0
+EV100395,2024-11-11,Mahindra,BE 6,Electric Scooter,Hyderabad,Telangana,189815.0,198.0,16.0,Home,Urban,2024.0,11.0
+EV100396,2025-12-14,BYD,e6,Electric Scooter,Jaipur,Maharashtra,157342.0,102.0,15.0,Fast Charging,Urban,2025.0,12.0
+EV100397,2025-02-09,Mahindra,BE 6,Electric Car,Kochi,Maharashtra,1945798.0,464.0,18.0,Fast Charging,Urban,2025.0,2.0
+EV100398,2025-07-23,OLA,S1 X,Electric Car,Kolkata,Uttar Pradesh,1261386.0,285.0,19.0,Fast Charging,Urban,2025.0,7.0
+EV100399,2024-01-13,Hyundai,Kona Electric,Electric Scooter,Mumbai,Tamil Nadu,196137.0,90.0,31.0,Fast Charging,Semi-Urban,2024.0,1.0
+EV100400,2026-07-28,MG,Comet EV,Electric Scooter,Pune,Maharashtra,70000.0,220.0,8.0,Home,Rural,2026.0,7.0
+EV100401,2026-07-15,Hyundai,Kona Electric,Electric Car,Chennai,Delhi,3717039.0,198.0,33.0,Fast Charging,Urban,2026.0,7.0
+EV100402,2025-05-23,OLA,S1 X,Electric Car,Mumbai,Kerala,1941468.0,467.0,20.0,Home,Semi-Urban,2025.0,5.0
+EV100403,2024-10-13,Hyundai,Ioniq 5,Electric Car,Hyderabad,Karnataka,2313082.0,195.0,15.0,Public,Rural,2024.0,10.0
+EV100404,2025-02-25,MG,Seal,Electric Car,Kochi,Rajasthan,3418653.0,206.0,16.0,Fast Charging,Semi-Urban,2025.0,2.0
+EV100405,2026-06-24,Mahindra,XEV 9e,Electric Car,Kochi,Tamil Nadu,5500000.0,445.0,19.0,Public,Urban,2026.0,6.0
+EV100406,2025-07-11,KIA,Carens EV,Electric Bike,Hyderabad,Telangana,350000.0,235.0,19.0,Public,Semi-Urban,2025.0,7.0
+EV100407,2024-11-22,Hyundai,Kona Electric,Electric Car,Jaipur,Tamil Nadu,3794508.0,192.0,25.0,Fast Charging,Urban,2024.0,11.0
+EV100408,2026-02-24,Ather,Rizta,Electric Scooter,Jaipur,Tamil Nadu,1736029.0,216.0,9.0,Home,Urban,2026.0,2.0
+EV100409,2026-04-15,BYD,e6,Electric Scooter,Kolkata,Maharashtra,182848.0,185.0,16.0,Home,Rural,2026.0,4.0
+EV100410,2026-08-15,OLA,S1 X,Electric Scooter,Nagpur,Karnataka,185511.0,105.0,21.0,Fast Charging,Rural,2026.0,8.0
+EV100411,2025-12-18,Tata,Punch EV,Electric Scooter,Chennai,West Bengal,250000.0,155.0,14.0,Public,Urban,2025.0,12.0
+EV100412,2024-06-28,Ather,Rizta,Electric Scooter,Hyderabad,Maharashtra,246907.0,84.0,32.0,Home,Rural,2024.0,6.0
+EV100413,2024-01-01,Tesla,Model Y,Electric Car,Chennai,Tamil Nadu,4006346.0,265.0,14.0,Home,Semi-Urban,2024.0,1.0
+EV100414,2024-01-23,KIA,EV6,Electric Scooter,Nagpur,West Bengal,250000.0,176.0,18.0,Home,Urban,2024.0,1.0
+EV100415,2025-01-17,KIA,EV6,Electric Scooter,Kolkata,Kerala,100712.0,158.0,7.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100416,2026-08-29,Hyundai,Creta Electric,Electric Car,Ahmedabad,Rajasthan,1621544.0,453.0,8.0,Home,Rural,2026.0,8.0
+EV100417,2025-11-12,KIA,EV6,Electric Bike,Jaipur,Karnataka,350000.0,144.0,10.0,Public,Rural,2025.0,11.0
+EV100418,2024-01-02,Hyundai,Creta Electric,Electric Car,Kolkata,West Bengal,1709176.0,344.0,19.0,Public,Urban,2024.0,1.0
+EV100419,2025-10-16,KIA,EV6,Electric Car,Jaipur,Delhi,2262227.0,573.0,10.0,Home,Semi-Urban,2025.0,10.0
+EV100420,2024-11-23,Mahindra,BE 6,Electric Scooter,Nagpur,Delhi,250000.0,193.0,18.0,Public,Rural,2024.0,11.0
+EV100421,2024-01-12,KIA,Carens EV,Electric Scooter,Bengaluru,Tamil Nadu,250000.0,107.0,5.0,Home,Semi-Urban,2024.0,1.0
+EV100422,2024-02-19,MG,ZS EV,Electric Car,Ahmedabad,Rajasthan,1478418.0,488.0,61.0,Home,Semi-Urban,2024.0,2.0
+EV100423,2025-07-13,OLA,S1 X,Electric Scooter,Ahmedabad,Delhi,221736.0,194.0,25.0,Public,Rural,2025.0,7.0
+EV100424,2025-04-07,Mahindra,XUV400,Electric Scooter,Pune,Maharashtra,234911.0,114.0,14.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100425,2024-06-23,MG,Comet EV,Electric Bike,Ahmedabad,Karnataka,262451.0,204.0,9.0,Public,Urban,2024.0,6.0
+EV100426,2025-03-17,Ather,450X,Electric Car,Lucknow,Karnataka,2732175.0,435.0,8.0,Fast Charging,Urban,2025.0,3.0
+EV100427,2024-07-13,KIA,EV6,Electric Car,Ahmedabad,Uttar Pradesh,1990686.0,483.0,19.0,Public,Rural,2024.0,7.0
+EV100428,2024-08-31,BYD,Seal,Electric Car,Pune,Maharashtra,5500000.0,345.0,41.0,Public,Semi-Urban,2024.0,8.0
+EV100429,2025-03-13,KIA,EV6,Electric Car,Pune,Gujarat,4389825.0,526.0,8.0,Public,Rural,2025.0,3.0
+EV100430,2024-07-30,MG,ZS EV,Electric Scooter,Nagpur,Gujarat,144617.0,141.0,8.0,Fast Charging,Urban,2024.0,7.0
+EV100431,2025-05-15,OLA,S1 X,Electric Car,Lucknow,Gujarat,3972393.0,218.0,11.0,Public,Semi-Urban,2025.0,5.0
+EV100432,2024-07-10,OLA,S1 X,Electric Car,Hyderabad,Maharashtra,3579789.0,291.0,39.0,Fast Charging,Semi-Urban,2024.0,7.0
+EV100433,2024-03-04,BYD,e6,Electric Car,Nagpur,Delhi,2996926.0,216.0,18.0,Fast Charging,Rural,2024.0,3.0
+EV100434,2024-03-03,Mahindra,XEV 9e,Electric Car,Ahmedabad,Uttar Pradesh,2555299.0,388.0,35.0,Public,Rural,2024.0,3.0
+EV100435,2025-05-02,Ather,450X,Electric Bike,Bengaluru,Delhi,261494.0,147.0,10.0,Public,Urban,2025.0,5.0
+EV100436,2024-05-03,Tata,Model 3,Electric Scooter,Hyderabad,Karnataka,118731.0,212.0,34.0,Home,Urban,2024.0,5.0
+EV100437,2025-03-09,Hyundai,Kona Electric,Electric Scooter,Pune,Kerala,139737.0,100.0,6.0,Public,Urban,2025.0,3.0
+EV100438,2026-07-21,BYD,Seal,Electric Scooter,Kolkata,Delhi,117139.0,83.0,28.0,Public,Semi-Urban,2026.0,7.0
+EV100439,2025-04-14,BYD,e6,Electric Scooter,Mumbai,West Bengal,124334.0,158.0,10.0,Fast Charging,Urban,2025.0,4.0
+EV100440,2025-08-25,Hyundai,Creta Electric,Electric Car,Jaipur,Delhi,3514683.0,568.0,58.0,Public,Urban,2025.0,8.0
+EV100441,2026-06-17,Tesla,Model Y,Electric Scooter,Ahmedabad,Gujarat,91666.0,127.0,25.0,Fast Charging,Rural,2026.0,6.0
+EV100442,2024-10-09,Tata,Nexon EV,Electric Scooter,Ahmedabad,Karnataka,192747.0,163.0,36.0,Public,Rural,2024.0,10.0
+EV100443,2025-12-08,OLA,S1 X,Electric Car,Delhi,Maharashtra,5500000.0,493.0,11.0,Fast Charging,Semi-Urban,2025.0,12.0
+EV100444,2024-10-14,BYD,Seal,Electric Car,Hyderabad,Delhi,1673623.0,588.0,21.0,Home,Urban,2024.0,10.0
+EV100445,2024-10-02,MG,Rizta,Electric Car,Kolkata,Kerala,3097094.0,434.0,9.0,Home,Urban,2024.0,10.0
+EV100446,2026-02-16,OLA,S1 X,Electric Car,Kochi,Telangana,5500000.0,525.0,31.0,Public,Urban,2026.0,2.0
+EV100447,2024-05-18,Tesla,Model Y,Electric Car,Kochi,West Bengal,5094819.0,192.0,24.0,Home,Urban,2024.0,5.0
+EV100448,2025-04-12,Mahindra,XUV400,Electric Scooter,Mumbai,Telangana,250000.0,176.0,7.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100449,2025-10-12,Tesla,Model Y,Electric Scooter,Pune,Maharashtra,116174.0,106.0,17.0,Fast Charging,Rural,2025.0,10.0
+EV100450,2024-12-18,Ather,Rizta,Electric Car,Nagpur,Gujarat,2192218.0,495.0,10.0,Public,Urban,2024.0,12.0
+EV100451,,OLA,S1 Pro,Electric Car,Jaipur,Tamil Nadu,4250429.0,540.0,21.0,Public,Urban,,
+EV100452,2025-02-23,BYD,e6,Electric Scooter,Kochi,Maharashtra,232819.0,200.0,6.0,Public,Urban,2025.0,2.0
+EV100453,2024-06-26,Hyundai,Creta Electric,Electric Scooter,Jaipur,Maharashtra,91845.0,104.0,45.0,Public,Semi-Urban,2024.0,6.0
+EV100454,2026-07-05,BYD,Seal,Electric Scooter,Ahmedabad,Telangana,203120.0,139.0,18.0,Home,Semi-Urban,2026.0,7.0
+EV100455,2025-08-21,Tesla,Model Y,Electric Car,Pune,Maharashtra,2281887.0,395.0,24.0,Public,Semi-Urban,2025.0,8.0
+EV100456,2025-12-01,BYD,Seal,Electric Scooter,Pune,Rajasthan,105728.0,80.0,8.0,Fast Charging,Rural,2025.0,12.0
+EV100457,2025-11-02,BYD,Seal,Electric Car,Kolkata,Gujarat,3215480.0,259.0,10.0,Public,Urban,2025.0,11.0
+EV100458,,OLA,S1 X,Electric Bike,Nagpur,Maharashtra,350000.0,191.0,11.0,Fast Charging,Semi-Urban,,
+EV100459,2026-01-24,OLA,S1 X,Electric Bike,Mumbai,West Bengal,116794.0,200.0,35.0,Public,Urban,2026.0,1.0
+EV100460,2025-07-01,Mahindra,XEV 9e,Electric Car,Lucknow,Rajasthan,3304135.0,561.0,9.0,Public,Semi-Urban,2025.0,7.0
+EV100461,2026-06-16,Hyundai,Creta Electric,Electric Scooter,Kochi,Karnataka,177075.0,114.0,18.0,Fast Charging,Urban,2026.0,6.0
+EV100462,2026-08-27,Tesla,Model 3,Electric Scooter,Lucknow,Telangana,149390.0,168.0,7.0,Home,Semi-Urban,2026.0,8.0
+EV100463,2026-03-18,BYD,Seal,Electric Car,Chennai,Telangana,2077190.0,289.0,3.0,Fast Charging,Semi-Urban,2026.0,3.0
+EV100464,2026-06-06,Ather,450X,Electric Bike,Lucknow,West Bengal,276503.0,179.0,57.0,Public,Urban,2026.0,6.0
+EV100465,2024-05-02,Mahindra,XEV 9e,Electric Scooter,Lucknow,Kerala,96160.0,149.0,17.0,Fast Charging,Urban,2024.0,5.0
+EV100466,2024-07-24,Hyundai,Kona Electric,Electric Bike,Chennai,Kerala,320841.0,248.0,13.0,Fast Charging,Urban,2024.0,7.0
+EV100467,2025-05-14,Hyundai,Kona Electric,Electric Car,Chennai,Karnataka,3819767.0,312.0,18.0,Home,Urban,2025.0,5.0
+EV100468,2025-08-13,Mahindra,XUV400,Electric Scooter,Nagpur,Rajasthan,153036.0,188.0,24.0,Home,Urban,2025.0,8.0
+EV100469,2025-03-15,OLA,S1 X,Electric Scooter,Hyderabad,Kerala,1261386.0,71.0,15.0,Public,Urban,2025.0,3.0
+EV100470,2026-02-14,Tata,Tiago EV,Electric Scooter,Kochi,Tamil Nadu,113873.0,73.0,7.0,Home,Rural,2026.0,2.0
+EV100471,2026-06-17,Mahindra,XEV 9e,Electric Scooter,Chennai,Gujarat,250000.0,89.0,33.0,Fast Charging,Rural,2026.0,6.0
+EV100472,2026-04-23,Hyundai,Kona Electric,Electric Scooter,Mumbai,Gujarat,198103.0,212.0,65.0,Fast Charging,Rural,2026.0,4.0
+EV100473,2025-03-20,Tesla,Model Y,Electric Scooter,Lucknow,Karnataka,350000.0,121.0,17.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100474,2024-01-20,Hyundai,Ioniq 5,Electric Scooter,Delhi,Tamil Nadu,88663.0,179.0,13.0,Home,Urban,2024.0,1.0
+EV100475,2024-05-06,Tesla,Model 3,Electric Scooter,Chennai,Maharashtra,102374.0,126.0,18.0,Public,Semi-Urban,2024.0,5.0
+EV100476,2024-02-19,Tata,Punch EV,Electric Scooter,Lucknow,Delhi,203066.0,168.0,3.0,Home,Urban,2024.0,2.0
+EV100477,2025-01-24,OLA,S1 X,Electric Scooter,Pune,Uttar Pradesh,119609.0,108.0,8.0,Public,Urban,2025.0,1.0
+EV100478,2025-03-06,Tata,Tiago EV,Electric Car,Lucknow,Delhi,2905375.0,458.0,24.0,Fast Charging,Rural,2025.0,3.0
+EV100479,2026-04-30,Hyundai,Ioniq 5,Electric Scooter,Pune,Uttar Pradesh,89841.0,178.0,14.0,Home,Semi-Urban,2026.0,4.0
+EV100480,2024-07-22,MG,Comet EV,Electric Car,Jaipur,Tamil Nadu,5500000.0,507.0,11.0,Public,Urban,2024.0,7.0
+EV100481,2024-06-13,OLA,S1 X,Electric Car,Mumbai,Uttar Pradesh,2576631.0,388.0,11.0,Home,Rural,2024.0,6.0
+EV100482,2024-01-03,KIA,EV6,Electric Bike,Mumbai,Delhi,192003.0,234.0,17.0,Public,Rural,2024.0,1.0
+EV100483,2026-01-10,MG,ZS EV,Electric Scooter,Kolkata,Delhi,115266.0,206.0,23.0,Public,Urban,2026.0,1.0
+EV100484,2025-04-20,BYD,Seal,Electric Scooter,Mumbai,Delhi,250000.0,192.0,23.0,Home,Semi-Urban,2025.0,4.0
+EV100485,2026-01-26,KIA,Carens EV,Electric Car,Pune,Delhi,5500000.0,538.0,5.0,Home,Urban,2026.0,1.0
+EV100486,2025-01-01,Hyundai,Ioniq 5,Electric Bike,Hyderabad,West Bengal,198836.0,126.0,35.0,Public,Urban,2025.0,1.0
+EV100487,,KIA,EV6,Electric Car,Ahmedabad,Kerala,2688301.0,388.0,11.0,Fast Charging,Semi-Urban,,
+EV100488,2025-10-26,Ather,Rizta,Electric Scooter,Nagpur,Delhi,70000.0,90.0,29.0,Public,Urban,2025.0,10.0
+EV100489,2025-03-02,Hyundai,Kona Electric,Electric Bike,Jaipur,Rajasthan,153734.0,216.0,5.0,Public,Semi-Urban,2025.0,3.0
+EV100490,2025-09-18,OLA,S1 X,Electric Car,Mumbai,Karnataka,3366636.0,383.0,8.0,Fast Charging,Urban,2025.0,9.0
+EV100491,2024-03-05,Ather,450X,Electric Bike,Bengaluru,Telangana,216958.0,82.0,35.0,Public,Rural,2024.0,3.0
+EV100492,2026-06-13,Mahindra,XEV 9e,Electric Scooter,Chennai,Uttar Pradesh,148983.0,148.0,6.0,Public,Rural,2026.0,6.0
+EV100493,2024-12-20,Mahindra,BE 6,Electric Car,Lucknow,Kerala,3044577.0,242.0,15.0,Public,Rural,2024.0,12.0
+EV100494,2026-05-19,Hyundai,Creta Electric,Electric Car,Hyderabad,Rajasthan,5500000.0,545.0,8.0,Home,Semi-Urban,2026.0,5.0
+EV100495,2024-02-21,KIA,Carens EV,Electric Car,Kochi,Tamil Nadu,1112972.0,411.0,10.0,Fast Charging,Semi-Urban,2024.0,2.0
+EV100496,2025-03-30,MG,Comet EV,Electric Scooter,Jaipur,Rajasthan,250000.0,83.0,4.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100497,2024-04-15,Ather,450X,Electric Car,Ahmedabad,Kerala,2581515.0,195.0,57.0,Public,Urban,2024.0,4.0
+EV100498,2025-07-29,BYD,e6,Electric Scooter,Delhi,Rajasthan,121827.0,213.0,20.0,Fast Charging,Urban,2025.0,7.0
+EV100499,2025-07-27,Ather,Rizta,Electric Scooter,Jaipur,West Bengal,229281.0,141.0,17.0,Public,Semi-Urban,2025.0,7.0
+EV100500,2026-02-16,MG,ZS EV,Electric Scooter,Lucknow,Tamil Nadu,113992.0,70.0,18.0,Fast Charging,Rural,2026.0,2.0
+EV100501,2025-06-18,BYD,e6,Electric Bike,Chennai,Delhi,350000.0,88.0,13.0,Home,Semi-Urban,2025.0,6.0
+EV100502,2024-09-17,OLA,S1 Pro,Electric Car,Jaipur,Tamil Nadu,3368637.0,259.0,9.0,Fast Charging,Urban,2024.0,9.0
+EV100503,2024-12-12,Mahindra,XEV 9e,Electric Scooter,Pune,Kerala,250000.0,77.0,35.0,Public,Rural,2024.0,12.0
+EV100504,2025-11-05,Ather,Rizta,Electric Scooter,Jaipur,Uttar Pradesh,119053.0,90.0,12.0,Fast Charging,Urban,2025.0,11.0
+EV100505,2026-08-15,Tata,Punch EV,Electric Scooter,Ahmedabad,West Bengal,131492.0,142.0,35.0,Public,Urban,2026.0,8.0
+EV100506,2026-04-14,Hyundai,Creta Electric,Electric Scooter,Nagpur,Delhi,221119.0,128.0,25.0,Public,Rural,2026.0,4.0
+EV100507,2025-03-04,Tesla,Model Y,Electric Bike,Jaipur,Tamil Nadu,350000.0,127.0,13.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV100508,2025-02-26,Hyundai,Kona Electric,Electric Scooter,Jaipur,Uttar Pradesh,142921.0,115.0,26.0,Public,Rural,2025.0,2.0
+EV100509,2024-07-24,Tesla,Model 3,Electric Bike,Delhi,West Bengal,350000.0,201.0,10.0,Public,Semi-Urban,2024.0,7.0
+EV100510,2025-10-27,Hyundai,Creta Electric,Electric Bike,Nagpur,Uttar Pradesh,334004.0,172.0,40.0,Public,Semi-Urban,2025.0,10.0
+EV100511,2025-08-19,KIA,Carens EV,Electric Scooter,Jaipur,Kerala,250000.0,171.0,24.0,Public,Semi-Urban,2025.0,8.0
+EV100512,2025-06-19,OLA,S1 Pro,Electric Bike,Pune,Maharashtra,350000.0,145.0,24.0,Home,Rural,2025.0,6.0
+EV100513,2024-10-20,BYD,Atto 3,Electric Car,Lucknow,Gujarat,2819996.0,241.0,7.0,Home,Rural,2024.0,10.0
+EV100514,2024-02-03,Mahindra,XEV 9e,Electric Scooter,Chennai,Rajasthan,70000.0,85.0,25.0,Public,Rural,2024.0,2.0
+EV100515,2025-10-24,Mahindra,XEV 9e,Electric Scooter,Kochi,Kerala,170995.0,106.0,14.0,Public,Semi-Urban,2025.0,10.0
+EV100516,2025-01-31,Tata,Tiago EV,Electric Scooter,Ahmedabad,Telangana,141260.0,141.0,5.0,Home,Urban,2025.0,1.0
+EV100517,2026-06-08,Mahindra,XEV 9e,Electric Scooter,Hyderabad,Tamil Nadu,241295.0,207.0,17.0,Public,Rural,2026.0,6.0
+EV100518,2026-03-05,Tesla,Model 3,Electric Scooter,Kolkata,Tamil Nadu,181695.0,114.0,35.0,Home,Rural,2026.0,3.0
+EV100519,2025-06-10,Hyundai,Creta Electric,Electric Car,Pune,Kerala,2910668.0,197.0,26.0,Fast Charging,Rural,2025.0,6.0
+EV100520,2026-05-16,Hyundai,Creta Electric,Electric Car,Bengaluru,Maharashtra,5256499.0,319.0,21.0,Public,Urban,2026.0,5.0
+EV100521,2026-03-03,KIA,EV6,Electric Car,Lucknow,West Bengal,3142574.0,534.0,22.0,Fast Charging,Semi-Urban,2026.0,3.0
+EV100522,2024-03-15,Tesla,Model Y,Electric Scooter,Kolkata,Telangana,119350.0,149.0,17.0,Home,Rural,2024.0,3.0
+EV100523,2025-03-01,Tesla,Model 3,Electric Car,Kochi,Uttar Pradesh,1584122.0,349.0,21.0,Fast Charging,Urban,2025.0,3.0
+EV100524,2025-01-04,KIA,Carens EV,Electric Bike,Bengaluru,Tamil Nadu,350000.0,242.0,3.0,Public,Rural,2025.0,1.0
+EV100525,2024-04-27,Tesla,Model 3,Electric Scooter,Lucknow,Telangana,165747.0,137.0,27.0,Public,Rural,2024.0,4.0
+EV100526,2025-11-29,Mahindra,XUV400,Electric Bike,Chennai,Kerala,261164.0,236.0,10.0,Home,Semi-Urban,2025.0,11.0
+EV100527,2026-07-22,BYD,Atto 3,Electric Car,Kochi,Telangana,3844111.0,396.0,14.0,Public,Semi-Urban,2026.0,7.0
+EV100528,2024-07-16,BYD,e6,Electric Scooter,Chennai,Uttar Pradesh,109119.0,82.0,20.0,Home,Urban,2024.0,7.0
+EV100529,2025-10-03,Tesla,Model 3,Electric Bike,Pune,Tamil Nadu,117143.0,194.0,6.0,Home,Rural,2025.0,10.0
+EV100530,,MG,ZS EV,Electric Car,Kolkata,Kerala,3786618.0,452.0,20.0,Home,Rural,,
+EV100531,2026-01-04,Tata,Tiago EV,Electric Scooter,Chennai,Maharashtra,250000.0,83.0,9.0,Home,Urban,2026.0,1.0
+EV100532,2025-08-11,Tesla,Model 3,Electric Scooter,Delhi,Gujarat,214197.0,131.0,5.0,Fast Charging,Rural,2025.0,8.0
+EV100533,2025-02-02,KIA,EV6,Electric Car,Lucknow,Delhi,1884313.0,405.0,27.0,Public,Rural,2025.0,2.0
+EV100534,2026-05-18,Tata,Punch EV,Electric Scooter,Pune,Telangana,135287.0,209.0,9.0,Home,Semi-Urban,2026.0,5.0
+EV100535,2024-03-29,BYD,e6,Electric Scooter,Bengaluru,Rajasthan,70000.0,127.0,20.0,Public,Urban,2024.0,3.0
+EV100536,2024-05-19,Tesla,Model 3,Electric Scooter,Kolkata,Kerala,243432.0,190.0,45.0,Public,Semi-Urban,2024.0,5.0
+EV100537,2025-11-24,Hyundai,Ioniq 5,Electric Bike,Kolkata,Telangana,156917.0,243.0,4.0,Home,Rural,2025.0,11.0
+EV100538,2024-02-12,Hyundai,Kona Electric,Electric Bike,Mumbai,West Bengal,350000.0,181.0,19.0,Public,Rural,2024.0,2.0
+EV100539,2026-02-05,BYD,Atto 3,Electric Bike,Kolkata,Telangana,151038.0,116.0,11.0,Public,Rural,2026.0,2.0
+EV100540,2025-09-23,Hyundai,Kona Electric,Electric Car,Bengaluru,Tamil Nadu,3368441.0,228.0,49.0,Public,Rural,2025.0,9.0
+EV100541,2025-10-22,Tesla,Model Y,Electric Bike,Kochi,Delhi,350000.0,129.0,32.0,Home,Semi-Urban,2025.0,10.0
+EV100542,2024-12-31,Ather,Rizta,Electric Car,Nagpur,Tamil Nadu,4047256.0,222.0,17.0,Public,Urban,2024.0,12.0
+EV100543,2025-04-06,KIA,Carens EV,Electric Bike,Chennai,West Bengal,350000.0,192.0,15.0,Public,Rural,2025.0,4.0
+EV100544,2025-03-14,KIA,Carens EV,Electric Car,Nagpur,Maharashtra,2528053.0,312.0,31.0,Home,Rural,2025.0,3.0
+EV100545,2026-05-10,OLA,S1 X,Electric Scooter,Chennai,Karnataka,217476.0,172.0,7.0,Fast Charging,Semi-Urban,2026.0,5.0
+EV100546,2025-05-13,KIA,Carens EV,Electric Scooter,Kochi,Delhi,146646.0,96.0,9.0,Public,Urban,2025.0,5.0
+EV100547,2024-07-20,Hyundai,Creta Electric,Electric Scooter,Bengaluru,Delhi,150552.0,179.0,25.0,Home,Rural,2024.0,7.0
+EV100548,2026-07-17,OLA,S1 Pro,Electric Scooter,Mumbai,Uttar Pradesh,100916.0,109.0,49.0,Public,Semi-Urban,2026.0,7.0
+EV100549,,Hyundai,Ioniq 5,Electric Scooter,Delhi,West Bengal,136708.0,180.0,20.0,Fast Charging,Urban,,
+EV100550,2025-02-10,Tesla,Model 3,Electric Scooter,Chennai,Uttar Pradesh,135325.0,72.0,33.0,Home,Rural,2025.0,2.0
+EV100551,2025-04-01,Tesla,Model 3,Electric Scooter,Nagpur,Karnataka,91027.0,155.0,21.0,Public,Rural,2025.0,4.0
+EV100552,2026-01-19,Hyundai,Creta Electric,Electric Bike,Hyderabad,Telangana,234399.0,87.0,3.0,Fast Charging,Urban,2026.0,1.0
+EV100553,,KIA,EV6,Electric Car,Lucknow,Tamil Nadu,4934423.0,398.0,15.0,Fast Charging,Semi-Urban,,
+EV100554,2024-02-10,Ather,450X,Electric Scooter,Lucknow,Telangana,201601.0,85.0,11.0,Public,Rural,2024.0,2.0
+EV100555,2025-07-11,BYD,e6,Electric Scooter,Jaipur,Karnataka,97031.0,126.0,16.0,Fast Charging,Semi-Urban,2025.0,7.0
+EV100556,2025-01-20,MG,Comet EV,Electric Scooter,Delhi,Uttar Pradesh,158031.0,131.0,47.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100557,2026-06-22,Tata,Punch EV,Electric Scooter,Nagpur,Rajasthan,239907.0,95.0,28.0,Home,Rural,2026.0,6.0
+EV100558,2024-07-10,Mahindra,XUV400,Electric Scooter,Nagpur,Telangana,102094.0,160.0,21.0,Home,Rural,2024.0,7.0
+EV100559,2025-05-08,KIA,EV6,Electric Car,Lucknow,Rajasthan,3634492.0,381.0,18.0,Public,Urban,2025.0,5.0
+EV100560,2024-09-06,OLA,S1 Pro,Electric Scooter,Mumbai,Karnataka,1337942.0,156.0,15.0,Home,Urban,2024.0,9.0
+EV100561,2024-05-30,Tata,Punch EV,Electric Scooter,Mumbai,Karnataka,187716.0,109.0,17.0,Home,Rural,2024.0,5.0
+EV100562,2026-01-15,Tata,Punch EV,Electric Bike,Lucknow,Gujarat,331869.0,241.0,9.0,Home,Semi-Urban,2026.0,1.0
+EV100563,2024-06-23,Ather,Rizta,Electric Scooter,Delhi,Kerala,126272.0,160.0,17.0,Public,Urban,2024.0,6.0
+EV100564,2024-06-20,Tesla,Model Y,Electric Scooter,Kolkata,Telangana,70000.0,208.0,29.0,Public,Rural,2024.0,6.0
+EV100565,2024-05-15,OLA,S1 X,Electric Car,Pune,Maharashtra,3464564.0,388.0,18.0,Public,Rural,2024.0,5.0
+EV100566,2024-04-08,Hyundai,Creta Electric,Electric Car,Nagpur,Rajasthan,1534579.0,559.0,11.0,Public,Urban,2024.0,4.0
+EV100567,2024-04-05,Tesla,Model 3,Electric Bike,Hyderabad,Karnataka,133479.0,233.0,24.0,Public,Urban,2024.0,4.0
+EV100568,,OLA,S1 X,Electric Bike,Mumbai,Uttar Pradesh,271380.0,153.0,16.0,Fast Charging,Semi-Urban,,
+EV100569,2024-05-17,MG,Comet EV,Electric Car,Bengaluru,Rajasthan,2154617.0,502.0,13.0,Home,Semi-Urban,2024.0,5.0
+EV100570,2024-09-20,Tesla,Model Y,Electric Scooter,Delhi,Maharashtra,114962.0,176.0,9.0,Home,Rural,2024.0,9.0
+EV100571,2025-01-19,Tesla,Model 3,Electric Scooter,Lucknow,Tamil Nadu,250000.0,173.0,71.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100572,2025-10-29,Hyundai,Ioniq 5,Electric Car,Jaipur,Gujarat,3759814.0,290.0,26.0,Public,Semi-Urban,2025.0,10.0
+EV100573,2025-02-10,BYD,e6,Electric Scooter,Delhi,Kerala,189794.0,141.0,48.0,Public,Semi-Urban,2025.0,2.0
+EV100574,2024-09-16,Tesla,Model Y,Electric Car,Bengaluru,West Bengal,1913510.0,325.0,1.0,Public,Semi-Urban,2024.0,9.0
+EV100575,2025-04-02,MG,ZS EV,Electric Scooter,Kolkata,Karnataka,130765.0,85.0,53.0,Public,Semi-Urban,2025.0,4.0
+EV100576,2024-06-13,Tesla,Model 3,Electric Scooter,Ahmedabad,Maharashtra,211408.0,191.0,54.0,Home,Semi-Urban,2024.0,6.0
+EV100577,2024-03-06,OLA,S1 Pro,Electric Bike,Bengaluru,Tamil Nadu,350000.0,143.0,18.0,Public,Urban,2024.0,3.0
+EV100578,2025-12-29,OLA,S1 X,Electric Scooter,Jaipur,Maharashtra,119640.0,212.0,9.0,Home,Rural,2025.0,12.0
+EV100579,2026-05-20,Tata,Nexon EV,Electric Scooter,Lucknow,Uttar Pradesh,250000.0,113.0,9.0,Home,Rural,2026.0,5.0
+EV100580,2024-06-22,Mahindra,XEV 9e,Electric Scooter,Lucknow,Maharashtra,185037.0,124.0,14.0,Public,Urban,2024.0,6.0
+EV100581,2026-03-09,MG,Comet EV,Electric Bike,Ahmedabad,Telangana,187057.0,194.0,24.0,Fast Charging,Rural,2026.0,3.0
+EV100582,2025-12-21,Tata,Punch EV,Electric Car,Pune,Delhi,4612645.0,411.0,16.0,Public,Rural,2025.0,12.0
+EV100583,2026-04-15,KIA,Carens EV,Electric Bike,Bengaluru,Tamil Nadu,141964.0,183.0,17.0,Home,Semi-Urban,2026.0,4.0
+EV100584,2024-06-28,Tata,Tiago EV,Electric Bike,Ahmedabad,Uttar Pradesh,181592.0,168.0,34.0,Home,Rural,2024.0,6.0
+EV100585,2026-06-16,MG,Comet EV,Electric Car,Kochi,West Bengal,1360097.0,285.0,19.0,Fast Charging,Semi-Urban,2026.0,6.0
+EV100586,2026-03-05,Mahindra,BE 6,Electric Scooter,Hyderabad,Rajasthan,250000.0,204.0,33.0,Home,Semi-Urban,2026.0,3.0
+EV100587,2025-10-10,MG,Comet EV,Electric Car,Delhi,Tamil Nadu,4374655.0,516.0,15.0,Fast Charging,Semi-Urban,2025.0,10.0
+EV100588,2026-05-02,Tata,Punch EV,Electric Scooter,Bengaluru,Tamil Nadu,198999.0,113.0,9.0,Fast Charging,Rural,2026.0,5.0
+EV100589,2025-07-21,KIA,EV6,Electric Scooter,Nagpur,Rajasthan,232848.0,117.0,12.0,Home,Rural,2025.0,7.0
+EV100590,2026-01-24,Mahindra,BE 6,Electric Car,Delhi,Tamil Nadu,2666463.0,489.0,13.0,Fast Charging,Urban,2026.0,1.0
+EV100591,2024-12-30,Mahindra,XEV 9e,Electric Car,Nagpur,Delhi,3544843.0,230.0,27.0,Home,Rural,2024.0,12.0
+EV100592,2026-02-21,Ather,450X,Electric Bike,Kochi,Maharashtra,350000.0,224.0,7.0,Fast Charging,Rural,2026.0,2.0
+EV100593,2024-07-06,BYD,Seal,Electric Car,Kochi,Gujarat,3379022.0,347.0,20.0,Public,Urban,2024.0,7.0
+EV100594,2026-08-20,OLA,S1 X,Electric Car,Kochi,Maharashtra,2990867.0,391.0,23.0,Fast Charging,Rural,2026.0,8.0
+EV100595,2025-12-16,Ather,450X,Electric Scooter,Kochi,Rajasthan,250000.0,117.0,40.0,Home,Urban,2025.0,12.0
+EV100596,2024-11-29,OLA,S1 Pro,Electric Scooter,Chennai,West Bengal,147077.0,199.0,31.0,Home,Rural,2024.0,11.0
+EV100597,,BYD,Seal,Electric Car,Chennai,Telangana,3145988.0,257.0,14.0,Fast Charging,Urban,,
+EV100598,2026-05-24,KIA,Carens EV,Electric Car,Ahmedabad,Gujarat,4023841.0,369.0,21.0,Public,Urban,2026.0,5.0
+EV100599,2026-01-08,Mahindra,XUV400,Electric Bike,Bengaluru,Tamil Nadu,153118.0,174.0,25.0,Fast Charging,Urban,2026.0,1.0
+EV100600,2026-04-05,Hyundai,Ioniq 5,Electric Car,Mumbai,Karnataka,3344139.0,357.0,37.0,Home,Rural,2026.0,4.0
+EV100601,2024-11-03,KIA,Carens EV,Electric Scooter,Bengaluru,Uttar Pradesh,139564.0,199.0,2.0,Home,Semi-Urban,2024.0,11.0
+EV100602,2024-08-08,Hyundai,Kona Electric,Electric Car,Bengaluru,Rajasthan,1193114.0,532.0,11.0,Home,Semi-Urban,2024.0,8.0
+EV100603,2025-01-03,BYD,Seal,Electric Scooter,Kochi,Uttar Pradesh,127856.0,210.0,31.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100604,2026-06-07,MG,Comet EV,Electric Car,Lucknow,West Bengal,4525287.0,264.0,24.0,Public,Rural,2026.0,6.0
+EV100605,2024-12-29,Hyundai,Ioniq 5,Electric Scooter,Chennai,Uttar Pradesh,124063.0,143.0,12.0,Public,Semi-Urban,2024.0,12.0
+EV100606,,OLA,S1 X,Electric Bike,Lucknow,Karnataka,350000.0,228.0,13.0,Public,Semi-Urban,,
+EV100607,2024-03-22,OLA,S1 Pro,Electric Car,Nagpur,Telangana,1565335.0,276.0,36.0,Fast Charging,Rural,2024.0,3.0
+EV100608,2025-10-22,BYD,e6,Electric Car,Ahmedabad,Gujarat,3717608.0,553.0,17.0,Fast Charging,Rural,2025.0,10.0
+EV100609,2024-06-20,Ather,Rizta,Electric Scooter,Nagpur,Maharashtra,189193.0,89.0,9.0,Home,Rural,2024.0,6.0
+EV100610,2024-06-19,MG,ZS EV,Electric Car,Ahmedabad,Delhi,2515129.0,220.0,19.0,Fast Charging,Rural,2024.0,6.0
+EV100611,2024-04-16,Tata,S1 Pro,Electric Car,Bengaluru,West Bengal,2586930.0,245.0,24.0,Public,Semi-Urban,2024.0,4.0
+EV100612,2024-10-17,Mahindra,XEV 9e,Electric Car,Hyderabad,Karnataka,4588191.0,235.0,5.0,Home,Urban,2024.0,10.0
+EV100613,2026-06-03,KIA,Carens EV,Electric Car,Hyderabad,Rajasthan,1297124.0,589.0,18.0,Public,Semi-Urban,2026.0,6.0
+EV100614,2025-07-06,Hyundai,Creta Electric,Electric Scooter,Nagpur,West Bengal,201629.0,160.0,19.0,Public,Rural,2025.0,7.0
+EV100615,2026-07-19,OLA,S1 X,Electric Scooter,Chennai,Rajasthan,221583.0,151.0,26.0,Home,Semi-Urban,2026.0,7.0
+EV100616,2024-06-08,OLA,S1 X,Electric Car,Bengaluru,Maharashtra,3727808.0,180.0,14.0,Home,Semi-Urban,2024.0,6.0
+EV100617,2025-12-05,Tesla,Model 3,Electric Car,Hyderabad,Telangana,2006840.0,306.0,19.0,Fast Charging,Semi-Urban,2025.0,12.0
+EV100618,2025-01-17,Tata,Punch EV,Electric Scooter,Delhi,Kerala,250000.0,202.0,15.0,Fast Charging,Semi-Urban,2025.0,1.0
+EV100619,2024-08-13,OLA,S1 X,Electric Car,Bengaluru,Delhi,3473711.0,357.0,16.0,Home,Rural,2024.0,8.0
+EV100620,2025-10-26,BYD,Seal,Electric Scooter,Kolkata,Uttar Pradesh,125747.0,191.0,16.0,Fast Charging,Urban,2025.0,10.0
+EV100621,,Hyundai,Kona Electric,Electric Bike,Pune,Rajasthan,199096.0,185.0,22.0,Fast Charging,Rural,,
+EV100622,2024-01-20,Mahindra,BE 6,Electric Scooter,Nagpur,Maharashtra,201556.0,215.0,14.0,Home,Urban,2024.0,1.0
+EV100623,2024-05-08,BYD,Seal,Electric Bike,Kolkata,Rajasthan,328168.0,168.0,11.0,Home,Urban,2024.0,5.0
+EV100624,2024-12-16,MG,450X,Electric Car,Ahmedabad,Gujarat,3657139.0,510.0,49.0,Fast Charging,Semi-Urban,2024.0,12.0
+EV100625,2024-03-23,Tata,Tiago EV,Electric Scooter,Nagpur,Maharashtra,70000.0,110.0,14.0,Fast Charging,Urban,2024.0,3.0
+EV100626,2026-07-06,Hyundai,Kona Electric,Electric Scooter,Bengaluru,Kerala,99585.0,194.0,7.0,Home,Rural,2026.0,7.0
+EV100627,2026-01-25,Ather,450X,Electric Car,Mumbai,Tamil Nadu,274032.0,374.0,30.0,Home,Rural,2026.0,1.0
+EV100628,2025-02-02,Mahindra,BE 6,Electric Scooter,Lucknow,Gujarat,152653.0,210.0,15.0,Home,Rural,2025.0,2.0
+EV100629,2024-09-16,Tesla,Model 3,Electric Scooter,Hyderabad,Gujarat,166098.0,100.0,12.0,Home,Rural,2024.0,9.0
+EV100630,2025-10-10,MG,ZS EV,Electric Car,Ahmedabad,Telangana,3199279.0,186.0,34.0,Fast Charging,Rural,2025.0,10.0
+EV100631,2024-02-13,Mahindra,XUV400,Electric Car,Jaipur,Rajasthan,3624769.0,469.0,34.0,Home,Semi-Urban,2024.0,2.0
+EV100632,2025-05-26,Mahindra,XUV400,Electric Scooter,Pune,West Bengal,248144.0,121.0,23.0,Public,Urban,2025.0,5.0
+EV100633,2025-07-03,Hyundai,Creta Electric,Electric Car,Pune,Karnataka,4159436.0,385.0,72.0,Fast Charging,Rural,2025.0,7.0
+EV100634,2026-01-20,KIA,Carens EV,Electric Scooter,Delhi,Maharashtra,119204.0,173.0,3.0,Fast Charging,Rural,2026.0,1.0
+EV100635,2025-12-24,Tata,Tiago EV,Electric Car,Hyderabad,Uttar Pradesh,4618239.0,304.0,20.0,Public,Semi-Urban,2025.0,12.0
+EV100636,2024-12-22,Hyundai,Creta Electric,Electric Car,Chennai,Rajasthan,5500000.0,296.0,37.0,Public,Rural,2024.0,12.0
+EV100637,2025-04-05,Tesla,Model 3,Electric Car,Bengaluru,Gujarat,1963863.0,407.0,28.0,Fast Charging,Urban,2025.0,4.0
+EV100638,2026-01-21,Tesla,Model Y,Electric Scooter,Nagpur,Maharashtra,143229.0,163.0,9.0,Fast Charging,Rural,2026.0,1.0
+EV100639,2024-07-13,MG,Comet EV,Electric Car,Kochi,Rajasthan,3752069.0,502.0,19.0,Home,Rural,2024.0,7.0
+EV100640,2024-04-23,OLA,S1 X,Electric Car,Pune,Uttar Pradesh,3161426.0,457.0,45.0,Home,Urban,2024.0,4.0
+EV100641,2024-04-19,Tata,Nexon EV,Electric Car,Hyderabad,Tamil Nadu,2956226.0,221.0,15.0,Public,Rural,2024.0,4.0
+EV100642,2024-02-20,Ather,Rizta,Electric Scooter,Chennai,Tamil Nadu,121495.0,161.0,16.0,Home,Urban,2024.0,2.0
+EV100643,2025-05-18,Mahindra,XEV 9e,Electric Bike,Pune,Rajasthan,199245.0,216.0,2.0,Home,Semi-Urban,2025.0,5.0
+EV100644,2026-03-24,OLA,S1 X,Electric Scooter,Kolkata,Maharashtra,81292.0,194.0,27.0,Fast Charging,Rural,2026.0,3.0
+EV100645,2024-03-20,MG,Comet EV,Electric Car,Delhi,Uttar Pradesh,2826901.0,221.0,17.0,Public,Urban,2024.0,3.0
+EV100646,2025-06-22,Mahindra,XUV400,Electric Scooter,Lucknow,Tamil Nadu,139216.0,156.0,9.0,Home,Rural,2025.0,6.0
+EV100647,2026-02-23,OLA,S1 Pro,Electric Scooter,Lucknow,West Bengal,198589.0,124.0,73.0,Fast Charging,Rural,2026.0,2.0
+EV100648,2026-03-22,MG,ZS EV,Electric Scooter,Nagpur,Uttar Pradesh,148876.0,130.0,26.0,Fast Charging,Rural,2026.0,3.0
+EV100649,2026-07-13,Ather,Rizta,Electric Car,Chennai,Uttar Pradesh,2080488.0,596.0,20.0,Fast Charging,Semi-Urban,2026.0,7.0
+EV100650,2025-09-15,OLA,S1 X,Electric Car,Delhi,West Bengal,5030932.0,409.0,17.0,Fast Charging,Rural,2025.0,9.0
+EV100651,2025-04-08,BYD,Seal,Electric Bike,Hyderabad,Kerala,183832.0,80.0,10.0,Home,Semi-Urban,2025.0,4.0
+EV100652,2026-06-30,Tesla,Model 3,Electric Scooter,Bengaluru,Maharashtra,71076.0,115.0,4.0,Home,Urban,2026.0,6.0
+EV100653,2026-04-22,Tata,Punch EV,Electric Bike,Bengaluru,Uttar Pradesh,311387.0,167.0,42.0,Public,Rural,2026.0,4.0
+EV100654,2024-12-30,Tata,Tiago EV,Electric Car,Nagpur,Karnataka,2494341.0,291.0,19.0,Public,Urban,2024.0,12.0
+EV100655,2025-08-07,BYD,Atto 3,Electric Car,Ahmedabad,West Bengal,3308823.0,566.0,11.0,Public,Urban,2025.0,8.0
+EV100656,2025-05-14,Ather,450X,Electric Scooter,Kolkata,West Bengal,141788.0,193.0,8.0,Home,Rural,2025.0,5.0
+EV100657,2026-04-07,Tata,Punch EV,Electric Scooter,Jaipur,Kerala,107286.0,82.0,13.0,Home,Semi-Urban,2026.0,4.0
+EV100658,2026-08-10,OLA,S1 X,Electric Car,Pune,Tamil Nadu,2922199.0,388.0,18.0,Public,Urban,2026.0,8.0
+EV100659,2024-11-08,OLA,S1 Pro,Electric Scooter,Kochi,Maharashtra,201449.0,118.0,15.0,Public,Urban,2024.0,11.0
+EV100660,2024-02-21,Mahindra,XUV400,Electric Car,Lucknow,Kerala,1897851.0,588.0,39.0,Public,Rural,2024.0,2.0
+EV100661,2024-10-23,Mahindra,BE 6,Electric Scooter,Ahmedabad,Karnataka,175598.0,90.0,27.0,Home,Semi-Urban,2024.0,10.0
+EV100662,2025-02-12,Tata,Punch EV,Electric Scooter,Bengaluru,Delhi,121459.0,130.0,21.0,Fast Charging,Rural,2025.0,2.0
+EV100663,2025-07-26,Hyundai,Ioniq 5,Electric Car,Delhi,Rajasthan,3182477.0,346.0,9.0,Public,Urban,2025.0,7.0
+EV100664,2024-09-05,Tesla,Model 3,Electric Scooter,Pune,Gujarat,157625.0,187.0,14.0,Fast Charging,Rural,2024.0,9.0
+EV100665,2025-11-18,MG,ZS EV,Electric Bike,Mumbai,Kerala,350000.0,142.0,12.0,Home,Semi-Urban,2025.0,11.0
+EV100666,2024-06-22,Tata,Tiago EV,Electric Car,Chennai,West Bengal,3331216.0,525.0,7.0,Fast Charging,Rural,2024.0,6.0
+EV100667,2024-07-23,Tata,Nexon EV,Electric Car,Lucknow,Telangana,4555608.0,246.0,37.0,Public,Urban,2024.0,7.0
+EV100668,2026-08-29,Tata,Nexon EV,Electric Car,Jaipur,Karnataka,2317756.0,545.0,47.0,Fast Charging,Urban,2026.0,8.0
+EV100669,2025-04-05,MG,Comet EV,Electric Car,Hyderabad,Maharashtra,2027227.0,319.0,7.0,Public,Rural,2025.0,4.0
+EV100670,2025-07-15,Tesla,Model Y,Electric Car,Hyderabad,West Bengal,5500000.0,487.0,14.0,Home,Rural,2025.0,7.0
+EV100671,2025-08-19,Tata,Tiago EV,Electric Scooter,Lucknow,Uttar Pradesh,70561.0,77.0,10.0,Home,Urban,2025.0,8.0
+EV100672,2025-04-21,MG,Atto 3,Electric Car,Lucknow,Maharashtra,5500000.0,208.0,4.0,Public,Semi-Urban,2025.0,4.0
+EV100673,2024-01-20,KIA,EV6,Electric Scooter,Bengaluru,Kerala,102628.0,105.0,41.0,Fast Charging,Rural,2024.0,1.0
+EV100674,2025-05-11,MG,Comet EV,Electric Bike,Jaipur,Uttar Pradesh,133761.0,95.0,14.0,Home,Rural,2025.0,5.0
+EV100675,2024-02-10,Tesla,Model 3,Electric Bike,Delhi,Uttar Pradesh,142543.0,132.0,12.0,Fast Charging,Semi-Urban,2024.0,2.0
+EV100676,2025-12-01,Tata,Tiago EV,Electric Scooter,Chennai,Telangana,250000.0,164.0,39.0,Home,Rural,2025.0,12.0
+EV100677,2024-09-20,Tata,Punch EV,Electric Car,Ahmedabad,Maharashtra,2896865.0,577.0,10.0,Fast Charging,Urban,2024.0,9.0
+EV100678,2024-03-30,OLA,S1 Pro,Electric Car,Kolkata,Kerala,4785475.0,388.0,44.0,Public,Rural,2024.0,3.0
+EV100679,2024-09-03,Mahindra,BE 6,Electric Bike,Jaipur,Karnataka,350000.0,152.0,12.0,Fast Charging,Rural,2024.0,9.0
+EV100680,2024-07-30,Tesla,Model 3,Electric Car,Lucknow,Karnataka,2504713.0,424.0,17.0,Public,Urban,2024.0,7.0
+EV100681,2025-12-23,BYD,e6,Electric Bike,Kochi,Karnataka,210118.0,153.0,22.0,Home,Rural,2025.0,12.0
+EV100682,2024-03-10,Hyundai,Ioniq 5,Electric Bike,Kochi,Uttar Pradesh,211423.0,241.0,13.0,Home,Urban,2024.0,3.0
+EV100683,2024-01-31,Hyundai,Creta Electric,Electric Car,Chennai,Kerala,1376715.0,584.0,13.0,Fast Charging,Semi-Urban,2024.0,1.0
+EV100684,2026-03-08,BYD,Atto 3,Electric Scooter,Delhi,Delhi,218941.0,141.0,13.0,Home,Rural,2026.0,3.0
+EV100685,2024-08-25,Mahindra,XEV 9e,Electric Scooter,Delhi,Maharashtra,80023.0,124.0,5.0,Public,Semi-Urban,2024.0,8.0
+EV100686,2024-07-07,Ather,Rizta,Electric Car,Ahmedabad,Rajasthan,1811464.0,379.0,19.0,Home,Urban,2024.0,7.0
+EV100687,2026-08-05,OLA,S1 Pro,Electric Car,Bengaluru,Kerala,5500000.0,273.0,20.0,Public,Urban,2026.0,8.0
+EV100688,2026-08-07,MG,ZS EV,Electric Scooter,Hyderabad,West Bengal,207914.0,143.0,11.0,Fast Charging,Semi-Urban,2026.0,8.0
+EV100689,2026-03-05,OLA,S1 X,Electric Bike,Mumbai,West Bengal,124707.0,205.0,9.0,Fast Charging,Rural,2026.0,3.0
+EV100690,2025-06-17,Tesla,Model 3,Electric Car,Pune,Rajasthan,1272161.0,372.0,27.0,Home,Urban,2025.0,6.0
+EV100691,2025-07-25,OLA,S1 Pro,Electric Scooter,Ahmedabad,Uttar Pradesh,148092.0,185.0,7.0,Home,Urban,2025.0,7.0
+EV100692,2026-03-03,OLA,S1 X,Electric Car,Bengaluru,Rajasthan,992798.0,250.0,14.0,Fast Charging,Rural,2026.0,3.0
+EV100693,2025-04-19,Tesla,Model 3,Electric Bike,Lucknow,Rajasthan,250877.0,95.0,30.0,Public,Urban,2025.0,4.0
+EV100694,2025-02-06,Tesla,Model 3,Electric Car,Ahmedabad,Telangana,1782656.0,369.0,23.0,Home,Semi-Urban,2025.0,2.0
+EV100695,2024-04-02,Mahindra,BE 6,Electric Scooter,Bengaluru,Telangana,157844.0,174.0,11.0,Public,Urban,2024.0,4.0
+EV100696,2024-04-26,MG,ZS EV,Electric Scooter,Kolkata,Rajasthan,179353.0,165.0,23.0,Home,Rural,2024.0,4.0
+EV100697,2025-01-22,Tesla,Model 3,Electric Scooter,Kochi,Kerala,135962.0,77.0,20.0,Home,Semi-Urban,2025.0,1.0
+EV100698,2026-06-08,Hyundai,Kona Electric,Electric Scooter,Nagpur,Karnataka,211638.0,185.0,13.0,Home,Semi-Urban,2026.0,6.0
+EV100699,2025-10-03,Ather,Rizta,Electric Car,Nagpur,Delhi,2930942.0,557.0,6.0,Home,Urban,2025.0,10.0
+EV100700,2025-04-14,BYD,Atto 3,Electric Scooter,Bengaluru,Rajasthan,250000.0,152.0,16.0,Home,Rural,2025.0,4.0
+EV100701,2025-08-25,Mahindra,XUV400,Electric Bike,Lucknow,Rajasthan,114663.0,157.0,9.0,Fast Charging,Urban,2025.0,8.0
+EV100702,2026-06-22,Tata,Nexon EV,Electric Scooter,Kochi,Kerala,122379.0,163.0,39.0,Public,Urban,2026.0,6.0
+EV100703,2025-10-30,Hyundai,Kona Electric,Electric Car,Chennai,Maharashtra,5500000.0,241.0,14.0,Home,Rural,2025.0,10.0
+EV100704,2026-07-31,BYD,Seal,Electric Scooter,Pune,Maharashtra,156096.0,86.0,20.0,Home,Urban,2026.0,7.0
+EV100705,2025-04-11,Tesla,Model 3,Electric Scooter,Kolkata,West Bengal,192825.0,124.0,41.0,Home,Urban,2025.0,4.0
+EV100706,2026-07-08,KIA,Carens EV,Electric Scooter,Ahmedabad,Delhi,146404.0,184.0,15.0,Public,Urban,2026.0,7.0
+EV100707,2025-12-12,Hyundai,Kona Electric,Electric Car,Bengaluru,Telangana,5238393.0,401.0,15.0,Public,Urban,2025.0,12.0
+EV100708,2025-08-08,Tata,Nexon EV,Electric Scooter,Kolkata,Uttar Pradesh,208987.0,218.0,52.0,Fast Charging,Rural,2025.0,8.0
+EV100709,2025-09-15,BYD,Seal,Electric Scooter,Chennai,Gujarat,143529.0,149.0,9.0,Public,Semi-Urban,2025.0,9.0
+EV100710,2025-05-19,Ather,Rizta,Electric Bike,Nagpur,West Bengal,264225.0,120.0,34.0,Fast Charging,Urban,2025.0,5.0
+EV100711,2025-10-02,Tata,Tiago EV,Electric Car,Pune,Tamil Nadu,2440496.0,516.0,18.0,Fast Charging,Semi-Urban,2025.0,10.0
+EV100712,2024-01-12,KIA,EV6,Electric Car,Lucknow,Tamil Nadu,3905127.0,470.0,24.0,Fast Charging,Urban,2024.0,1.0
+EV100713,2026-02-24,Tesla,Model Y,Electric Car,Mumbai,Delhi,4277840.0,468.0,28.0,Fast Charging,Semi-Urban,2026.0,2.0
+EV100714,2024-07-17,Tata,Nexon EV,Electric Scooter,Chennai,Telangana,224663.0,208.0,25.0,Fast Charging,Semi-Urban,2024.0,7.0
+EV100715,2024-06-08,Hyundai,Ioniq 5,Electric Scooter,Lucknow,Rajasthan,195883.0,204.0,17.0,Public,Semi-Urban,2024.0,6.0
+EV100716,2026-05-05,Tata,S1 Pro,Electric Scooter,Kochi,Gujarat,107590.0,155.0,4.0,Public,Semi-Urban,2026.0,5.0
+EV100717,2025-08-14,Tata,Nexon EV,Electric Scooter,Lucknow,Telangana,76747.0,190.0,9.0,Fast Charging,Urban,2025.0,8.0
+EV100718,2024-12-13,BYD,Atto 3,Electric Bike,Ahmedabad,Uttar Pradesh,191530.0,223.0,17.0,Public,Rural,2024.0,12.0
+EV100719,2025-12-23,MG,Comet EV,Electric Car,Chennai,Maharashtra,4076649.0,294.0,17.0,Home,Semi-Urban,2025.0,12.0
+EV100720,2026-04-29,KIA,Carens EV,Electric Bike,Bengaluru,Tamil Nadu,152313.0,169.0,15.0,Home,Urban,2026.0,4.0
+EV100721,2026-07-24,Tata,Nexon EV,Electric Car,Pune,Rajasthan,3217268.0,393.0,4.0,Fast Charging,Rural,2026.0,7.0
+EV100722,2026-01-20,KIA,Carens EV,Electric Car,Kochi,Gujarat,2199381.0,506.0,29.0,Home,Urban,2026.0,1.0
+EV100723,2024-07-29,Tesla,Model 3,Electric Scooter,Kolkata,Maharashtra,120508.0,139.0,29.0,Public,Rural,2024.0,7.0
+EV100724,2025-12-04,Tata,Atto 3,Electric Car,Jaipur,Delhi,2841068.0,320.0,4.0,Home,Urban,2025.0,12.0
+EV100725,2025-08-14,BYD,Atto 3,Electric Scooter,Bengaluru,Tamil Nadu,150737.0,118.0,18.0,Home,Semi-Urban,2025.0,8.0
+EV100726,2025-11-18,Tata,Carens EV,Electric Car,Pune,Gujarat,3512126.0,243.0,9.0,Fast Charging,Urban,2025.0,11.0
+EV100727,2024-07-30,Tesla,Model 3,Electric Car,Kochi,Telangana,3604448.0,411.0,19.0,Fast Charging,Urban,2024.0,7.0
+EV100728,2024-09-07,Tata,e6,Electric Bike,Nagpur,Delhi,241766.0,133.0,12.0,Fast Charging,Rural,2024.0,9.0
+EV100729,2025-04-27,Hyundai,Kona Electric,Electric Car,Lucknow,Maharashtra,4530896.0,224.0,24.0,Home,Urban,2025.0,4.0
+EV100730,2025-09-02,Hyundai,Creta Electric,Electric Car,Jaipur,Rajasthan,4995295.0,439.0,74.0,Fast Charging,Semi-Urban,2025.0,9.0
+EV100731,2026-08-02,Tesla,Model 3,Electric Scooter,Hyderabad,West Bengal,114745.0,90.0,30.0,Public,Semi-Urban,2026.0,8.0
+EV100732,2025-10-21,BYD,e6,Electric Car,Kolkata,Rajasthan,2267734.0,378.0,12.0,Home,Urban,2025.0,10.0
+EV100733,2025-02-05,BYD,Seal,Electric Bike,Nagpur,Telangana,165975.0,214.0,17.0,Fast Charging,Semi-Urban,2025.0,2.0
+EV100734,2024-04-25,MG,Comet EV,Electric Scooter,Chennai,Rajasthan,138050.0,139.0,19.0,Home,Semi-Urban,2024.0,4.0
+EV100735,2024-04-15,Hyundai,Creta Electric,Electric Scooter,Ahmedabad,Delhi,108730.0,119.0,34.0,Public,Urban,2024.0,4.0
+EV100736,2025-02-14,Tesla,Model Y,Electric Scooter,Jaipur,Kerala,87315.0,106.0,9.0,Home,Rural,2025.0,2.0
+EV100737,2024-03-08,Ather,Rizta,Electric Car,Chennai,Tamil Nadu,4922132.0,522.0,10.0,Public,Semi-Urban,2024.0,3.0
+EV100738,2025-07-11,OLA,S1 X,Electric Scooter,Kolkata,Tamil Nadu,234645.0,141.0,15.0,Public,Urban,2025.0,7.0
+EV100739,2025-08-29,Ather,450X,Electric Scooter,Jaipur,Rajasthan,155349.0,119.0,52.0,Home,Semi-Urban,2025.0,8.0
+EV100740,2025-09-04,OLA,S1 Pro,Electric Car,Pune,West Bengal,5500000.0,388.0,30.0,Fast Charging,Semi-Urban,2025.0,9.0
+EV100741,2024-08-10,Tata,Nexon EV,Electric Scooter,Nagpur,West Bengal,202387.0,205.0,9.0,Public,Urban,2024.0,8.0
+EV100742,2025-06-28,Hyundai,Ioniq 5,Electric Scooter,Bengaluru,Kerala,166512.0,162.0,19.0,Fast Charging,Urban,2025.0,6.0
+EV100743,2025-08-06,KIA,Carens EV,Electric Car,Lucknow,Gujarat,3396985.0,566.0,14.0,Fast Charging,Rural,2025.0,8.0
+EV100744,2025-08-19,KIA,EV6,Electric Bike,Mumbai,West Bengal,206619.0,168.0,12.0,Fast Charging,Urban,2025.0,8.0
+EV100745,2026-07-11,Tata,Tiago EV,Electric Bike,Kochi,Maharashtra,90000.0,80.0,17.0,Public,Semi-Urban,2026.0,7.0
+EV100746,2024-08-28,BYD,Atto 3,Electric Car,Ahmedabad,West Bengal,2419741.0,346.0,6.0,Fast Charging,Rural,2024.0,8.0
+EV100747,2025-07-12,OLA,S1 X,Electric Car,Delhi,Karnataka,5404364.0,379.0,13.0,Home,Rural,2025.0,7.0
+EV100748,2024-06-06,KIA,Carens EV,Electric Car,Bengaluru,Karnataka,4101674.0,236.0,7.0,Home,Rural,2024.0,6.0
+EV100749,2024-05-19,Ather,Rizta,Electric Car,Pune,Karnataka,2741604.0,450.0,18.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV100750,2025-04-10,OLA,S1 Pro,Electric Bike,Kochi,Kerala,109337.0,174.0,28.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100751,2025-09-11,Hyundai,Ioniq 5,Electric Car,Mumbai,West Bengal,5500000.0,389.0,28.0,Public,Urban,2025.0,9.0
+EV100752,2026-08-06,BYD,Seal,Electric Scooter,Kochi,West Bengal,93685.0,125.0,44.0,Home,Rural,2026.0,8.0
+EV100753,2025-08-17,KIA,EV6,Electric Scooter,Hyderabad,Delhi,174461.0,91.0,15.0,Public,Rural,2025.0,8.0
+EV100754,2025-06-13,BYD,Seal,Electric Bike,Pune,Uttar Pradesh,172220.0,231.0,15.0,Home,Urban,2025.0,6.0
+EV100755,2025-09-19,MG,Comet EV,Electric Scooter,Mumbai,Telangana,72998.0,150.0,18.0,Home,Semi-Urban,2025.0,9.0
+EV100756,2025-03-07,Ather,Rizta,Electric Scooter,Chennai,Gujarat,144359.0,113.0,8.0,Home,Rural,2025.0,3.0
+EV100757,2026-03-14,BYD,e6,Electric Bike,Jaipur,Gujarat,312363.0,90.0,1.0,Fast Charging,Rural,2026.0,3.0
+EV100758,2024-10-25,Tata,Punch EV,Electric Car,Kolkata,West Bengal,3073247.0,191.0,14.0,Fast Charging,Urban,2024.0,10.0
+EV100759,2024-09-15,MG,Comet EV,Electric Car,Nagpur,West Bengal,5500000.0,298.0,20.0,Fast Charging,Urban,2024.0,9.0
+EV100760,2026-01-26,Hyundai,Creta Electric,Electric Scooter,Nagpur,Rajasthan,220764.0,125.0,27.0,Home,Semi-Urban,2026.0,1.0
+EV100761,2024-07-04,Mahindra,BE 6,Electric Scooter,Kochi,Maharashtra,143769.0,141.0,19.0,Home,Urban,2024.0,7.0
+EV100762,2026-02-09,Hyundai,Ioniq 5,Electric Scooter,Ahmedabad,Kerala,167504.0,106.0,42.0,Fast Charging,Rural,2026.0,2.0
+EV100763,2026-01-21,Mahindra,XEV 9e,Electric Scooter,Chennai,Maharashtra,249653.0,166.0,5.0,Home,Urban,2026.0,1.0
+EV100764,2024-11-04,OLA,S1 X,Electric Car,Hyderabad,Uttar Pradesh,3351492.0,278.0,20.0,Public,Rural,2024.0,11.0
+EV100765,2025-06-27,BYD,Atto 3,Electric Car,Ahmedabad,Maharashtra,1114414.0,301.0,8.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100766,2024-04-09,Tesla,Model 3,Electric Scooter,Kochi,Telangana,152735.0,213.0,4.0,Fast Charging,Rural,2024.0,4.0
+EV100767,2024-10-03,BYD,Seal,Electric Bike,Bengaluru,Delhi,160912.0,123.0,16.0,Public,Semi-Urban,2024.0,10.0
+EV100768,2025-11-19,Mahindra,XEV 9e,Electric Scooter,Jaipur,Tamil Nadu,161510.0,148.0,20.0,Public,Rural,2025.0,11.0
+EV100769,2025-11-19,KIA,EV6,Electric Bike,Mumbai,Delhi,200547.0,82.0,10.0,Home,Rural,2025.0,11.0
+EV100770,2024-08-12,Ather,Rizta,Electric Car,Kolkata,Gujarat,2618400.0,286.0,13.0,Home,Urban,2024.0,8.0
+EV100771,2025-11-03,Tata,Punch EV,Electric Scooter,Delhi,West Bengal,190975.0,166.0,39.0,Public,Urban,2025.0,11.0
+EV100772,2025-11-03,Hyundai,Ioniq 5,Electric Car,Lucknow,West Bengal,3879095.0,517.0,34.0,Home,Urban,2025.0,11.0
+EV100773,2025-04-23,BYD,Seal,Electric Scooter,Lucknow,Delhi,94506.0,166.0,29.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100774,2024-06-14,KIA,Carens EV,Electric Scooter,Pune,Gujarat,144007.0,187.0,23.0,Fast Charging,Semi-Urban,2024.0,6.0
+EV100775,2026-04-12,Tata,Tiago EV,Electric Car,Bengaluru,Karnataka,3596392.0,365.0,25.0,Fast Charging,Urban,2026.0,4.0
+EV100776,2025-05-18,Hyundai,Creta Electric,Electric Scooter,Pune,Karnataka,109876.0,151.0,55.0,Fast Charging,Urban,2025.0,5.0
+EV100777,2026-01-02,MG,Comet EV,Electric Scooter,Bengaluru,Delhi,162749.0,75.0,25.0,Home,Rural,2026.0,1.0
+EV100778,2026-07-07,Ather,450X,Electric Scooter,Hyderabad,Karnataka,274032.0,168.0,17.0,Home,Urban,2026.0,7.0
+EV100779,2025-12-17,BYD,Atto 3,Electric Scooter,Chennai,Kerala,233658.0,156.0,11.0,Public,Rural,2025.0,12.0
+EV100780,2025-03-22,Ather,Rizta,Electric Bike,Ahmedabad,Delhi,90000.0,172.0,42.0,Home,Semi-Urban,2025.0,3.0
+EV100781,2025-08-03,Ather,450X,Electric Bike,Kochi,Telangana,200997.0,137.0,6.0,Fast Charging,Semi-Urban,2025.0,8.0
+EV100782,2025-07-01,MG,Comet EV,Electric Car,Chennai,Delhi,2555485.0,533.0,25.0,Fast Charging,Rural,2025.0,7.0
+EV100783,2025-01-28,Tesla,Model 3,Electric Car,Lucknow,Tamil Nadu,3167633.0,306.0,21.0,Fast Charging,Urban,2025.0,1.0
+EV100784,2024-03-27,KIA,Carens EV,Electric Scooter,Lucknow,Rajasthan,250000.0,180.0,5.0,Home,Urban,2024.0,3.0
+EV100785,2025-02-02,Mahindra,BE 6,Electric Car,Pune,Uttar Pradesh,3335548.0,450.0,17.0,Fast Charging,Rural,2025.0,2.0
+EV100786,2024-02-07,Ather,450X,Electric Bike,Chennai,Maharashtra,266474.0,168.0,17.0,Public,Urban,2024.0,2.0
+EV100787,2025-11-14,Mahindra,XEV 9e,Electric Car,Kochi,Rajasthan,2983812.0,575.0,6.0,Public,Urban,2025.0,11.0
+EV100788,2024-02-07,Mahindra,XUV400,Electric Scooter,Kolkata,Karnataka,221199.0,143.0,6.0,Home,Semi-Urban,2024.0,2.0
+EV100789,2025-12-19,Tata,Nexon EV,Electric Bike,Lucknow,Karnataka,244226.0,82.0,6.0,Public,Urban,2025.0,12.0
+EV100790,2025-09-17,MG,Comet EV,Electric Bike,Nagpur,West Bengal,191091.0,91.0,17.0,Home,Urban,2025.0,9.0
+EV100791,2026-04-03,Mahindra,XUV400,Electric Scooter,Delhi,Kerala,211345.0,121.0,15.0,Public,Rural,2026.0,4.0
+EV100792,2024-11-25,MG,ZS EV,Electric Car,Delhi,Maharashtra,1766002.0,429.0,25.0,Fast Charging,Urban,2024.0,11.0
+EV100793,2024-06-21,Hyundai,Ioniq 5,Electric Car,Kolkata,Telangana,3829404.0,412.0,27.0,Fast Charging,Urban,2024.0,6.0
+EV100794,2024-04-12,Tata,Nexon EV,Electric Bike,Lucknow,West Bengal,180747.0,144.0,16.0,Home,Urban,2024.0,4.0
+EV100795,2024-01-08,MG,ZS EV,Electric Bike,Nagpur,Delhi,153753.0,200.0,21.0,Public,Semi-Urban,2024.0,1.0
+EV100796,2024-07-30,Ather,450X,Electric Car,Bengaluru,Gujarat,4333122.0,400.0,15.0,Fast Charging,Urban,2024.0,7.0
+EV100797,2024-07-03,Tata,Punch EV,Electric Bike,Kolkata,Rajasthan,120154.0,184.0,4.0,Home,Rural,2024.0,7.0
+EV100798,2025-03-04,BYD,Seal,Electric Scooter,Mumbai,Uttar Pradesh,70000.0,105.0,32.0,Home,Rural,2025.0,3.0
+EV100799,2025-04-20,KIA,EV6,Electric Bike,Lucknow,Tamil Nadu,264156.0,127.0,4.0,Home,Urban,2025.0,4.0
+EV100800,2024-06-29,Ather,Rizta,Electric Scooter,Nagpur,Maharashtra,92772.0,78.0,27.0,Fast Charging,Semi-Urban,2024.0,6.0
+EV100801,2025-09-23,BYD,Seal,Electric Car,Hyderabad,Maharashtra,1559835.0,224.0,17.0,Home,Rural,2025.0,9.0
+EV100802,2025-06-11,Tata,Tiago EV,Electric Car,Pune,Delhi,2581151.0,556.0,26.0,Public,Semi-Urban,2025.0,6.0
+EV100803,2024-07-22,KIA,Carens EV,Electric Scooter,Kolkata,Telangana,80002.0,105.0,52.0,Home,Semi-Urban,2024.0,7.0
+EV100804,2025-02-26,Mahindra,XEV 9e,Electric Car,Delhi,Kerala,5500000.0,554.0,18.0,Home,Semi-Urban,2025.0,2.0
+EV100805,2024-05-28,Tata,Tiago EV,Electric Scooter,Delhi,West Bengal,227203.0,138.0,14.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV100806,2025-01-02,Tata,XEV 9e,Electric Car,Bengaluru,Tamil Nadu,2847091.0,321.0,30.0,Home,Rural,2025.0,1.0
+EV100807,2024-04-23,BYD,Atto 3,Electric Scooter,Hyderabad,Rajasthan,136016.0,133.0,6.0,Fast Charging,Urban,2024.0,4.0
+EV100808,2026-09-02,Hyundai,Creta Electric,Electric Bike,Jaipur,Karnataka,259112.0,178.0,13.0,Public,Urban,2026.0,9.0
+EV100809,2026-06-01,Tesla,Model Y,Electric Car,Delhi,West Bengal,3785387.0,379.0,19.0,Fast Charging,Semi-Urban,2026.0,6.0
+EV100810,2024-09-10,OLA,S1 Pro,Electric Car,Chennai,Kerala,5405971.0,423.0,7.0,Public,Urban,2024.0,9.0
+EV100811,2024-02-15,Tata,Tiago EV,Electric Bike,Mumbai,Rajasthan,143329.0,205.0,22.0,Public,Urban,2024.0,2.0
+EV100812,2026-04-09,OLA,S1 X,Electric Car,Kolkata,Delhi,1392412.0,370.0,21.0,Home,Urban,2026.0,4.0
+EV100813,2026-01-19,Tata,Punch EV,Electric Scooter,Ahmedabad,Tamil Nadu,218280.0,90.0,1.0,Fast Charging,Urban,2026.0,1.0
+EV100814,2025-05-06,MG,ZS EV,Electric Scooter,Lucknow,Gujarat,98092.0,94.0,7.0,Fast Charging,Rural,2025.0,5.0
+EV100815,2025-04-19,Tata,Tiago EV,Electric Scooter,Nagpur,Kerala,250000.0,98.0,28.0,Fast Charging,Rural,2025.0,4.0
+EV100816,2024-03-13,Tata,Punch EV,Electric Scooter,Ahmedabad,Telangana,73593.0,150.0,10.0,Fast Charging,Semi-Urban,2024.0,3.0
+EV100817,2026-03-17,Tesla,Model 3,Electric Scooter,Lucknow,Delhi,235990.0,163.0,25.0,Fast Charging,Rural,2026.0,3.0
+EV100818,2026-06-28,Tesla,Model Y,Electric Bike,Bengaluru,Delhi,312984.0,145.0,14.0,Fast Charging,Rural,2026.0,6.0
+EV100819,2025-10-25,KIA,EV6,Electric Car,Kochi,Delhi,5500000.0,416.0,3.0,Home,Urban,2025.0,10.0
+EV100820,2024-04-26,Mahindra,XEV 9e,Electric Bike,Lucknow,Rajasthan,228610.0,205.0,9.0,Public,Rural,2024.0,4.0
+EV100821,2024-12-27,Mahindra,BE 6,Electric Car,Bengaluru,Uttar Pradesh,250000.0,466.0,11.0,Fast Charging,Urban,2024.0,12.0
+EV100822,2025-05-12,KIA,Carens EV,Electric Car,Kochi,Uttar Pradesh,4154136.0,528.0,4.0,Fast Charging,Rural,2025.0,5.0
+EV100823,2025-04-07,Tata,Model Y,Electric Scooter,Jaipur,Telangana,247608.0,190.0,28.0,Public,Urban,2025.0,4.0
+EV100824,2024-03-23,Ather,450X,Electric Car,Ahmedabad,Karnataka,5500000.0,301.0,85.0,Home,Urban,2024.0,3.0
+EV100825,2025-05-23,MG,ZS EV,Electric Car,Nagpur,Tamil Nadu,5044386.0,399.0,31.0,Public,Urban,2025.0,5.0
+EV100826,2025-04-30,Tesla,Model 3,Electric Car,Chennai,Kerala,3438151.0,366.0,23.0,Public,Urban,2025.0,4.0
+EV100827,2026-06-11,MG,ZS EV,Electric Car,Delhi,Uttar Pradesh,2563098.0,451.0,26.0,Fast Charging,Rural,2026.0,6.0
+EV100828,2025-08-30,KIA,Carens EV,Electric Car,Lucknow,Uttar Pradesh,2411300.0,534.0,7.0,Fast Charging,Semi-Urban,2025.0,8.0
+EV100829,2024-06-24,Hyundai,Ioniq 5,Electric Car,Bengaluru,Tamil Nadu,4990795.0,383.0,30.0,Fast Charging,Urban,2024.0,6.0
+EV100830,2024-06-19,BYD,Seal,Electric Car,Jaipur,Karnataka,3092203.0,479.0,26.0,Fast Charging,Urban,2024.0,6.0
+EV100831,2024-08-31,Hyundai,Kona Electric,Electric Bike,Pune,Maharashtra,269888.0,249.0,11.0,Public,Urban,2024.0,8.0
+EV100832,2024-07-29,KIA,EV6,Electric Car,Kochi,Maharashtra,2715882.0,460.0,16.0,Fast Charging,Urban,2024.0,7.0
+EV100833,2025-06-30,Tesla,Model 3,Electric Car,Bengaluru,Delhi,3017027.0,567.0,23.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100834,2024-06-08,Ather,Rizta,Electric Scooter,Mumbai,Uttar Pradesh,1736029.0,216.0,25.0,Fast Charging,Rural,2024.0,6.0
+EV100835,2026-08-24,Ather,Rizta,Electric Scooter,Jaipur,Karnataka,250000.0,190.0,17.0,Public,Semi-Urban,2026.0,8.0
+EV100836,2026-07-10,MG,Comet EV,Electric Car,Mumbai,Karnataka,3868282.0,465.0,11.0,Home,Semi-Urban,2026.0,7.0
+EV100837,2024-12-31,Mahindra,BE 6,Electric Car,Pune,Telangana,1979859.0,203.0,14.0,Public,Urban,2024.0,12.0
+EV100838,2024-07-19,Mahindra,BE 6,Electric Scooter,Mumbai,Delhi,128985.0,151.0,9.0,Fast Charging,Rural,2024.0,7.0
+EV100839,2024-07-18,MG,Comet EV,Electric Scooter,Hyderabad,Telangana,189546.0,160.0,28.0,Public,Urban,2024.0,7.0
+EV100840,2024-05-31,KIA,Carens EV,Electric Bike,Kolkata,Kerala,299236.0,143.0,5.0,Fast Charging,Urban,2024.0,5.0
+EV100841,2025-04-01,Tata,Carens EV,Electric Car,Kochi,Delhi,3198839.0,271.0,10.0,Fast Charging,Rural,2025.0,4.0
+EV100842,2024-06-16,Ather,Rizta,Electric Bike,Kolkata,Kerala,138436.0,204.0,5.0,Fast Charging,Urban,2024.0,6.0
+EV100843,2024-07-31,MG,ZS EV,Electric Scooter,Bengaluru,Rajasthan,250000.0,218.0,8.0,Public,Semi-Urban,2024.0,7.0
+EV100844,2024-01-07,OLA,S1 Pro,Electric Car,Ahmedabad,Gujarat,2435839.0,354.0,3.0,Public,Semi-Urban,2024.0,1.0
+EV100845,2024-07-09,Hyundai,Kona Electric,Electric Scooter,Ahmedabad,Gujarat,131718.0,153.0,15.0,Home,Semi-Urban,2024.0,7.0
+EV100846,2025-07-26,BYD,Seal,Electric Scooter,Kolkata,Rajasthan,171946.0,104.0,23.0,Home,Urban,2025.0,7.0
+EV100847,2025-10-31,Ather,450X,Electric Car,Lucknow,Gujarat,1818376.0,355.0,24.0,Fast Charging,Rural,2025.0,10.0
+EV100848,2026-02-22,Tata,Nexon EV,Electric Scooter,Bengaluru,Rajasthan,132835.0,219.0,20.0,Home,Rural,2026.0,2.0
+EV100849,2026-06-08,Ather,Rizta,Electric Scooter,Bengaluru,Rajasthan,127356.0,216.0,17.0,Home,Semi-Urban,2026.0,6.0
+EV100850,2024-06-15,Tata,Tiago EV,Electric Scooter,Jaipur,Maharashtra,113732.0,92.0,41.0,Fast Charging,Rural,2024.0,6.0
+EV100851,2024-10-06,Hyundai,Kona Electric,Electric Car,Chennai,Kerala,2352290.0,447.0,3.0,Fast Charging,Urban,2024.0,10.0
+EV100852,2025-06-10,Tesla,Model 3,Electric Car,Delhi,Karnataka,2040351.0,501.0,9.0,Public,Urban,2025.0,6.0
+EV100853,2024-10-04,KIA,Carens EV,Electric Scooter,Lucknow,Telangana,118738.0,84.0,8.0,Public,Semi-Urban,2024.0,10.0
+EV100854,2025-06-14,Tata,Nexon EV,Electric Scooter,Bengaluru,Telangana,101838.0,187.0,18.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100855,2024-08-11,Hyundai,Kona Electric,Electric Bike,Nagpur,Uttar Pradesh,262906.0,118.0,11.0,Home,Rural,2024.0,8.0
+EV100856,2025-03-03,Tesla,Model 3,Electric Scooter,Hyderabad,Delhi,141589.0,87.0,17.0,Home,Urban,2025.0,3.0
+EV100857,2025-01-06,BYD,e6,Electric Scooter,Nagpur,Rajasthan,250000.0,203.0,28.0,Public,Rural,2025.0,1.0
+EV100858,2025-12-27,KIA,EV6,Electric Scooter,Bengaluru,Maharashtra,95435.0,182.0,17.0,Home,Urban,2025.0,12.0
+EV100859,2024-08-20,Hyundai,Creta Electric,Electric Car,Bengaluru,Karnataka,4702668.0,268.0,32.0,Home,Semi-Urban,2024.0,8.0
+EV100860,2024-01-20,MG,ZS EV,Electric Scooter,Hyderabad,Kerala,180791.0,76.0,14.0,Home,Urban,2024.0,1.0
+EV100861,2025-04-25,Tesla,Model 3,Electric Scooter,Pune,Gujarat,181223.0,76.0,32.0,Fast Charging,Rural,2025.0,4.0
+EV100862,2026-07-31,MG,ZS EV,Electric Car,Pune,Tamil Nadu,5247320.0,427.0,17.0,Home,Urban,2026.0,7.0
+EV100863,2024-05-29,Tata,Nexon EV,Electric Scooter,Kolkata,Gujarat,142600.0,212.0,24.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV100864,2025-06-01,Tesla,Model 3,Electric Car,Jaipur,Delhi,3014446.0,222.0,13.0,Public,Urban,2025.0,6.0
+EV100865,2024-06-24,Mahindra,BE 6,Electric Scooter,Kochi,Maharashtra,193325.0,216.0,17.0,Home,Urban,2024.0,6.0
+EV100866,2025-12-15,Ather,Rizta,Electric Bike,Jaipur,Karnataka,203398.0,155.0,21.0,Home,Urban,2025.0,12.0
+EV100867,2024-08-07,OLA,S1 X,Electric Scooter,Kochi,Tamil Nadu,174255.0,131.0,12.0,Fast Charging,Urban,2024.0,8.0
+EV100868,2025-05-22,Tesla,Model 3,Electric Scooter,Chennai,Gujarat,77650.0,154.0,17.0,Home,Urban,2025.0,5.0
+EV100869,2024-10-17,MG,Comet EV,Electric Car,Hyderabad,West Bengal,2981307.0,489.0,6.0,Public,Semi-Urban,2024.0,10.0
+EV100870,2026-05-25,OLA,S1 X,Electric Car,Ahmedabad,Tamil Nadu,4228175.0,540.0,21.0,Fast Charging,Rural,2026.0,5.0
+EV100871,2025-05-18,Tata,Punch EV,Electric Car,Lucknow,Delhi,4002727.0,346.0,9.0,Public,Rural,2025.0,5.0
+EV100872,2025-02-08,MG,ZS EV,Electric Scooter,Ahmedabad,West Bengal,207914.0,217.0,46.0,Public,Urban,2025.0,2.0
+EV100873,2024-07-24,Mahindra,BE 6,Electric Car,Jaipur,Kerala,250000.0,232.0,11.0,Fast Charging,Rural,2024.0,7.0
+EV100874,2026-08-23,BYD,e6,Electric Scooter,Ahmedabad,Telangana,178199.0,141.0,22.0,Public,Semi-Urban,2026.0,8.0
+EV100875,2024-05-30,Tesla,Model Y,Electric Bike,Hyderabad,Delhi,269688.0,101.0,18.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV100876,2024-04-11,Hyundai,Kona Electric,Electric Car,Kolkata,Maharashtra,4330180.0,529.0,39.0,Fast Charging,Rural,2024.0,4.0
+EV100877,2025-09-11,Hyundai,Ioniq 5,Electric Car,Lucknow,Telangana,4212283.0,244.0,9.0,Public,Rural,2025.0,9.0
+EV100878,2026-03-22,MG,Comet EV,Electric Car,Hyderabad,Tamil Nadu,3153377.0,303.0,19.0,Fast Charging,Semi-Urban,2026.0,3.0
+EV100879,2026-04-08,Tesla,Model Y,Electric Scooter,Mumbai,Uttar Pradesh,225898.0,73.0,9.0,Home,Semi-Urban,2026.0,4.0
+EV100880,2025-04-05,MG,Comet EV,Electric Bike,Chennai,Kerala,118173.0,155.0,33.0,Home,Urban,2025.0,4.0
+EV100881,2024-06-17,BYD,e6,Electric Car,Hyderabad,Kerala,4136856.0,236.0,5.0,Public,Semi-Urban,2024.0,6.0
+EV100882,2025-11-06,Tata,Comet EV,Electric Scooter,Kochi,Uttar Pradesh,218543.0,141.0,4.0,Fast Charging,Rural,2025.0,11.0
+EV100883,2025-02-04,Tesla,Model 3,Electric Bike,Bengaluru,Rajasthan,90000.0,180.0,11.0,Fast Charging,Rural,2025.0,2.0
+EV100884,2024-03-03,BYD,Seal,Electric Scooter,Mumbai,West Bengal,235565.0,77.0,10.0,Fast Charging,Semi-Urban,2024.0,3.0
+EV100885,2024-12-15,Tata,Punch EV,Electric Scooter,Ahmedabad,Delhi,160294.0,134.0,12.0,Fast Charging,Semi-Urban,2024.0,12.0
+EV100886,2024-08-28,Mahindra,XUV400,Electric Car,Lucknow,Gujarat,5500000.0,429.0,10.0,Public,Urban,2024.0,8.0
+EV100887,2024-06-22,MG,Comet EV,Electric Bike,Mumbai,Uttar Pradesh,176278.0,135.0,28.0,Fast Charging,Rural,2024.0,6.0
+EV100888,2024-09-30,Tesla,Model Y,Electric Bike,Mumbai,Rajasthan,256377.0,180.0,10.0,Fast Charging,Semi-Urban,2024.0,9.0
+EV100889,2026-04-07,KIA,EV6,Electric Scooter,Bengaluru,Delhi,185613.0,174.0,7.0,Home,Semi-Urban,2026.0,4.0
+EV100890,2025-09-21,KIA,EV6,Electric Scooter,Bengaluru,Telangana,110359.0,215.0,2.0,Home,Semi-Urban,2025.0,9.0
+EV100891,2024-10-21,MG,ZS EV,Electric Scooter,Bengaluru,Maharashtra,203354.0,115.0,23.0,Public,Semi-Urban,2024.0,10.0
+EV100892,2025-08-29,MG,ZS EV,Electric Scooter,Chennai,Gujarat,204679.0,80.0,7.0,Public,Semi-Urban,2025.0,8.0
+EV100893,2025-10-29,KIA,EV6,Electric Car,Bengaluru,Uttar Pradesh,1678472.0,518.0,18.0,Fast Charging,Rural,2025.0,10.0
+EV100894,2025-02-15,Mahindra,BE 6,Electric Scooter,Bengaluru,West Bengal,109075.0,147.0,5.0,Public,Rural,2025.0,2.0
+EV100895,2025-12-21,Tata,Punch EV,Electric Car,Kochi,Karnataka,3120057.0,422.0,30.0,Home,Rural,2025.0,12.0
+EV100896,2026-08-17,Ather,Rizta,Electric Bike,Lucknow,Uttar Pradesh,273372.0,218.0,13.0,Fast Charging,Rural,2026.0,8.0
+EV100897,2024-07-24,Tata,Punch EV,Electric Scooter,Chennai,Rajasthan,250000.0,92.0,23.0,Home,Rural,2024.0,7.0
+EV100898,2025-02-24,BYD,Seal,Electric Scooter,Chennai,Delhi,105456.0,165.0,7.0,Fast Charging,Semi-Urban,2025.0,2.0
+EV100899,2025-12-04,Hyundai,Ioniq 5,Electric Scooter,Jaipur,Tamil Nadu,223607.0,131.0,31.0,Home,Urban,2025.0,12.0
+EV100900,2025-04-20,Mahindra,BE 6,Electric Car,Hyderabad,Uttar Pradesh,4686596.0,596.0,14.0,Fast Charging,Rural,2025.0,4.0
+EV100901,2024-10-06,Mahindra,XUV400,Electric Bike,Nagpur,Maharashtra,266363.0,124.0,14.0,Fast Charging,Rural,2024.0,10.0
+EV100902,2025-05-12,Tata,Punch EV,Electric Scooter,Mumbai,Maharashtra,139261.0,199.0,5.0,Home,Semi-Urban,2025.0,5.0
+EV100903,2026-07-07,MG,Comet EV,Electric Scooter,Chennai,Delhi,209581.0,130.0,5.0,Public,Urban,2026.0,7.0
+EV100904,2025-06-18,Tesla,Model 3,Electric Car,Lucknow,West Bengal,2404287.0,579.0,18.0,Public,Semi-Urban,2025.0,6.0
+EV100905,2025-09-06,MG,ZS EV,Electric Scooter,Pune,Telangana,195476.0,119.0,4.0,Public,Rural,2025.0,9.0
+EV100906,2024-08-11,Mahindra,BE 6,Electric Car,Nagpur,Delhi,1330342.0,254.0,33.0,Fast Charging,Semi-Urban,2024.0,8.0
+EV100907,2025-06-30,Tata,Tiago EV,Electric Car,Chennai,Delhi,4984088.0,313.0,17.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV100908,2025-01-06,BYD,Atto 3,Electric Scooter,Hyderabad,Telangana,101384.0,193.0,18.0,Home,Rural,2025.0,1.0
+EV100909,2025-11-09,Tata,Punch EV,Electric Bike,Mumbai,Tamil Nadu,189151.0,123.0,9.0,Fast Charging,Semi-Urban,2025.0,11.0
+EV100910,2025-07-01,KIA,EV6,Electric Scooter,Delhi,Rajasthan,102212.0,128.0,26.0,Fast Charging,Semi-Urban,2025.0,7.0
+EV100911,2024-08-03,Mahindra,BE 6,Electric Car,Nagpur,Rajasthan,2921107.0,445.0,19.0,Public,Semi-Urban,2024.0,8.0
+EV100912,2026-04-22,BYD,Atto 3,Electric Scooter,Hyderabad,Telangana,139814.0,181.0,16.0,Fast Charging,Rural,2026.0,4.0
+EV100913,2025-12-16,MG,ZS EV,Electric Car,Bengaluru,Uttar Pradesh,3036899.0,208.0,9.0,Fast Charging,Rural,2025.0,12.0
+EV100914,2025-04-09,Tesla,Model Y,Electric Scooter,Kolkata,Maharashtra,250000.0,184.0,31.0,Public,Rural,2025.0,4.0
+EV100915,2024-01-04,Ather,450X,Electric Car,Ahmedabad,Tamil Nadu,5427215.0,444.0,18.0,Fast Charging,Rural,2024.0,1.0
+EV100916,2025-06-12,Hyundai,Kona Electric,Electric Car,Kolkata,Karnataka,3026775.0,536.0,36.0,Public,Semi-Urban,2025.0,6.0
+EV100917,2025-05-04,KIA,Carens EV,Electric Scooter,Kolkata,Karnataka,143690.0,109.0,40.0,Public,Rural,2025.0,5.0
+EV100918,2024-03-27,BYD,Atto 3,Electric Scooter,Ahmedabad,Telangana,111626.0,97.0,17.0,Fast Charging,Rural,2024.0,3.0
+EV100919,2025-10-24,Tata,Punch EV,Electric Car,Jaipur,Tamil Nadu,2738296.0,561.0,30.0,Fast Charging,Urban,2025.0,10.0
+EV100920,2025-02-14,Hyundai,Kona Electric,Electric Car,Jaipur,Kerala,2359351.0,432.0,19.0,Home,Urban,2025.0,2.0
+EV100921,2024-04-30,Hyundai,Creta Electric,Electric Bike,Mumbai,Uttar Pradesh,192669.0,154.0,3.0,Fast Charging,Rural,2024.0,4.0
+EV100922,2024-07-27,Mahindra,XEV 9e,Electric Scooter,Delhi,Gujarat,211461.0,113.0,6.0,Fast Charging,Semi-Urban,2024.0,7.0
+EV100923,2024-08-08,Mahindra,XEV 9e,Electric Car,Bengaluru,Tamil Nadu,1599183.0,356.0,11.0,Fast Charging,Urban,2024.0,8.0
+EV100924,2025-09-24,BYD,Atto 3,Electric Car,Hyderabad,Tamil Nadu,1149006.0,335.0,37.0,Public,Rural,2025.0,9.0
+EV100925,2024-05-16,Tata,Tiago EV,Electric Scooter,Chennai,Kerala,247343.0,173.0,26.0,Public,Semi-Urban,2024.0,5.0
+EV100926,2024-04-07,BYD,Atto 3,Electric Scooter,Kochi,Maharashtra,95891.0,78.0,20.0,Home,Semi-Urban,2024.0,4.0
+EV100927,2024-09-16,Tata,Nexon EV,Electric Bike,Kochi,West Bengal,350000.0,145.0,23.0,Fast Charging,Rural,2024.0,9.0
+EV100928,2025-08-17,Tesla,Model 3,Electric Car,Nagpur,Gujarat,5500000.0,251.0,27.0,Fast Charging,Semi-Urban,2025.0,8.0
+EV100929,2024-11-20,Hyundai,Kona Electric,Electric Bike,Kolkata,Uttar Pradesh,291330.0,154.0,22.0,Fast Charging,Urban,2024.0,11.0
+EV100930,2026-06-11,Hyundai,Ioniq 5,Electric Car,Bengaluru,Telangana,2104152.0,569.0,10.0,Fast Charging,Semi-Urban,2026.0,6.0
+EV100931,2024-11-16,BYD,e6,Electric Scooter,Ahmedabad,Karnataka,202988.0,117.0,21.0,Fast Charging,Urban,2024.0,11.0
+EV100932,2024-07-12,Ather,450X,Electric Scooter,Nagpur,Maharashtra,197079.0,104.0,24.0,Home,Semi-Urban,2024.0,7.0
+EV100933,2024-04-28,Ather,Rizta,Electric Car,Hyderabad,Maharashtra,5500000.0,365.0,19.0,Public,Rural,2024.0,4.0
+EV100934,2026-05-16,Ather,450X,Electric Scooter,Kolkata,Karnataka,244389.0,89.0,16.0,Home,Urban,2026.0,5.0
+EV100935,2026-02-06,Hyundai,Kona Electric,Electric Bike,Kochi,Gujarat,127220.0,176.0,9.0,Public,Rural,2026.0,2.0
+EV100936,2026-02-24,Tata,Punch EV,Electric Car,Jaipur,Karnataka,2311651.0,355.0,9.0,Home,Urban,2026.0,2.0
+EV100937,2024-01-27,MG,Comet EV,Electric Scooter,Bengaluru,Delhi,117430.0,129.0,17.0,Public,Urban,2024.0,1.0
+EV100938,2024-03-24,Hyundai,Kona Electric,Electric Scooter,Hyderabad,Rajasthan,240134.0,138.0,20.0,Fast Charging,Rural,2024.0,3.0
+EV100939,2025-11-02,KIA,EV6,Electric Scooter,Jaipur,Rajasthan,128956.0,119.0,24.0,Public,Rural,2025.0,11.0
+EV100940,2026-06-02,Hyundai,Kona Electric,Electric Bike,Mumbai,Gujarat,349809.0,135.0,30.0,Home,Rural,2026.0,6.0
+EV100941,2025-02-12,OLA,S1 Pro,Electric Car,Bengaluru,Karnataka,1890902.0,281.0,19.0,Fast Charging,Urban,2025.0,2.0
+EV100942,2025-02-01,MG,XUV400,Electric Car,Ahmedabad,Gujarat,3976353.0,452.0,9.0,Public,Urban,2025.0,2.0
+EV100943,2026-01-23,Ather,Rizta,Electric Car,Bengaluru,West Bengal,2356309.0,235.0,23.0,Public,Urban,2026.0,1.0
+EV100944,2025-05-16,Tesla,Model 3,Electric Scooter,Hyderabad,Kerala,86484.0,141.0,32.0,Public,Rural,2025.0,5.0
+EV100945,2025-09-20,OLA,S1 X,Electric Car,Nagpur,Kerala,3947697.0,445.0,10.0,Home,Urban,2025.0,9.0
+EV100946,2025-10-25,Ather,450X,Electric Scooter,Lucknow,Karnataka,207905.0,210.0,8.0,Public,Rural,2025.0,10.0
+EV100947,2025-04-24,MG,Comet EV,Electric Scooter,Ahmedabad,Delhi,250000.0,206.0,21.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV100948,2026-07-13,Tata,Creta Electric,Electric Car,Bengaluru,Tamil Nadu,1533021.0,400.0,6.0,Fast Charging,Rural,2026.0,7.0
+EV100949,2025-06-09,MG,ZS EV,Electric Car,Pune,Uttar Pradesh,5235704.0,358.0,13.0,Home,Semi-Urban,2025.0,6.0
+EV100950,2024-09-17,BYD,Seal,Electric Scooter,Jaipur,Delhi,222408.0,185.0,12.0,Home,Urban,2024.0,9.0
+EV100951,2026-03-16,Ather,450X,Electric Scooter,Nagpur,Kerala,213846.0,77.0,27.0,Fast Charging,Rural,2026.0,3.0
+EV100952,2025-09-30,Ather,Rizta,Electric Car,Bengaluru,Telangana,4083739.0,586.0,16.0,Home,Urban,2025.0,9.0
+EV100953,2024-04-18,BYD,e6,Electric Car,Ahmedabad,Uttar Pradesh,2471182.0,188.0,16.0,Fast Charging,Urban,2024.0,4.0
+EV100954,2025-12-09,Ather,Rizta,Electric Car,Ahmedabad,West Bengal,2917941.0,485.0,3.0,Fast Charging,Rural,2025.0,12.0
+EV100955,2026-04-03,KIA,Carens EV,Electric Scooter,Bengaluru,Delhi,213452.0,89.0,25.0,Home,Urban,2026.0,4.0
+EV100956,2024-07-11,Tata,Punch EV,Electric Car,Mumbai,Tamil Nadu,5500000.0,382.0,33.0,Home,Rural,2024.0,7.0
+EV100957,2024-03-29,Tesla,Model 3,Electric Car,Bengaluru,Rajasthan,5500000.0,242.0,20.0,Fast Charging,Urban,2024.0,3.0
+EV100958,2025-12-20,Hyundai,Creta Electric,Electric Car,Hyderabad,Rajasthan,4961419.0,378.0,47.0,Fast Charging,Rural,2025.0,12.0
+EV100959,2026-04-29,BYD,e6,Electric Car,Ahmedabad,Maharashtra,2484167.0,320.0,23.0,Home,Rural,2026.0,4.0
+EV100960,2026-05-18,OLA,S1 X,Electric Scooter,Hyderabad,West Bengal,85241.0,159.0,15.0,Public,Semi-Urban,2026.0,5.0
+EV100961,2025-06-09,OLA,S1 X,Electric Car,Jaipur,West Bengal,3989311.0,573.0,25.0,Fast Charging,Urban,2025.0,6.0
+EV100962,2025-03-08,Tesla,Model 3,Electric Scooter,Jaipur,Telangana,238299.0,153.0,16.0,Fast Charging,Rural,2025.0,3.0
+EV100963,2025-05-21,Ather,450X,Electric Car,Jaipur,Telangana,2310608.0,368.0,7.0,Fast Charging,Urban,2025.0,5.0
+EV100964,2024-12-18,Mahindra,BE 6,Electric Car,Hyderabad,Tamil Nadu,5500000.0,393.0,17.0,Public,Rural,2024.0,12.0
+EV100965,2026-06-23,Ather,450X,Electric Car,Bengaluru,Kerala,1745174.0,583.0,32.0,Public,Rural,2026.0,6.0
+EV100966,2025-09-28,Ather,450X,Electric Scooter,Delhi,Gujarat,250000.0,141.0,22.0,Home,Rural,2025.0,9.0
+EV100967,2024-06-09,Hyundai,Kona Electric,Electric Scooter,Jaipur,Rajasthan,101016.0,85.0,24.0,Fast Charging,Semi-Urban,2024.0,6.0
+EV100968,2024-02-18,Mahindra,XEV 9e,Electric Car,Mumbai,Telangana,2086495.0,550.0,31.0,Fast Charging,Rural,2024.0,2.0
+EV100969,2026-04-06,Tesla,Model 3,Electric Car,Pune,Telangana,3836513.0,361.0,42.0,Public,Urban,2026.0,4.0
+EV100970,2024-09-21,Mahindra,BE 6,Electric Car,Chennai,Telangana,4552567.0,503.0,8.0,Public,Semi-Urban,2024.0,9.0
+EV100971,2025-12-24,Tesla,Model 3,Electric Bike,Mumbai,Maharashtra,350000.0,216.0,20.0,Home,Urban,2025.0,12.0
+EV100972,2025-06-03,MG,ZS EV,Electric Scooter,Pune,Karnataka,95317.0,164.0,19.0,Home,Semi-Urban,2025.0,6.0
+EV100973,2025-03-28,BYD,e6,Electric Car,Kochi,Rajasthan,4374431.0,488.0,12.0,Home,Urban,2025.0,3.0
+EV100974,2024-05-05,KIA,EV6,Electric Scooter,Delhi,Rajasthan,149500.0,215.0,9.0,Home,Urban,2024.0,5.0
+EV100975,2024-10-20,Ather,Rizta,Electric Scooter,Kochi,Karnataka,149623.0,83.0,7.0,Fast Charging,Rural,2024.0,10.0
+EV100976,2024-06-04,KIA,EV6,Electric Scooter,Kochi,Kerala,211747.0,188.0,15.0,Home,Semi-Urban,2024.0,6.0
+EV100977,2026-09-01,OLA,S1 X,Electric Car,Kochi,Telangana,3410120.0,576.0,30.0,Fast Charging,Urban,2026.0,9.0
+EV100978,2024-03-27,Tesla,Model 3,Electric Scooter,Chennai,Telangana,120417.0,130.0,20.0,Home,Semi-Urban,2024.0,3.0
+EV100979,2026-08-02,Tata,Punch EV,Electric Car,Lucknow,Karnataka,3206087.0,559.0,11.0,Home,Rural,2026.0,8.0
+EV100980,2025-03-05,Tesla,Model Y,Electric Bike,Ahmedabad,Uttar Pradesh,201384.0,229.0,21.0,Public,Rural,2025.0,3.0
+EV100981,2026-04-26,KIA,EV6,Electric Car,Bengaluru,Uttar Pradesh,3561581.0,436.0,15.0,Home,Rural,2026.0,4.0
+EV100982,2025-10-01,Mahindra,XEV 9e,Electric Car,Jaipur,Rajasthan,2215419.0,473.0,10.0,Public,Semi-Urban,2025.0,10.0
+EV100983,2024-02-07,BYD,Atto 3,Electric Scooter,Kochi,Telangana,116510.0,128.0,12.0,Public,Rural,2024.0,2.0
+EV100984,2024-08-06,Tesla,Model Y,Electric Bike,Pune,Uttar Pradesh,193530.0,174.0,4.0,Public,Semi-Urban,2024.0,8.0
+EV100985,2024-01-29,Hyundai,Kona Electric,Electric Scooter,Kochi,West Bengal,129918.0,109.0,6.0,Fast Charging,Rural,2024.0,1.0
+EV100986,2026-01-19,Tesla,Model 3,Electric Car,Mumbai,Telangana,1939600.0,289.0,13.0,Public,Semi-Urban,2026.0,1.0
+EV100987,2024-11-01,MG,Comet EV,Electric Car,Jaipur,Maharashtra,2387716.0,370.0,12.0,Home,Rural,2024.0,11.0
+EV100988,2024-12-24,Tesla,Model 3,Electric Bike,Bengaluru,Gujarat,238714.0,193.0,16.0,Public,Rural,2024.0,12.0
+EV100989,2024-04-17,OLA,S1 Pro,Electric Scooter,Chennai,Uttar Pradesh,185787.0,157.0,16.0,Fast Charging,Semi-Urban,2024.0,4.0
+EV100990,2024-03-24,OLA,S1 X,Electric Car,Pune,Maharashtra,2116172.0,358.0,38.0,Home,Semi-Urban,2024.0,3.0
+EV100991,2025-11-24,MG,Comet EV,Electric Car,Kochi,Kerala,3519737.0,427.0,19.0,Public,Semi-Urban,2025.0,11.0
+EV100992,2025-03-26,Ather,Rizta,Electric Bike,Kolkata,Rajasthan,350000.0,204.0,5.0,Fast Charging,Urban,2025.0,3.0
+EV100993,2025-12-29,Hyundai,Ioniq 5,Electric Car,Hyderabad,Karnataka,4406210.0,587.0,16.0,Public,Rural,2025.0,12.0
+EV100994,2025-04-29,Mahindra,BE 6,Electric Car,Mumbai,Karnataka,2130862.0,577.0,6.0,Fast Charging,Urban,2025.0,4.0
+EV100995,2024-05-03,OLA,S1 Pro,Electric Scooter,Chennai,West Bengal,70000.0,113.0,49.0,Public,Urban,2024.0,5.0
+EV100996,2024-11-06,BYD,Seal,Electric Car,Bengaluru,Rajasthan,4471707.0,192.0,12.0,Home,Urban,2024.0,11.0
+EV100997,2026-08-17,OLA,S1 Pro,Electric Scooter,Bengaluru,Gujarat,229941.0,102.0,14.0,Public,Semi-Urban,2026.0,8.0
+EV100998,2024-03-10,Tata,Model Y,Electric Car,Mumbai,Kerala,4534537.0,382.0,46.0,Fast Charging,Rural,2024.0,3.0
+EV100999,2025-05-01,MG,Carens EV,Electric Scooter,Kolkata,West Bengal,154707.0,90.0,36.0,Home,Rural,2025.0,5.0
+EV101000,2024-06-01,Ather,Rizta,Electric Scooter,Kolkata,Telangana,155597.0,83.0,14.0,Public,Rural,2024.0,6.0
+EV101001,2026-07-10,OLA,S1 Pro,Electric Scooter,Pune,Telangana,250000.0,151.0,43.0,Public,Semi-Urban,2026.0,7.0
+EV101002,2025-12-25,MG,ZS EV,Electric Scooter,Mumbai,West Bengal,141440.0,165.0,20.0,Public,Semi-Urban,2025.0,12.0
+EV101003,2024-07-16,MG,ZS EV,Electric Scooter,Jaipur,Uttar Pradesh,90955.0,157.0,58.0,Home,Rural,2024.0,7.0
+EV101004,2024-05-03,Ather,450X,Electric Scooter,Lucknow,Uttar Pradesh,148948.0,97.0,2.0,Home,Semi-Urban,2024.0,5.0
+EV101005,2026-05-09,Mahindra,XEV 9e,Electric Scooter,Jaipur,Rajasthan,236011.0,83.0,20.0,Public,Rural,2026.0,5.0
+EV101006,2026-06-01,Tata,Tiago EV,Electric Car,Mumbai,Telangana,1891965.0,388.0,8.0,Fast Charging,Urban,2026.0,6.0
+EV101007,2024-09-20,Tata,Carens EV,Electric Bike,Pune,Delhi,159470.0,247.0,11.0,Public,Urban,2024.0,9.0
+EV101008,2026-02-25,Hyundai,Ioniq 5,Electric Car,Pune,Karnataka,4510474.0,309.0,18.0,Fast Charging,Rural,2026.0,2.0
+EV101009,2024-01-28,KIA,EV6,Electric Car,Kolkata,Maharashtra,3787442.0,305.0,35.0,Home,Semi-Urban,2024.0,1.0
+EV101010,2025-01-19,KIA,Carens EV,Electric Car,Pune,Maharashtra,2460744.0,265.0,18.0,Public,Rural,2025.0,1.0
+EV101011,2026-08-30,Tesla,Model Y,Electric Car,Pune,Gujarat,2119537.0,205.0,11.0,Fast Charging,Rural,2026.0,8.0
+EV101012,2025-02-21,Ather,450X,Electric Car,Lucknow,Tamil Nadu,3854135.0,564.0,10.0,Home,Semi-Urban,2025.0,2.0
+EV101013,2026-02-20,MG,ZS EV,Electric Scooter,Kochi,Karnataka,117990.0,116.0,9.0,Fast Charging,Semi-Urban,2026.0,2.0
+EV101014,2026-03-12,Tesla,Model 3,Electric Car,Mumbai,Telangana,2080057.0,407.0,21.0,Home,Urban,2026.0,3.0
+EV101015,2024-02-12,OLA,S1 X,Electric Scooter,Mumbai,Rajasthan,189430.0,214.0,10.0,Public,Semi-Urban,2024.0,2.0
+EV101016,2024-03-02,Hyundai,Kona Electric,Electric Scooter,Hyderabad,Gujarat,196654.0,160.0,10.0,Public,Semi-Urban,2024.0,3.0
+EV101017,2026-05-10,Mahindra,XEV 9e,Electric Bike,Kochi,Gujarat,195558.0,88.0,8.0,Public,Rural,2026.0,5.0
+EV101018,2025-02-08,BYD,Atto 3,Electric Scooter,Kolkata,Delhi,118471.0,195.0,16.0,Public,Rural,2025.0,2.0
+EV101019,2025-09-17,OLA,S1 Pro,Electric Bike,Kochi,Telangana,328363.0,230.0,11.0,Fast Charging,Rural,2025.0,9.0
+EV101020,2024-09-08,Ather,Rizta,Electric Car,Lucknow,Telangana,3808978.0,323.0,5.0,Fast Charging,Rural,2024.0,9.0
+EV101021,2026-08-02,Hyundai,Creta Electric,Electric Car,Mumbai,West Bengal,5252216.0,380.0,13.0,Home,Rural,2026.0,8.0
+EV101022,2026-02-19,Tesla,Model Y,Electric Car,Ahmedabad,Uttar Pradesh,3303451.0,214.0,2.0,Public,Rural,2026.0,2.0
+EV101023,2025-03-31,Tata,Punch EV,Electric Car,Lucknow,Delhi,3129828.0,328.0,30.0,Fast Charging,Rural,2025.0,3.0
+EV101024,2024-01-09,Hyundai,Creta Electric,Electric Car,Mumbai,Rajasthan,1213551.0,336.0,46.0,Home,Semi-Urban,2024.0,1.0
+EV101025,2025-11-27,Tata,Tiago EV,Electric Car,Kolkata,Telangana,1541094.0,260.0,14.0,Public,Rural,2025.0,11.0
+EV101026,2025-05-20,Mahindra,XUV400,Electric Car,Chennai,Maharashtra,2398820.0,298.0,21.0,Public,Rural,2025.0,5.0
+EV101027,2026-04-20,Tata,Nexon EV,Electric Scooter,Mumbai,Kerala,110897.0,87.0,11.0,Fast Charging,Rural,2026.0,4.0
+EV101028,2024-07-17,Hyundai,Creta Electric,Electric Scooter,Lucknow,West Bengal,130669.0,171.0,36.0,Public,Rural,2024.0,7.0
+EV101029,2024-03-07,Hyundai,Creta Electric,Electric Car,Nagpur,Gujarat,3588227.0,572.0,12.0,Home,Rural,2024.0,3.0
+EV101030,2026-05-18,BYD,Atto 3,Electric Scooter,Lucknow,Maharashtra,217816.0,219.0,49.0,Public,Rural,2026.0,5.0
+EV101031,,BYD,e6,Electric Scooter,Hyderabad,Maharashtra,119962.0,211.0,17.0,Public,Rural,,
+EV101032,2025-03-18,Tata,Tiago EV,Electric Bike,Ahmedabad,Gujarat,229926.0,101.0,37.0,Public,Semi-Urban,2025.0,3.0
+EV101033,2026-06-24,Tesla,Model 3,Electric Scooter,Kolkata,Tamil Nadu,116622.0,77.0,6.0,Fast Charging,Rural,2026.0,6.0
+EV101034,2024-07-18,Tata,Tiago EV,Electric Car,Chennai,Delhi,3230673.0,550.0,20.0,Home,Rural,2024.0,7.0
+EV101035,2026-07-28,OLA,S1 Pro,Electric Car,Delhi,Tamil Nadu,4238296.0,249.0,5.0,Fast Charging,Urban,2026.0,7.0
+EV101036,2025-05-06,MG,ZS EV,Electric Scooter,Ahmedabad,Maharashtra,236581.0,159.0,12.0,Public,Semi-Urban,2025.0,5.0
+EV101037,2025-04-29,Mahindra,XUV400,Electric Scooter,Delhi,Telangana,185726.0,195.0,24.0,Fast Charging,Rural,2025.0,4.0
+EV101038,2026-02-21,MG,Comet EV,Electric Scooter,Pune,Rajasthan,237316.0,157.0,7.0,Home,Urban,2026.0,2.0
+EV101039,2026-06-30,OLA,S1 X,Electric Bike,Kolkata,Delhi,123706.0,213.0,4.0,Home,Semi-Urban,2026.0,6.0
+EV101040,2024-04-14,OLA,S1 Pro,Electric Car,Lucknow,Maharashtra,2598125.0,415.0,12.0,Fast Charging,Semi-Urban,2024.0,4.0
+EV101041,2026-06-04,OLA,S1 Pro,Electric Car,Jaipur,West Bengal,1843727.0,184.0,21.0,Fast Charging,Semi-Urban,2026.0,6.0
+EV101042,2025-10-28,MG,Comet EV,Electric Scooter,Lucknow,Maharashtra,95460.0,138.0,16.0,Fast Charging,Rural,2025.0,10.0
+EV101043,2025-09-01,MG,ZS EV,Electric Car,Kolkata,Delhi,3855873.0,429.0,15.0,Home,Rural,2025.0,9.0
+EV101044,2024-12-29,Tesla,Model Y,Electric Car,Ahmedabad,Rajasthan,1488381.0,484.0,28.0,Fast Charging,Urban,2024.0,12.0
+EV101045,2024-05-10,Tata,Nexon EV,Electric Car,Bengaluru,West Bengal,4475442.0,363.0,8.0,Public,Semi-Urban,2024.0,5.0
+EV101046,2024-05-30,Tesla,Model 3,Electric Car,Hyderabad,Gujarat,5500000.0,433.0,14.0,Fast Charging,Semi-Urban,2024.0,5.0
+EV101047,2024-02-28,Tesla,Model 3,Electric Bike,Delhi,Uttar Pradesh,287405.0,219.0,9.0,Public,Urban,2024.0,2.0
+EV101048,2025-10-17,Mahindra,XUV400,Electric Car,Delhi,Delhi,2357346.0,323.0,9.0,Public,Semi-Urban,2025.0,10.0
+EV101049,2026-05-22,Ather,Rizta,Electric Scooter,Jaipur,West Bengal,70000.0,214.0,21.0,Public,Semi-Urban,2026.0,5.0
+EV101050,2025-04-10,Hyundai,Kona Electric,Electric Car,Mumbai,Rajasthan,2398261.0,272.0,16.0,Home,Rural,2025.0,4.0
+EV101051,2025-09-30,Mahindra,BE 6,Electric Car,Delhi,Tamil Nadu,1347994.0,382.0,5.0,Fast Charging,Rural,2025.0,9.0
+EV101052,2026-04-25,OLA,S1 Pro,Electric Car,Mumbai,Telangana,5500000.0,184.0,18.0,Fast Charging,Urban,2026.0,4.0
+EV101053,2025-03-26,Tata,Ioniq 5,Electric Scooter,Delhi,West Bengal,101623.0,207.0,36.0,Fast Charging,Urban,2025.0,3.0
+EV101054,2024-10-17,Mahindra,XUV400,Electric Bike,Nagpur,Tamil Nadu,150322.0,231.0,50.0,Public,Urban,2024.0,10.0
+EV101055,2024-07-01,Tata,Model 3,Electric Car,Delhi,Maharashtra,4463138.0,254.0,4.0,Fast Charging,Urban,2024.0,7.0
+EV101056,2025-11-01,Hyundai,Ioniq 5,Electric Car,Pune,Telangana,2012507.0,573.0,23.0,Fast Charging,Semi-Urban,2025.0,11.0
+EV101057,2026-08-21,KIA,EV6,Electric Car,Kochi,West Bengal,3893339.0,550.0,7.0,Public,Urban,2026.0,8.0
+EV101058,2024-07-15,Hyundai,Kona Electric,Electric Car,Kochi,Kerala,5500000.0,472.0,19.0,Fast Charging,Rural,2024.0,7.0
+EV101059,2026-02-20,Mahindra,XUV400,Electric Car,Jaipur,West Bengal,2283372.0,259.0,18.0,Public,Semi-Urban,2026.0,2.0
+EV101060,2024-02-24,KIA,EV6,Electric Scooter,Lucknow,Gujarat,145427.0,201.0,3.0,Public,Rural,2024.0,2.0
+EV101061,2024-03-24,Mahindra,XEV 9e,Electric Bike,Hyderabad,West Bengal,285898.0,91.0,3.0,Public,Semi-Urban,2024.0,3.0
+EV101062,2025-05-25,Tesla,Model Y,Electric Scooter,Kochi,Rajasthan,108635.0,97.0,18.0,Public,Semi-Urban,2025.0,5.0
+EV101063,2025-04-30,Ather,Rizta,Electric Scooter,Bengaluru,West Bengal,139691.0,130.0,24.0,Public,Rural,2025.0,4.0
+EV101064,2025-04-07,Mahindra,XUV400,Electric Car,Delhi,Kerala,1699672.0,272.0,3.0,Fast Charging,Semi-Urban,2025.0,4.0
+EV101065,2025-07-17,KIA,Carens EV,Electric Scooter,Pune,Karnataka,250000.0,183.0,16.0,Fast Charging,Semi-Urban,2025.0,7.0
+EV101066,2024-02-12,Mahindra,XEV 9e,Electric Scooter,Hyderabad,Uttar Pradesh,250000.0,163.0,34.0,Fast Charging,Semi-Urban,2024.0,2.0
+EV101067,2026-04-03,OLA,S1 X,Electric Scooter,Hyderabad,Telangana,126697.0,111.0,4.0,Home,Urban,2026.0,4.0
+EV101068,2024-03-18,BYD,e6,Electric Car,Chennai,Delhi,866695.0,304.0,11.0,Public,Rural,2024.0,3.0
+EV101069,2026-08-06,MG,Comet EV,Electric Scooter,Delhi,Delhi,89083.0,88.0,12.0,Fast Charging,Urban,2026.0,8.0
+EV101070,2025-11-22,KIA,EV6,Electric Scooter,Chennai,Gujarat,250000.0,115.0,22.0,Public,Semi-Urban,2025.0,11.0
+EV101071,2026-01-27,Hyundai,Creta Electric,Electric Car,Kochi,Gujarat,2850061.0,184.0,19.0,Fast Charging,Semi-Urban,2026.0,1.0
+EV101072,2026-04-21,OLA,S1 X,Electric Scooter,Jaipur,Maharashtra,195844.0,141.0,17.0,Public,Urban,2026.0,4.0
+EV101073,2026-01-10,Mahindra,XUV400,Electric Bike,Kolkata,Tamil Nadu,174582.0,161.0,23.0,Public,Rural,2026.0,1.0
+EV101074,2024-12-14,Ather,Rizta,Electric Scooter,Pune,Telangana,102836.0,197.0,46.0,Fast Charging,Rural,2024.0,12.0
+EV101075,,Ather,Rizta,Electric Car,Kochi,Maharashtra,1736029.0,337.0,8.0,Public,Urban,,
+EV101076,2026-04-09,Tata,Tiago EV,Electric Car,Lucknow,Telangana,2824770.0,323.0,19.0,Fast Charging,Semi-Urban,2026.0,4.0
+EV101077,2024-11-29,OLA,S1 X,Electric Scooter,Jaipur,Maharashtra,199239.0,155.0,27.0,Home,Urban,2024.0,11.0
+EV101078,2025-01-25,KIA,Carens EV,Electric Car,Delhi,Kerala,1232356.0,207.0,22.0,Fast Charging,Urban,2025.0,1.0
+EV101079,2025-10-16,KIA,Carens EV,Electric Scooter,Bengaluru,Delhi,193950.0,96.0,5.0,Public,Rural,2025.0,10.0
+EV101080,2024-07-10,Ather,450X,Electric Car,Delhi,Delhi,2252754.0,563.0,7.0,Fast Charging,Semi-Urban,2024.0,7.0
+EV101081,2025-06-20,BYD,e6,Electric Car,Pune,Rajasthan,1387185.0,204.0,11.0,Public,Urban,2025.0,6.0
+EV101082,2024-06-09,OLA,S1 X,Electric Car,Pune,Karnataka,3398646.0,405.0,13.0,Fast Charging,Rural,2024.0,6.0
+EV101083,2026-06-10,Tata,XUV400,Electric Car,Delhi,Gujarat,2648716.0,388.0,16.0,Public,Rural,2026.0,6.0
+EV101084,2024-07-26,BYD,e6,Electric Scooter,Kochi,Rajasthan,126087.0,111.0,19.0,Home,Urban,2024.0,7.0
+EV101085,2025-06-22,OLA,S1 Pro,Electric Car,Chennai,West Bengal,4901654.0,549.0,47.0,Fast Charging,Semi-Urban,2025.0,6.0
+EV101086,2025-10-23,MG,Comet EV,Electric Scooter,Hyderabad,Telangana,161330.0,175.0,21.0,Public,Semi-Urban,2025.0,10.0
+EV101087,2024-09-12,Hyundai,Ioniq 5,Electric Car,Nagpur,West Bengal,2762768.0,488.0,20.0,Fast Charging,Semi-Urban,2024.0,9.0
+EV101088,2025-08-05,Hyundai,Creta Electric,Electric Bike,Pune,Kerala,300471.0,199.0,40.0,Home,Urban,2025.0,8.0
+EV101089,2026-06-22,Hyundai,Ioniq 5,Electric Bike,Lucknow,Uttar Pradesh,170871.0,130.0,10.0,Home,Rural,2026.0,6.0
+EV101090,2025-02-25,Mahindra,BE 6,Electric Scooter,Kochi,Delhi,250000.0,219.0,14.0,Home,Urban,2025.0,2.0
+EV101091,2025-04-06,KIA,Carens EV,Electric Scooter,Nagpur,Gujarat,180998.0,101.0,35.0,Home,Semi-Urban,2025.0,4.0
+EV101092,,Ather,Rizta,Electric Car,Kolkata,West Bengal,3302117.0,539.0,27.0,Fast Charging,Urban,,
+EV101093,2024-11-30,MG,ZS EV,Electric Car,Lucknow,Rajasthan,2816163.0,384.0,16.0,Home,Urban,2024.0,11.0
+EV101094,2026-08-30,Mahindra,XEV 9e,Electric Scooter,Hyderabad,Karnataka,250000.0,141.0,26.0,Fast Charging,Urban,2026.0,8.0
+EV101095,2024-04-12,Tata,Punch EV,Electric Car,Nagpur,Gujarat,1401206.0,232.0,16.0,Public,Semi-Urban,2024.0,4.0
+EV101096,2024-10-06,Tata,Punch EV,Electric Car,Nagpur,Rajasthan,3744269.0,330.0,37.0,Home,Rural,2024.0,10.0
+EV101097,2025-03-28,Tesla,Model 3,Electric Car,Kolkata,Maharashtra,1823822.0,531.0,15.0,Public,Rural,2025.0,3.0
+EV101098,2025-12-07,MG,Comet EV,Electric Scooter,Bengaluru,Rajasthan,207703.0,78.0,18.0,Home,Urban,2025.0,12.0
+EV101099,2025-01-18,Mahindra,XUV400,Electric Scooter,Delhi,Tamil Nadu,137524.0,84.0,10.0,Fast Charging,Urban,2025.0,1.0
+EV101100,2025-11-27,KIA,EV6,Electric Bike,Lucknow,Delhi,258854.0,117.0,23.0,Home,Rural,2025.0,11.0
+EV101101,2025-03-01,Hyundai,Kona Electric,Electric Car,Kochi,Delhi,1846074.0,523.0,23.0,Fast Charging,Rural,2025.0,3.0
+EV101102,2025-02-08,Mahindra,XEV 9e,Electric Scooter,Ahmedabad,Delhi,70000.0,105.0,13.0,Home,Semi-Urban,2025.0,2.0
+EV101103,2025-10-31,Tata,Tiago EV,Electric Car,Chennai,Maharashtra,2662005.0,343.0,22.0,Fast Charging,Urban,2025.0,10.0
+EV101104,2025-09-30,BYD,e6,Electric Car,Chennai,Maharashtra,3471425.0,208.0,9.0,Home,Semi-Urban,2025.0,9.0
+EV101105,2025-12-30,Ather,450X,Electric Car,Kochi,West Bengal,2801812.0,252.0,32.0,Home,Rural,2025.0,12.0
+EV101106,2024-12-06,OLA,S1 Pro,Electric Car,Nagpur,Telangana,5500000.0,591.0,13.0,Public,Semi-Urban,2024.0,12.0
+EV101107,2026-07-22,Tata,Punch EV,Electric Car,Jaipur,Rajasthan,2467313.0,341.0,15.0,Public,Rural,2026.0,7.0
+EV101108,2024-01-22,Tata,Nexon EV,Electric Car,Jaipur,Delhi,4324281.0,310.0,18.0,Public,Semi-Urban,2024.0,1.0
+EV101109,2024-05-20,MG,ZS EV,Electric Scooter,Chennai,Rajasthan,126619.0,114.0,18.0,Home,Semi-Urban,2024.0,5.0
+EV101110,2026-08-03,Tata,Nexon EV,Electric Car,Kolkata,West Bengal,2575980.0,595.0,10.0,Fast Charging,Rural,2026.0,8.0
+EV101111,2024-11-21,Hyundai,Ioniq 5,Electric Bike,Lucknow,Maharashtra,345742.0,169.0,41.0,Fast Charging,Rural,2024.0,11.0
+EV101112,2026-05-17,Tata,Nexon EV,Electric Scooter,Kolkata,Telangana,245518.0,121.0,7.0,Home,Rural,2026.0,5.0
+EV101113,2025-12-13,Mahindra,XEV 9e,Electric Car,Kolkata,Tamil Nadu,2780455.0,435.0,28.0,Fast Charging,Rural,2025.0,12.0
+EV101114,2024-03-07,Ather,450X,Electric Car,Hyderabad,Delhi,2964800.0,581.0,11.0,Home,Rural,2024.0,3.0
+EV101115,2024-04-03,Mahindra,XUV400,Electric Bike,Nagpur,West Bengal,168638.0,173.0,26.0,Home,Urban,2024.0,4.0
+EV101116,2024-11-14,OLA,S1 X,Electric Scooter,Nagpur,Tamil Nadu,152227.0,107.0,8.0,Home,Rural,2024.0,11.0
+EV101117,2025-04-04,BYD,e6,Electric Car,Lucknow,Tamil Nadu,4204746.0,294.0,9.0,Fast Charging,Urban,2025.0,4.0
+EV101118,2025-01-21,KIA,Carens EV,Electric Bike,Nagpur,Rajasthan,90000.0,155.0,13.0,Public,Rural,2025.0,1.0
+EV101119,2024-01-21,Hyundai,Ioniq 5,Electric Scooter,Ahmedabad,Gujarat,216606.0,198.0,1.0,Fast Charging,Rural,2024.0,1.0
+EV101120,2024-09-20,Tesla,Model 3,Electric Scooter,Ahmedabad,Rajasthan,250000.0,116.0,21.0,Fast Charging,Semi-Urban,2024.0,9.0
+EV101121,2024-12-07,Ather,450X,Electric Scooter,Nagpur,Rajasthan,148086.0,99.0,15.0,Home,Urban,2024.0,12.0
+EV101122,2025-05-18,Tesla,Model Y,Electric Car,Ahmedabad,Kerala,1844003.0,575.0,3.0,Public,Semi-Urban,2025.0,5.0
+EV101123,2025-08-25,BYD,e6,Electric Car,Pune,Kerala,5500000.0,552.0,9.0,Home,Semi-Urban,2025.0,8.0
+EV101124,2026-02-20,Hyundai,Kona Electric,Electric Bike,Ahmedabad,Gujarat,121622.0,211.0,28.0,Public,Semi-Urban,2026.0,2.0
+EV101125,2025-12-14,Ather,Rizta,Electric Scooter,Mumbai,Kerala,139009.0,209.0,25.0,Public,Urban,2025.0,12.0
+EV101126,2025-10-08,Tata,Tiago EV,Electric Car,Pune,Maharashtra,1602153.0,473.0,12.0,Public,Urban,2025.0,10.0
+EV101127,2024-09-17,Ather,450X,Electric Car,Delhi,West Bengal,3911163.0,423.0,18.0,Public,Urban,2024.0,9.0
+EV101128,2025-02-11,MG,Comet EV,Electric Car,Kolkata,West Bengal,1886551.0,589.0,13.0,Home,Rural,2025.0,2.0
+EV101129,2026-04-29,OLA,S1 Pro,Electric Bike,Ahmedabad,Gujarat,350000.0,198.0,7.0,Public,Rural,2026.0,4.0
+EV101130,,OLA,S1 X,Electric Scooter,Ahmedabad,Delhi,239128.0,141.0,49.0,Public,Semi-Urban,,
+EV101131,2024-08-02,BYD,e6,Electric Scooter,Kolkata,Kerala,141041.0,175.0,3.0,Home,Urban,2024.0,8.0
+EV101132,2024-03-12,Tata,Nexon EV,Electric Scooter,Kolkata,Kerala,80190.0,149.0,3.0,Public,Semi-Urban,2024.0,3.0
+EV101133,2025-01-18,Hyundai,Kona Electric,Electric Scooter,Nagpur,Karnataka,250000.0,100.0,19.0,Home,Rural,2025.0,1.0
+EV101134,2024-07-09,Ather,450X,Electric Bike,Delhi,Maharashtra,239117.0,207.0,22.0,Home,Semi-Urban,2024.0,7.0
+EV101135,2025-10-03,OLA,S1 X,Electric Bike,Jaipur,Delhi,350000.0,228.0,21.0,Home,Urban,2025.0,10.0
+EV101136,2024-10-10,OLA,S1 Pro,Electric Car,Pune,Telangana,2019519.0,192.0,10.0,Home,Semi-Urban,2024.0,10.0
+EV101137,2024-03-03,MG,ZS EV,Electric Scooter,Bengaluru,Maharashtra,208309.0,170.0,13.0,Home,Urban,2024.0,3.0
+EV101138,2025-09-09,Tata,Tiago EV,Electric Car,Kochi,Gujarat,4648671.0,571.0,23.0,Fast Charging,Semi-Urban,2025.0,9.0
+EV101139,2025-11-29,KIA,Carens EV,Electric Scooter,Chennai,Telangana,240063.0,193.0,45.0,Fast Charging,Rural,2025.0,11.0
+EV101140,2026-06-13,Tata,Tiago EV,Electric Car,Chennai,Delhi,4316444.0,181.0,47.0,Public,Semi-Urban,2026.0,6.0
+EV101141,2025-09-08,Hyundai,Kona Electric,Electric Scooter,Pune,Uttar Pradesh,241835.0,112.0,9.0,Public,Urban,2025.0,9.0
+EV101142,2025-11-07,Ather,Rizta,Electric Car,Delhi,Maharashtra,1932546.0,594.0,27.0,Fast Charging,Urban,2025.0,11.0
+EV101143,2024-11-29,Tata,Punch EV,Electric Scooter,Lucknow,Rajasthan,111216.0,105.0,27.0,Fast Charging,Semi-Urban,2024.0,11.0
+EV101144,2025-03-14,MG,Comet EV,Electric Scooter,Hyderabad,Delhi,181791.0,180.0,8.0,Fast Charging,Rural,2025.0,3.0
+EV101145,2026-06-16,Hyundai,Creta Electric,Electric Car,Jaipur,Uttar Pradesh,2725430.0,193.0,12.0,Fast Charging,Urban,2026.0,6.0
+EV101146,2024-06-21,Tesla,Model Y,Electric Car,Hyderabad,Delhi,1245813.0,383.0,15.0,Public,Urban,2024.0,6.0
+EV101147,2025-12-17,Hyundai,Creta Electric,Electric Car,Pune,Delhi,2682191.0,363.0,18.0,Public,Urban,2025.0,12.0
+EV101148,2026-02-23,KIA,Carens EV,Electric Car,Bengaluru,Tamil Nadu,5500000.0,482.0,11.0,Public,Semi-Urban,2026.0,2.0
+EV101149,2026-08-02,MG,ZS EV,Electric Bike,Kochi,Rajasthan,148712.0,95.0,19.0,Public,Semi-Urban,2026.0,8.0
+EV101150,2025-01-21,MG,Comet EV,Electric Bike,Kolkata,Kerala,335522.0,191.0,9.0,Public,Semi-Urban,2025.0,1.0
+EV101151,2024-04-28,Mahindra,BE 6,Electric Scooter,Bengaluru,Delhi,160036.0,87.0,4.0,Fast Charging,Rural,2024.0,4.0
+EV101152,2026-08-22,Mahindra,XEV 9e,Electric Scooter,Pune,West Bengal,250000.0,125.0,7.0,Fast Charging,Semi-Urban,2026.0,8.0
+EV101153,2024-03-04,Tata,Tiago EV,Electric Scooter,Jaipur,Uttar Pradesh,141085.0,98.0,20.0,Fast Charging,Semi-Urban,2024.0,3.0
+EV101154,2025-06-16,KIA,EV6,Electric Car,Lucknow,West Bengal,1343591.0,428.0,18.0,Home,Semi-Urban,2025.0,6.0
+EV101155,2024-05-28,Ather,Rizta,Electric Car,Bengaluru,Tamil Nadu,3320109.0,390.0,22.0,Fast Charging,Urban,2024.0,5.0
+EV101156,2025-11-12,Hyundai,Creta Electric,Electric Scooter,Kolkata,Maharashtra,171025.0,160.0,26.0,Fast Charging,Rural,2025.0,11.0
+EV101157,2026-05-18,MG,Comet EV,Electric Bike,Kolkata,West Bengal,131850.0,161.0,14.0,Home,Semi-Urban,2026.0,5.0
+EV101158,2026-04-09,OLA,S1 Pro,Electric Car,Chennai,Karnataka,3164842.0,528.0,34.0,Home,Rural,2026.0,4.0
+EV101159,2026-01-23,Mahindra,XEV 9e,Electric Bike,Mumbai,Karnataka,125601.0,226.0,8.0,Public,Semi-Urban,2026.0,1.0
+EV101160,2025-07-15,Hyundai,Kona Electric,Electric Car,Ahmedabad,Telangana,2615090.0,357.0,9.0,Fast Charging,Semi-Urban,2025.0,7.0
+EV101161,2025-06-24,OLA,S1 Pro,Electric Scooter,Kolkata,Gujarat,182068.0,112.0,29.0,Home,Rural,2025.0,6.0
+EV101162,2024-05-14,OLA,S1 Pro,Electric Bike,Chennai,West Bengal,304337.0,227.0,6.0,Home,Rural,2024.0,5.0
+EV101163,2024-05-20,Hyundai,Creta Electric,Electric Car,Hyderabad,Rajasthan,2204204.0,302.0,35.0,Home,Urban,2024.0,5.0
+EV101164,2025-10-28,Tata,XEV 9e,Electric Car,Mumbai,Telangana,3293120.0,485.0,25.0,Public,Urban,2025.0,10.0
+EV101165,2026-08-31,Hyundai,Ioniq 5,Electric Scooter,Ahmedabad,Karnataka,250000.0,209.0,2.0,Home,Semi-Urban,2026.0,8.0
+EV101166,2024-04-30,Hyundai,Kona Electric,Electric Bike,Kochi,Telangana,326370.0,181.0,5.0,Home,Rural,2024.0,4.0
+EV101167,2024-05-01,Mahindra,XUV400,Electric Scooter,Delhi,Kerala,122410.0,143.0,10.0,Public,Rural,2024.0,5.0
+EV101168,2026-03-07,OLA,S1 Pro,Electric Bike,Hyderabad,Kerala,193254.0,127.0,16.0,Public,Semi-Urban,2026.0,3.0
+EV101169,2024-03-25,MG,ZS EV,Electric Car,Pune,Rajasthan,3507964.0,449.0,37.0,Public,Urban,2024.0,3.0
+EV101170,2025-12-11,Ather,Rizta,Electric Car,Kolkata,Delhi,3609295.0,514.0,9.0,Home,Semi-Urban,2025.0,12.0
+EV101171,2025-08-08,OLA,S1 X,Electric Scooter,Nagpur,Delhi,76746.0,119.0,6.0,Public,Rural,2025.0,8.0
+EV101172,2025-07-23,Tata,Tiago EV,Electric Car,Kochi,Uttar Pradesh,5171659.0,385.0,8.0,Public,Rural,2025.0,7.0
+EV101173,2025-11-05,MG,ZS EV,Electric Scooter,Pune,Karnataka,185333.0,199.0,33.0,Public,Urban,2025.0,11.0
+EV101174,2024-05-05,Ather,Rizta,Electric Car,Mumbai,Karnataka,4997906.0,422.0,17.0,Public,Urban,2024.0,5.0
+EV101175,2024-03-27,BYD,Atto 3,Electric Car,Pune,Uttar Pradesh,5047561.0,305.0,6.0,Public,Urban,2024.0,3.0
+EV101176,2024-11-03,Tata,Nexon EV,Electric Car,Mumbai,Uttar Pradesh,3794927.0,560.0,12.0,Fast Charging,Rural,2024.0,11.0
+EV101177,2025-05-17,Hyundai,Creta Electric,Electric Scooter,Kolkata,Telangana,73187.0,148.0,13.0,Fast Charging,Rural,2025.0,5.0
+EV101178,2024-04-11,Mahindra,XEV 9e,Electric Scooter,Lucknow,Maharashtra,192977.0,106.0,68.0,Home,Urban,2024.0,4.0
+EV101179,2025-09-08,Mahindra,XUV400,Electric Car,Kochi,Tamil Nadu,2321966.0,429.0,19.0,Fast Charging,Urban,2025.0,9.0
+EV101180,2025-07-17,OLA,S1 Pro,Electric Scooter,Bengaluru,Gujarat,106521.0,127.0,26.0,Home,Semi-Urban,2025.0,7.0
+EV101181,2025-03-11,BYD,e6,Electric Scooter,Kolkata,Karnataka,90331.0,150.0,17.0,Home,Rural,2025.0,3.0
+EV101182,2025-01-16,Mahindra,XEV 9e,Electric Scooter,Jaipur,Uttar Pradesh,122731.0,161.0,9.0,Fast Charging,Urban,2025.0,1.0
+EV101183,2024-01-27,OLA,S1 X,Electric Car,Jaipur,Tamil Nadu,1907274.0,213.0,43.0,Home,Rural,2024.0,1.0
+EV101184,2024-03-08,Tesla,Model Y,Electric Car,Chennai,Delhi,4013782.0,332.0,11.0,Fast Charging,Semi-Urban,2024.0,3.0
+EV101185,2024-01-11,Mahindra,BE 6,Electric Car,Pune,Kerala,5500000.0,591.0,23.0,Home,Semi-Urban,2024.0,1.0
+EV101186,2025-06-23,MG,ZS EV,Electric Bike,Kolkata,Gujarat,350000.0,180.0,13.0,Fast Charging,Urban,2025.0,6.0
+EV101187,2024-10-04,BYD,e6,Electric Scooter,Jaipur,Delhi,149182.0,204.0,7.0,Home,Semi-Urban,2024.0,10.0
+EV101188,2024-12-19,OLA,S1 Pro,Electric Bike,Kolkata,Uttar Pradesh,350000.0,174.0,40.0,Fast Charging,Semi-Urban,2024.0,12.0
+EV101189,2025-12-04,BYD,Atto 3,Electric Scooter,Kochi,Karnataka,123297.0,169.0,26.0,Home,Semi-Urban,2025.0,12.0
+EV101190,2026-07-29,BYD,Atto 3,Electric Scooter,Kolkata,Telangana,150434.0,176.0,20.0,Home,Rural,2026.0,7.0
+EV101191,2025-03-25,Ather,450X,Electric Scooter,Chennai,Rajasthan,102997.0,145.0,11.0,Fast Charging,Semi-Urban,2025.0,3.0
+EV101192,2025-10-12,Mahindra,BE 6,Electric Scooter,Pune,Gujarat,148508.0,131.0,6.0,Fast Charging,Urban,2025.0,10.0
+EV101193,2026-08-25,MG,ZS EV,Electric Scooter,Pune,Karnataka,161587.0,156.0,6.0,Home,Rural,2026.0,8.0
+EV101194,2026-08-29,Ather,450X,Electric Car,Ahmedabad,Uttar Pradesh,1450773.0,572.0,14.0,Home,Semi-Urban,2026.0,8.0
+EV101195,2025-02-19,Tesla,Model 3,Electric Scooter,Mumbai,West Bengal,246448.0,99.0,10.0,Public,Urban,2025.0,2.0
+EV101196,2024-09-07,Tesla,Model Y,Electric Scooter,Kolkata,Uttar Pradesh,250000.0,141.0,19.0,Home,Rural,2024.0,9.0
+EV101197,2026-08-10,Hyundai,Creta Electric,Electric Car,Kochi,Tamil Nadu,3901224.0,253.0,16.0,Fast Charging,Urban,2026.0,8.0
+EV101198,2025-05-22,Tata,Tiago EV,Electric Scooter,Ahmedabad,Karnataka,93437.0,126.0,3.0,Home,Semi-Urban,2025.0,5.0
+EV101199,2026-05-21,Mahindra,XEV 9e,Electric Bike,Pune,Gujarat,350000.0,131.0,14.0,Fast Charging,Semi-Urban,2026.0,5.0
